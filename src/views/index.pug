@@ -1,0 +1,12 @@
+html
+  head
+    title= title
+  body
+    h1= title
+    h2 🇮🇸: #{word.fletta}
+    h2 🇸🇪: #{translations}
+    each example in word.examples
+      div(class='example')
+        p 🇮🇸: #{example.example}
+        p(class='example-translation') 🇸🇪 #{example.translation}
+    
