@@ -28,19 +28,12 @@ app.listen(port, () => {
 });
 
 function printWordOfTheDay(dateString: string) {
-  // for (const entry of usefulData) {
-//     const examples = entry.examples.map((ex: any) => {
-//         return `\n    ${ex.example} (${ex.translation})`;
-//     }).join('');
-//     console.log(`Fletta: ${entry.fletta} (${entry.translations.join(', ')})${examples}`);
-// }
-
   const wordOfTheDay = getWordOfTheDay(dateString);
   console.log(`Word of the Day for ${dateString}:`);
   console.log(`Fletta: ${wordOfTheDay.fletta}`);
   console.log(`Translations: ${wordOfTheDay.translations.join(', ')}`);
   console.log('Examples:');
   for (const example of wordOfTheDay.examples) {
-    console.log(`- ${example.example} (${example.translation})`);
+    console.log(`- ${example.is} (${example.se})`);
   }
 }

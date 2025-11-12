@@ -34,7 +34,7 @@ function processData(data: any[]) {
             flid: item.flid,
             fletta: item.fletta,
             translations: translations.map((t: any) => t.translation),
-            examples: examples
+            examples: examples.map((e: any) => ({ is: e.example, se: e.translation })),
         });
     }
     return returnData;
