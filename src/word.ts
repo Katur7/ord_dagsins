@@ -12,7 +12,7 @@ function daysBetween(startDate: string, currentDate: string): number {
 }
 
 // Main function: get the Word of the Day
-export function getWordOfTheDay(dateString: string) {
+export function getWordOfTheDay(dateString: string): WordOfTheDay {
   const startDate = "1991-12-07";
   const dayOffset = daysBetween(startDate, dateString);
 
@@ -29,3 +29,15 @@ export function getWordOfTheDay(dateString: string) {
 // for (const example of wordOfTheDay.examples) {
 //   console.log(`- ${example.example} (${example.translation})`);
 // }
+
+export interface WordOfTheDay {
+  flid: number;
+  fletta: string;
+  translations: string[];
+  examples: Example[];
+}
+
+export interface Example {
+  is: string;
+  se: string;
+}
