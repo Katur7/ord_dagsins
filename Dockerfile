@@ -1,6 +1,7 @@
 FROM node:22-slim AS base
 WORKDIR /usr/local/app
 ENV NODE_ENV=production
+ENV TZ=Europe/Stockholm
 
 COPY package.json package-lock.json ./
 RUN npm ci --production
