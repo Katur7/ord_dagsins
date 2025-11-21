@@ -1,5 +1,7 @@
 import fs from 'fs';
 
+const ignoreList = fs.readFileSync('./src/ignore.txt', 'utf-8').split('\n').map(line => line.trim()).filter(line => line.length > 0);
+
 // Utility: simple deterministic pseudo-random generator (LCG)
 function seededRandom(seed: number) {
   let value = seed % 2147483647;
@@ -36,6 +38,8 @@ const words = JSON.parse(json);
 
 const seed = hashStringToSeed('WORD');
 const shuffledArray = deterministicShuffle(words, seed);
+const finalArray = shuffledArray.filter((item: any) => !ignoreList.includes(item.fletta));
+console.log(finalArray.length);
 
-const shuffledJson = JSON.stringify(shuffledArray, null, 2);
+const shuffledJson = JSON.stringify(finalArray, null, 2);
 fs.writeFileSync('./processed/shuffled.json', shuffledJson, 'utf-8');

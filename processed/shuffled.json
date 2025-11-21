@@ -209900,19 +209900,6 @@
     ]
   },
   {
-    "flid": 18336,
-    "fletta": "he he",
-    "translations": [
-      "haha"
-    ],
-    "examples": [
-      {
-        "is": "he he, hvað þetta er fyndið!",
-        "se": "haha, vad roligt!"
-      }
-    ]
-  },
-  {
     "flid": 14049,
     "fletta": "fullfrískur",
     "translations": [
@@ -247622,20 +247609,6 @@
       {
         "is": "hún sýndi ráðherranum vanvirðingu",
         "se": "hon visade missaktning mot ministern"
-      }
-    ]
-  },
-  {
-    "flid": 18389,
-    "fletta": "hei",
-    "translations": [
-      "hej",
-      "du"
-    ],
-    "examples": [
-      {
-        "is": "hei, getur einhver lánað mér pening?",
-        "se": "hej, kan nån låna mig lite pengar?"
       }
     ]
   },
