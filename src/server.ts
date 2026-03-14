@@ -6,6 +6,7 @@ const port = 3000;
 
 app.set('views', './src/views');
 app.set('view engine', 'pug')
+app.use('/styles', express.static('./src/styles'));
 
 app.get('/', (req: express.Request, res: express.Response) => {
   const dateParam = req.query.date as string | undefined;

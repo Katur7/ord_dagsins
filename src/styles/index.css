@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=Fraunces:opsz,wght@9..144,700&display=swap');
+
+:root {
+  --page-padding: 20px;
+  --radius-lg: 24px;
+  --radius-md: 18px;
+  --card-width: 450px;
+
+  --bg-color: #efebe2;
+  --bg-color-soft: #f9f6f1;
+  --text-main: #1b1d22;
+  --text-sub: #66707d;
+  --accent: #0f4c8a;
+  --card-bg: #ffffff;
+  --card-border: #e5e8ef;
+  --card-shadow: 0 14px 34px rgba(15, 20, 38, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Manrope', sans-serif;
+  color: var(--text-main);
+  margin: 0;
+  padding: var(--page-padding);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  background:
+    radial-gradient(circle at 12% 18%, rgba(255, 255, 255, 0.75), transparent 45%),
+    radial-gradient(circle at 82% 0%, rgba(14, 76, 138, 0.08), transparent 35%),
+    linear-gradient(175deg, var(--bg-color), var(--bg-color-soft));
+}
+
+.date-header {
+  font-size: clamp(1.35rem, 5vw, 1.8rem);
+  color: var(--text-sub);
+  margin: 8px 0 2px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.hero-card,
+.example-card {
+  width: 100%;
+  max-width: var(--card-width);
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  box-shadow: var(--card-shadow);
+}
+
+.hero-card {
+  border-radius: var(--radius-lg);
+  padding: 1.2rem 1.4rem;
+}
+
+.hero-card hr {
+  border: none;
+  border-top: 1px solid var(--card-border);
+  margin: 0.85rem 0;
+}
+
+.word-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.flag {
+  font-size: 1.55rem;
+  line-height: 1;
+}
+
+.main-word {
+  font-family: 'Fraunces', serif;
+  font-size: clamp(2.4rem, 10.5vw, 3.35rem);
+  font-weight: 700;
+  color: var(--accent);
+  margin: 0;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+}
+
+.translations {
+  font-size: 1.03rem;
+  line-height: 1.4;
+  color: var(--text-main);
+  margin: 0;
+}
+
+.example-card {
+  border-radius: var(--radius-md);
+  padding: 1rem 1.2rem;
+}
+
+.sentence {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 1rem;
+  line-height: 1.42;
+}
+
+.translation {
+  color: var(--text-sub);
+  font-size: 0.95rem;
+  line-height: 1.42;
+}
+
+@media (max-width: 520px) {
+  body {
+    padding: 12px;
+  }
+
+  .hero-card {
+    padding: 1rem 1rem;
+  }
+
+  .example-card {
+    padding: 0.95rem 1rem;
+  }
+}
