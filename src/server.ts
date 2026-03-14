@@ -23,9 +23,14 @@ app.get('/', (req: express.Request, res: express.Response) => {
     res.send({  date: dateString, ...word, examples: shuffledExamples });
   } else {
     res.type('text/html');
-    const title = `Orð dagsins ${dateString}`;
     const translations = word.translations.join(', ');
-    res.render('index', { title, word, translations });
+    const opts = {
+      date: dateString,
+      wordIs: word.fletta,
+      wordSe: translations,
+      examples: shuffledExamples
+    }
+    res.render('index', opts);
   }
 });
 
