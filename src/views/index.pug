@@ -12,16 +12,20 @@ html(lang="is")
 
     main.hero-card
       .word-group
-        span.flag 🇮🇸
+        span.flag(role="img", aria-label="Íslenska") 🇮🇸
         h1.main-word #{wordIs}
 
       hr
       
       .word-group
-        span.flag 🇸🇪
+        span.flag(role="img", aria-label="Sænska") 🇸🇪
         p.translations #{wordSe}
 
     each example in examples
       section.example-card
-        span.sentence 🇮🇸 #{example.is}
-        span.translation 🇸🇪 #{example.se}
+        span.sentence
+          span.flag(role="img", aria-label="Íslenska") 🇮🇸
+          span.line-text #{example.is}
+        span.translation
+          span.flag(role="img", aria-label="Sænska") 🇸🇪
+          span.line-text #{example.se}

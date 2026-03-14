@@ -9,7 +9,7 @@
   --bg-color: #efebe2;
   --bg-color-soft: #f9f6f1;
   --text-main: #1b1d22;
-  --text-sub: #66707d;
+  --text-sub: #58616d;
   --accent: #0f4c8a;
   --card-bg: #ffffff;
   --card-border: #e5e8ef;
@@ -29,7 +29,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 14px;
+  gap: 12px;
   background:
     radial-gradient(circle at 12% 18%, rgba(255, 255, 255, 0.75), transparent 45%),
     radial-gradient(circle at 82% 0%, rgba(14, 76, 138, 0.08), transparent 35%),
@@ -39,7 +39,7 @@ body {
 .date-header {
   font-size: clamp(1.35rem, 5vw, 1.8rem);
   color: var(--text-sub);
-  margin: 8px 0 2px;
+  margin: 8px 0 1px;
   font-weight: 700;
   letter-spacing: -0.01em;
 }
@@ -50,12 +50,13 @@ body {
   max-width: var(--card-width);
   background: var(--card-bg);
   border: 1px solid var(--card-border);
-  box-shadow: var(--card-shadow);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.75), var(--card-shadow);
 }
 
 .hero-card {
   border-radius: var(--radius-lg);
   padding: 1.2rem 1.4rem;
+  margin-bottom: 6px;
 }
 
 .hero-card hr {
@@ -91,6 +92,7 @@ body {
   line-height: 1.4;
   color: var(--text-main);
   margin: 0;
+  overflow-wrap: anywhere;
 }
 
 .example-card {
@@ -99,21 +101,42 @@ body {
 }
 
 .sentence {
-  display: block;
+  display: grid;
+  grid-template-columns: 1.6rem 1fr;
+  align-items: center;
+  column-gap: 10px;
   margin-bottom: 8px;
   font-size: 1rem;
   line-height: 1.42;
 }
 
 .translation {
+  display: grid;
+  grid-template-columns: 1.6rem 1fr;
+  align-items: center;
+  column-gap: 10px;
   color: var(--text-sub);
   font-size: 0.95rem;
   line-height: 1.42;
+  overflow-wrap: anywhere;
+}
+
+.sentence .flag,
+.translation .flag {
+  justify-self: center;
+}
+
+.line-text {
+  min-width: 0;
 }
 
 @media (max-width: 520px) {
   body {
     padding: 12px;
+  }
+
+  .date-header {
+    margin: 4px 0 0;
   }
 
   .hero-card {
