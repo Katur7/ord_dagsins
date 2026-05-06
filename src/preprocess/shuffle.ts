@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const ignoreList = fs.readFileSync('./src/ignore.txt', 'utf-8').split('\n').map(line => line.trim()).filter(line => line.length > 0);
+const ignoreList = fs.readFileSync('./src/preprocess/ignore.txt', 'utf-8').split('\n').map(line => line.trim()).filter(line => line.length > 0);
 
 // Utility: simple deterministic pseudo-random generator (LCG)
 function seededRandom(seed: number) {
