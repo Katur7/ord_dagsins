@@ -4,7 +4,7 @@ const json = fs.readFileSync('./processed/shuffled.json', 'utf-8');
 const words = JSON.parse(json);
 
 // Compute day offset since a fixed start date
-function daysBetween(startDate: string, currentDate: string): number {
+export function daysBetween(startDate: string, currentDate: string): number {
   const start = new Date(startDate);
   const current = new Date(currentDate);
   const diff = current.getTime() - start.getTime();
