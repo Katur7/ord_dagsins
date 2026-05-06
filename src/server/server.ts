@@ -4,9 +4,9 @@ import { getWordOfTheDay } from './word.ts';
 const app = express();
 const port = 3000;
 
-app.set('views', './src/views');
+app.set('views', './src/server/views');
 app.set('view engine', 'pug')
-app.use('/styles', express.static('./src/styles'));
+app.use('/styles', express.static('./src/server/styles'));
 
 app.get('/', (req: express.Request, res: express.Response) => {
   const dateParam = req.query.date as string | undefined;

@@ -9,4 +9,4 @@ COPY src ./src
 COPY processed/shuffled.json ./processed/shuffled.json
 
 EXPOSE 3000
-CMD ["node", "src/server.ts"]
+CMD ["node", "src/server/server.ts"]

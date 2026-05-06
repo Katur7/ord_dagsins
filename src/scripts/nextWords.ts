@@ -1,4 +1,4 @@
-import { getWordOfTheDay } from './word.ts'
+import { getWordOfTheDay } from '../server/word.ts'
 
 let today = new Date();
 for(let i = 0; i < 100; i++) {
