@@ -249,8 +249,6 @@
     "translations": [
       "avsluta",
       "sluta",
-      "sluta",
-      "avsluta",
       "hamna"
     ],
     "examples": [
@@ -1239,7 +1237,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "valp",
       "valp"
     ],
     "examples": [
@@ -1932,7 +1929,6 @@
       "det ena",
       "annan",
       "övrig",
-      "annan",
       "en till",
       "flera"
     ],
@@ -2047,8 +2043,7 @@
     "stuttbeyg": null,
     "translations": [
       "inkarnation",
-      "förkroppsligande",
-      "inkarnation"
+      "förkroppsligande"
     ],
     "examples": [
       {
@@ -2502,8 +2497,6 @@
       "ful",
       "dålig",
       "idiotisk",
-      "ful",
-      "dålig",
       "elak"
     ],
     "examples": [
@@ -2647,7 +2640,6 @@
     "stuttbeyg": null,
     "translations": [
       "vilt djur",
-      "vilddjur",
       "vilddjur",
       "rovdjur"
     ],
@@ -2948,7 +2940,6 @@
     "stuttbeyg": "ég beygi, hann beygir; hann beygði; hann hefur beygt",
     "translations": [
       "svänga",
-      "böja",
       "böja"
     ],
     "examples": [
@@ -3497,8 +3488,7 @@
     "stuttbeyg": null,
     "translations": [
       "måltavla",
-      "(angrepps)mål",
-      "måltavla"
+      "(angrepps)mål"
     ],
     "examples": [
       {
@@ -3763,7 +3753,6 @@
     "gender": null,
     "stuttbeyg": "hann er ómálaður, hún er ómáluð, það er ómálað",
     "translations": [
-      "omålad",
       "omålad",
       "osminkad"
     ],
@@ -4275,8 +4264,7 @@
     "translations": [
       "enligt lag",
       "enligt",
-      "i enlighet med",
-      "enligt"
+      "i enlighet med"
     ],
     "examples": [
       {
@@ -4695,7 +4683,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "korståg",
       "korståg"
     ],
     "examples": [
@@ -4738,8 +4725,7 @@
     "stuttbeyg": null,
     "translations": [
       "redaktion",
-      "redigering",
-      "redaktion"
+      "redigering"
     ],
     "examples": [
       {
@@ -5048,7 +5034,6 @@
       "smal",
       "tunn",
       "fin",
-      "smal",
       "grann"
     ],
     "examples": [
@@ -5491,14 +5476,9 @@
       "sträng",
       "tapper",
       "hård",
-      "hård",
       "kraftig",
       "stark",
-      "svår",
-      "sträng",
-      "hård",
-      "sträng",
-      "hård"
+      "svår"
     ],
     "examples": [
       {
@@ -5704,9 +5684,7 @@
       "stor",
       "lång",
       "omfattande",
-      "stor",
-      "viktig",
-      "stor"
+      "viktig"
     ],
     "examples": [
       {
@@ -5956,8 +5934,7 @@
     "translations": [
       "modern människa",
       "nutidsmänniska",
-      "homo sapiens",
-      "modern människa"
+      "homo sapiens"
     ],
     "examples": [
       {
@@ -6432,7 +6409,6 @@
     "gender": null,
     "stuttbeyg": "ég predika, við predikum; hann predikaði; hann hefur predikað",
     "translations": [
-      "predika",
       "predika",
       "mässa"
     ],
@@ -6919,7 +6895,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "helighet",
       "helighet"
     ],
     "examples": [
@@ -6936,7 +6911,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "åsna",
       "åsna",
       "idiot",
       "jubelåsna"
@@ -7305,7 +7279,6 @@
     "translations": [
       "träkloss",
       "block",
-      "block",
       "talja"
     ],
     "examples": [
@@ -7395,11 +7368,9 @@
     "translations": [
       "smidig",
       "flink",
-      "smidig",
       "tillmötesgående",
       "medgörlig",
-      "behändig",
-      "smidig"
+      "behändig"
     ],
     "examples": [
       {
@@ -8085,8 +8056,7 @@
     "stuttbeyg": null,
     "translations": [
       "upplösning",
-      "lösning",
-      "upplösning"
+      "lösning"
     ],
     "examples": [
       {
@@ -8499,7 +8469,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "vänster",
       "vänster"
     ],
     "examples": [
@@ -8725,7 +8694,6 @@
     "gender": null,
     "stuttbeyg": "ég stimpla, við stimplum; hann stimplaði; hann hefur stimplað",
     "translations": [
-      "stämpla",
       "stämpla",
       "betrakta"
     ],
@@ -9397,10 +9365,8 @@
     "translations": [
       "bekräftelse",
       "erkännande",
-      "erkännande",
       "medgivande",
-      "utmärkelse",
-      "erkännande"
+      "utmärkelse"
     ],
     "examples": [
       {
@@ -9440,7 +9406,6 @@
     "gender": "f",
     "stuttbeyg": "",
     "translations": [
-      "allätare",
       "allätare"
     ],
     "examples": [
@@ -9481,8 +9446,7 @@
     "translations": [
       "stark",
       "säker",
-      "självsäker",
-      "säker"
+      "självsäker"
     ],
     "examples": [
       {
@@ -9973,7 +9937,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "förkortning",
       "förkortning"
     ],
     "examples": [
@@ -10245,7 +10208,6 @@
     "translations": [
       "neka",
       "förneka",
-      "vägra",
       "vägra",
       "avslå"
     ],
@@ -11087,11 +11049,8 @@
     "translations": [
       "bita",
       "bitas",
-      "bita",
       "verka",
-      "ta",
-      "bita",
-      "bita"
+      "ta"
     ],
     "examples": [
       {
@@ -11504,7 +11463,6 @@
     "translations": [
       "billig",
       "simpel",
-      "billig",
       "lättköpt"
     ],
     "examples": [
@@ -12480,8 +12438,6 @@
     "translations": [
       "naken",
       "bar",
-      "naken",
-      "naken",
       "oförblommerad"
     ],
     "examples": [
@@ -12991,8 +12947,6 @@
       "verksam",
       "verkande",
       "aktiv",
-      "aktiv",
-      "verksam",
       "vardag"
     ],
     "examples": [
@@ -13275,8 +13229,7 @@
     "stuttbeyg": "ég girnist, hann girnist; hann girntist; hann hefur girnst",
     "translations": [
       "begära",
-      "önska",
-      "begära"
+      "önska"
     ],
     "examples": [
       {
@@ -14100,7 +14053,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "lyckodag",
       "lyckodag"
     ],
     "examples": [
@@ -14258,11 +14210,9 @@
     "stuttbeyg": "ég felli, hann fellir; hann felldi; hann hefur fellt",
     "translations": [
       "fälla",
-      "fälla",
       "döda",
       "kugga",
-      "rösta ned",
-      "fälla"
+      "rösta ned"
     ],
     "examples": [
       {
@@ -14478,7 +14428,6 @@
       "gles",
       "lättflytande",
       "tunnflytande",
-      "tunn",
       "lös",
       "svag",
       "blaskig",
@@ -14486,7 +14435,6 @@
       "blåst",
       "bakom flötet",
       "innehållslös",
-      "tunn",
       "mager"
     ],
     "examples": [
@@ -14710,7 +14658,6 @@
       "gå",
       "åka",
       "avgå",
-      "gå",
       "sluta",
       "avlöpa",
       "vara klädsam",
@@ -14719,8 +14666,7 @@
       "börja",
       "sätta igång",
       "dra",
-      "bli",
-      "gå"
+      "bli"
     ],
     "examples": [
       {
@@ -15038,7 +14984,6 @@
       "äkta man",
       "människa",
       "person",
-      "man",
       "karl"
     ],
     "examples": [
@@ -15702,9 +15647,7 @@
       "hårdnackad",
       "rigid",
       "hård",
-      "styv",
-      "sträng",
-      "hård"
+      "sträng"
     ],
     "examples": [
       {
@@ -15798,7 +15741,6 @@
     "gender": null,
     "stuttbeyg": "ég sýð, hann sýður; hann sauð, við suðum; hann hefur soðið",
     "translations": [
-      "koka",
       "koka",
       "sjuda"
     ],
@@ -16177,8 +16119,7 @@
     "translations": [
       "skändlig",
       "ogudaktig",
-      "gudlös",
-      "ogudaktig"
+      "gudlös"
     ],
     "examples": [
       {
@@ -16770,7 +16711,6 @@
     "gender": null,
     "stuttbeyg": "hann er hraðvirkur, hún er hraðvirk, það er hraðvirkt; hraðvirkur - hraðvirkari - hraðvirkastur",
     "translations": [
-      "snabb",
       "snabb"
     ],
     "examples": [
@@ -17263,7 +17203,6 @@
     "translations": [
       "rännande",
       "spring",
-      "rännande",
       "trafik"
     ],
     "examples": [
@@ -17730,7 +17669,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "källa",
       "källa"
     ],
     "examples": [
@@ -18389,7 +18327,6 @@
     "gender": null,
     "stuttbeyg": "hann er óöruggur, hún er óörugg, það er óöruggt; óöruggur - óöruggari - óöruggastur",
     "translations": [
-      "osäker",
       "osäker"
     ],
     "examples": [
@@ -18525,8 +18462,7 @@
     "translations": [
       "hemsk",
       "förskräcklig",
-      "riktig",
-      "hemsk"
+      "riktig"
     ],
     "examples": [
       {
@@ -19105,7 +19041,6 @@
     "translations": [
       "trött",
       "uttröttad",
-      "trött",
       "uttråkad",
       "utled"
     ],
@@ -19418,7 +19353,6 @@
     "stuttbeyg": null,
     "translations": [
       "frälsare",
-      "frälsare",
       "räddare",
       "guru"
     ],
@@ -19604,8 +19538,6 @@
       "vilken",
       "vad för en",
       "vad för någon",
-      "vilken",
-      "vilken",
       "sån",
       "varje"
     ],
@@ -20627,7 +20559,6 @@
     "stuttbeyg": "hann er fjórfaldur, hún er fjórföld, það er fjórfalt",
     "translations": [
       "fyrfaldig",
-      "fyrdubbel",
       "fyrdubbel"
     ],
     "examples": [
@@ -21228,8 +21159,7 @@
     "translations": [
       "fladdra",
       "flacka",
-      "vackla",
-      "flacka"
+      "vackla"
     ],
     "examples": [
       {
@@ -21661,7 +21591,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "slagsida",
       "slagsida"
     ],
     "examples": [
@@ -21968,7 +21897,6 @@
       "stor",
       "välnärd",
       "praktfull",
-      "stor",
       "rejäl"
     ],
     "examples": [
@@ -22313,8 +22241,7 @@
       "klottra",
       "kladda",
       "skriva",
-      "krafsa ner",
-      "klottra"
+      "krafsa ner"
     ],
     "examples": [
       {
@@ -22850,7 +22777,6 @@
     "translations": [
       "lågt",
       "tyst",
-      "lågt",
       "långt nere"
     ],
     "examples": [
@@ -22991,9 +22917,7 @@
     "translations": [
       "ringa",
       "ringa på",
-      "ringa",
-      "telefonera",
-      "ringa"
+      "telefonera"
     ],
     "examples": [
       {
@@ -23318,7 +23242,6 @@
     "translations": [
       "förlängning",
       "stopptid",
-      "förlängning",
       "-förlängare",
       "förlängnings-"
     ],
@@ -23340,7 +23263,6 @@
     "gender": null,
     "stuttbeyg": "hann er listrænn, hún er listræn, það er listrænt; listrænn - listrænni - listrænastur",
     "translations": [
-      "konstnärlig",
       "konstnärlig"
     ],
     "examples": [
@@ -24493,7 +24415,6 @@
     "stuttbeyg": "ég viðurkenni, hann viðurkennir; hann viðurkenndi; hann hefur viðurkennt",
     "translations": [
       "erkänna",
-      "erkänna",
       "knäsätta"
     ],
     "examples": [
@@ -25063,9 +24984,6 @@
     "gender": null,
     "stuttbeyg": "hann hangir; hann hékk, við héngum; hann hefur hangið",
     "translations": [
-      "hänga",
-      "hänga",
-      "hänga",
       "hänga"
     ],
     "examples": [
@@ -25555,8 +25473,7 @@
       "svår",
       "trög",
       "långsam",
-      "ovillig",
-      "trög"
+      "ovillig"
     ],
     "examples": [
       {
@@ -25832,7 +25749,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "motiv",
       "motiv"
     ],
     "examples": [
@@ -25853,7 +25769,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "svar",
       "svar",
       "reaktion"
     ],
@@ -25890,7 +25805,6 @@
       "röd",
       "vänsterorienterad",
       "radikal",
-      "röd",
       "fux"
     ],
     "examples": [
@@ -25908,8 +25822,7 @@
     "stuttbeyg": "hann er grámyglulegur, hún er grámygluleg, það er grámyglulegt; grámyglulegur - grámyglulegri - grámyglulegastur",
     "translations": [
       "grådaskig",
-      "gråtrist",
-      "grådaskig"
+      "gråtrist"
     ],
     "examples": [
       {
@@ -25926,8 +25839,7 @@
     "stuttbeyg": "hann er ungur, hún er ung, það er ungt; ungur - yngri - yngstur",
     "translations": [
       "ung",
-      "ny",
-      "ung"
+      "ny"
     ],
     "examples": [
       {
@@ -26068,13 +25980,6 @@
     "translations": [
       "min",
       "mitt",
-      "min",
-      "mitt",
-      "min",
-      "mitt",
-      "min",
-      "mitt",
-      "min",
       "jag"
     ],
     "examples": [
@@ -26476,8 +26381,7 @@
     "stuttbeyg": null,
     "translations": [
       "bakgrund",
-      "fond",
-      "bakgrund"
+      "fond"
     ],
     "examples": [
       {
@@ -26558,7 +26462,6 @@
     "translations": [
       "blek",
       "gråaktig",
-      "blek",
       "gråsiktig"
     ],
     "examples": [
@@ -26973,8 +26876,7 @@
     "translations": [
       "stilla",
       "orörlig",
-      "lugn",
-      "stilla"
+      "lugn"
     ],
     "examples": [
       {
@@ -27043,9 +26945,7 @@
       "elegant",
       "bra",
       "stilig",
-      "tjusig",
-      "elegant",
-      "snygg"
+      "tjusig"
     ],
     "examples": [
       {
@@ -27071,8 +26971,6 @@
     "translations": [
       "bli",
       "komma att",
-      "bli",
-      "bli",
       "måste",
       "tvingas"
     ],
@@ -27899,7 +27797,6 @@
       "teddy",
       "body",
       "bodystocking",
-      "body",
       "kjol",
       "sammanfogning",
       "helhet"
@@ -27983,7 +27880,6 @@
       "tillförlitlig",
       "vederhäftig",
       "pålitlig",
-      "stabil",
       "rekorderlig"
     ],
     "examples": [
@@ -28527,7 +28423,6 @@
     "stuttbeyg": "hann er huglægur, hún er huglæg, það er huglægt; huglægur - huglægari - huglægastur",
     "translations": [
       "idémässig",
-      "subjektiv",
       "subjektiv"
     ],
     "examples": [
@@ -28799,7 +28694,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "svaghet",
       "svaghet"
     ],
     "examples": [
@@ -28997,8 +28891,6 @@
       "falla ifrån",
       "räcka",
       "täcka",
-      "räcka",
-      "täcka",
       "spritta till",
       "rycka till",
       "gå sönder",
@@ -29181,7 +29073,6 @@
       "förvara",
       "spara",
       "bevara",
-      "förvara",
       "innehålla"
     ],
     "examples": [
@@ -29839,7 +29730,6 @@
     "translations": [
       "rörelse",
       "folkrörelse",
-      "rörelse",
       "intresseförening"
     ],
     "examples": [
@@ -30349,7 +30239,6 @@
     "stuttbeyg": "hann er víður, hún er víð, það er vítt; víður - víðari - víðastur",
     "translations": [
       "bred",
-      "vid",
       "vid"
     ],
     "examples": [
@@ -30508,8 +30397,7 @@
     "translations": [
       "förvärras",
       "försämras",
-      "bli sämre",
-      "försämras"
+      "bli sämre"
     ],
     "examples": [
       {
@@ -30788,7 +30676,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "djupt",
       "djupt"
     ],
     "examples": [
@@ -30968,7 +30855,6 @@
       "kasta ut <honom>",
       "relegera <henne>",
       "överklaga en dom till högsta domstolen",
-      "avvisa <det här>",
       "avvisa <det här>",
       "förneka <det här>",
       "åberopa <regelverket>",
@@ -31380,7 +31266,6 @@
     "translations": [
       "omöjlig",
       "orimlig",
-      "omöjlig",
       "dålig"
     ],
     "examples": [
@@ -31659,7 +31544,6 @@
       "säga",
       "berätta",
       "tala om",
-      "säga",
       "visa",
       "säga till",
       "meddela"
@@ -31846,8 +31730,7 @@
     "stuttbeyg": "hann er hrár, hún er hrá, það er hrátt; hrár - hrárri - hráastur",
     "translations": [
       "rå",
-      "ofärdig",
-      "rå"
+      "ofärdig"
     ],
     "examples": [
       {
@@ -31942,7 +31825,6 @@
       "ovädersby",
       "våg",
       "set",
-      "våg",
       "serie"
     ],
     "examples": [
@@ -31977,8 +31859,7 @@
     "translations": [
       "bensintank",
       "tank",
-      "bensincistern",
-      "bensintank"
+      "bensincistern"
     ],
     "examples": [
       {
@@ -32171,8 +32052,7 @@
       "ljudkassett",
       "videoband",
       "film",
-      "filmrulle",
-      "rulle"
+      "filmrulle"
     ],
     "examples": [
       {
@@ -32223,9 +32103,7 @@
     "translations": [
       "mild",
       "skonsam",
-      "nådig",
-      "mild",
-      "mild"
+      "nådig"
     ],
     "examples": [
       {
@@ -32585,15 +32463,12 @@
     "translations": [
       "spara (på)",
       "ta hand om",
-      "ta hand om",
       "ta rätt på",
       "plocka upp",
       "forsla bort",
       "hämta",
       "sköta",
       "sköta sig",
-      "ta hand om",
-      "sköta",
       "bry sig om",
       "ta ansvar för"
     ],
@@ -32989,7 +32864,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "dam",
       "dam"
     ],
     "examples": [
@@ -33188,7 +33062,6 @@
     "stuttbeyg": null,
     "translations": [
       "ventilation",
-      "ventilation",
       "luftkonditionering",
       "AC"
     ],
@@ -33262,8 +33135,7 @@
       "idiot",
       "dåre",
       "förståndshandikappad",
-      "byfåne",
-      "idiot"
+      "byfåne"
     ],
     "examples": [
       {
@@ -33530,11 +33402,8 @@
       "blad",
       "pappersark",
       "ark",
-      "blad",
       "tidning",
-      "tidskrift",
-      "blad",
-      "blad"
+      "tidskrift"
     ],
     "examples": [
       {
@@ -33686,7 +33555,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "någon",
       "någon",
       "ingen",
       "några",
@@ -33854,7 +33722,6 @@
     "stuttbeyg": "hann er slappur, hún er slöpp, það er slappt; slappur - slappari - slappastur",
     "translations": [
       "krasslig",
-      "dålig",
       "dålig",
       "skral"
     ],
@@ -34747,8 +34614,7 @@
     "translations": [
       "mest",
       "helst",
-      "huvudsakligen",
-      "mest"
+      "huvudsakligen"
     ],
     "examples": [
       {
@@ -35087,8 +34953,7 @@
       "gäng",
       "parti",
       "klass",
-      "kategori",
-      "klass"
+      "kategori"
     ],
     "examples": [
       {
@@ -35631,14 +35496,12 @@
       "veck",
       "pressveck",
       "förbrytelse",
-      "brott",
       "vadställe",
       "vad",
       "format",
       "bråk",
       "bråkdel",
-      "fraktur",
-      "brott"
+      "fraktur"
     ],
     "examples": [
       {
@@ -35759,7 +35622,6 @@
     "stuttbeyg": "hann er manneskjulegur, hún er manneskjuleg, það er manneskjulegt; manneskjulegur - manneskjulegri - manneskjulegastur",
     "translations": [
       "sympatisk",
-      "mänsklig",
       "mänsklig"
     ],
     "examples": [
@@ -36082,21 +35944,12 @@
     "stuttbeyg": null,
     "translations": [
       "vem",
-      "vem",
-      "vem",
       "vilken",
-      "vem",
-      "vad",
-      "vilken",
-      "vilken",
-      "vad",
       "vad",
       "var",
       "var och en",
       "envar",
-      "varje",
-      "var",
-      "var"
+      "varje"
     ],
     "examples": [
       {
@@ -36416,8 +36269,6 @@
     "stuttbeyg": null,
     "translations": [
       "bomskott",
-      "bom",
-      "miss",
       "bom",
       "miss"
     ],
@@ -37781,8 +37632,7 @@
     "stuttbeyg": "ég ríma, við rímum; hann rímaði; hann hefur rímað",
     "translations": [
       "rimma",
-      "passa",
-      "rimma"
+      "passa"
     ],
     "examples": [
       {
@@ -37971,8 +37821,7 @@
     "translations": [
       "uppehålla sig",
       "bo",
-      "vistas",
-      "uppehålla sig"
+      "vistas"
     ],
     "examples": [
       {
@@ -38913,8 +38762,7 @@
     "translations": [
       "snabb",
       "rask",
-      "hastig",
-      "snabb"
+      "hastig"
     ],
     "examples": [
       {
@@ -39130,7 +38978,6 @@
     "translations": [
       "chans",
       "möjlighet",
-      "chans",
       "risk",
       "flört"
     ],
@@ -39342,7 +39189,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "skörd",
       "skörd"
     ],
     "examples": [
@@ -39365,10 +39211,8 @@
     "translations": [
       "ha",
       "äga",
-      "ha",
       "delta",
       "medverka",
-      "skola",
       "skola",
       "föda",
       "nedkomma",
@@ -40782,7 +40626,6 @@
     "stuttbeyg": "ég sverti, hann svertir; hann sverti; hann hefur svert",
     "translations": [
       "svärta",
-      "svärta",
       "förtala",
       "svartmåla",
       "diskreditera"
@@ -40991,8 +40834,7 @@
     "stuttbeyg": null,
     "translations": [
       "kritik",
-      "recension",
-      "kritik"
+      "recension"
     ],
     "examples": [
       {
@@ -41200,7 +41042,6 @@
       "mager",
       "avmagrad",
       "kalorifattig",
-      "mager",
       "lätt"
     ],
     "examples": [
@@ -41765,7 +41606,6 @@
     "translations": [
       "sann",
       "äkta",
-      "sann",
       "autentisk"
     ],
     "examples": [
@@ -42711,9 +42551,7 @@
     "translations": [
       "längd",
       "longitud",
-      "längdgrad",
-      "längd",
-      "längd"
+      "längdgrad"
     ],
     "examples": [
       {
@@ -43204,7 +43042,6 @@
     "translations": [
       "kritiker",
       "häcklare",
-      "kritiker",
       "recensent"
     ],
     "examples": [
@@ -43222,9 +43059,7 @@
     "stuttbeyg": null,
     "translations": [
       "kurs",
-      "kurs",
-      "valutakurs",
-      "kurs"
+      "valutakurs"
     ],
     "examples": [
       {
@@ -43586,11 +43421,9 @@
     "stuttbeyg": null,
     "translations": [
       "rad",
-      "rad",
       "tråd",
       "lina",
       "långrev",
-      "lina",
       "kurs"
     ],
     "examples": [
@@ -44033,7 +43866,6 @@
       "sålla",
       "sikta",
       "sila",
-      "sikta",
       "måtta"
     ],
     "examples": [
@@ -44084,7 +43916,6 @@
     "translations": [
       "snabb",
       "plötslig",
-      "snabb",
       "snaggad"
     ],
     "examples": [
@@ -44303,7 +44134,6 @@
     "gender": null,
     "stuttbeyg": "ég misþyrmi, hann misþyrmir; hann misþyrmdi; hann hefur misþyrmt",
     "translations": [
-      "misshandla",
       "misshandla",
       "rådbråka"
     ],
@@ -44587,7 +44417,6 @@
     "gender": null,
     "stuttbeyg": "ég erfi, hann erfir; hann erfði; hann hefur erft",
     "translations": [
-      "ärva",
       "ärva"
     ],
     "examples": [
@@ -45020,7 +44849,6 @@
     "translations": [
       "livlös",
       "steril",
-      "livlös",
       "ofruktbar"
     ],
     "examples": [
@@ -45591,8 +45419,7 @@
     "stuttbeyg": null,
     "translations": [
       "fenomen",
-      "företeelse",
-      "fenomen"
+      "företeelse"
     ],
     "examples": [
       {
@@ -45635,7 +45462,6 @@
     "stuttbeyg": null,
     "translations": [
       "ensemblespel",
-      "samspel",
       "samspel"
     ],
     "examples": [
@@ -45809,7 +45635,6 @@
     "stuttbeyg": "ég rækta, við ræktum; hann ræktaði; hann hefur ræktað",
     "translations": [
       "odla",
-      "odla",
       "kultivera",
       "utveckla"
     ],
@@ -45933,9 +45758,7 @@
       "saktfärdig",
       "naiv",
       "blåögd",
-      "enkel",
-      "okomplicerad",
-      "enkel"
+      "okomplicerad"
     ],
     "examples": [
       {
@@ -46613,7 +46436,6 @@
       "galenskap",
       "vansinne",
       "dårskap",
-      "vansinne",
       "vanvett"
     ],
     "examples": [
@@ -46736,8 +46558,6 @@
     "translations": [
       "grupp",
       "klunga",
-      "klase",
-      "klase",
       "klase"
     ],
     "examples": [
@@ -47566,7 +47386,6 @@
     "stuttbeyg": "",
     "translations": [
       "bortfall",
-      "bortfall",
       "synkope",
       "apokope"
     ],
@@ -48287,8 +48106,7 @@
     "translations": [
       "ropa",
       "kalla",
-      "kalla in",
-      "kalla"
+      "kalla in"
     ],
     "examples": [
       {
@@ -49087,7 +48905,6 @@
     "stuttbeyg": null,
     "translations": [
       "bibel",
-      "bibel",
       "handbok"
     ],
     "examples": [
@@ -49216,8 +49033,7 @@
     "stuttbeyg": "hann beygist; hann beygðist; hann hefur beygst",
     "translations": [
       "böjas",
-      "bågna",
-      "böjas"
+      "bågna"
     ],
     "examples": [
       {
@@ -49341,7 +49157,6 @@
       "ombudsman",
       "agent",
       "manager",
-      "agent",
       "impressario"
     ],
     "examples": [
@@ -49881,7 +49696,6 @@
       "gravitation",
       "dragningskraft",
       "charm",
-      "dragningskraft",
       "lockelse"
     ],
     "examples": [
@@ -50316,7 +50130,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "flaskhals",
       "flaskhals"
     ],
     "examples": [
@@ -50583,7 +50396,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "var",
       "var"
     ],
     "examples": [
@@ -50831,8 +50643,7 @@
     "stuttbeyg": null,
     "translations": [
       "utväg",
-      "vägen ut",
-      "utväg"
+      "vägen ut"
     ],
     "examples": [
       {
@@ -50954,7 +50765,6 @@
       "val",
       "fördel",
       "tillgång",
-      "tillgång",
       "förråd"
     ],
     "examples": [
@@ -51002,7 +50812,6 @@
       "få",
       "skaffa sig",
       "ha",
-      "få",
       "föda"
     ],
     "examples": [
@@ -51348,7 +51157,6 @@
       "slänga iväg",
       "slänga bort",
       "slänga",
-      "kasta",
       "föla"
     ],
     "examples": [
@@ -51921,7 +51729,6 @@
     "translations": [
       "emalj",
       "tandemalj",
-      "emalj",
       "glasyr"
     ],
     "examples": [
@@ -52510,7 +52317,6 @@
       "ämne",
       "-ämne",
       "angelägenhet",
-      "material",
       "substans"
     ],
     "examples": [
@@ -52925,8 +52731,7 @@
       "trevlig",
       "vänlig",
       "schyst",
-      "normal",
-      "riktig"
+      "normal"
     ],
     "examples": [
       {
@@ -53050,8 +52855,7 @@
       "bevakning",
       "arbetspass",
       "skift",
-      "jour",
-      "skift"
+      "jour"
     ],
     "examples": [
       {
@@ -53268,7 +53072,6 @@
     "gender": null,
     "stuttbeyg": "ég þéna, við þénum; hann þénaði; hann hefur þénað",
     "translations": [
-      "tjäna",
       "tjäna"
     ],
     "examples": [
@@ -53371,7 +53174,6 @@
       "erbarmlig",
       "ynklig",
       "dålig",
-      "ynklig",
       "arm",
       "ömklig"
     ],
@@ -54195,7 +53997,6 @@
       "hemsida",
       "väv",
       "vävnad",
-      "vävnad",
       "spindelväv",
       "spindelnät",
       "webben"
@@ -54414,7 +54215,6 @@
       "vanära",
       "skända",
       "kränka",
-      "skända",
       "våldta"
     ],
     "examples": [
@@ -54489,11 +54289,7 @@
       "torr",
       "torkad",
       "humorbefriad",
-      "torr",
-      "torr",
-      "humorbefriad",
-      "saklig",
-      "torr"
+      "saklig"
     ],
     "examples": [
       {
@@ -54766,7 +54562,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "massa",
       "massa"
     ],
     "examples": [
@@ -54834,7 +54629,6 @@
       "spets",
       "gadd",
       "råmjölk",
-      "spets",
       "udd"
     ],
     "examples": [
@@ -55627,11 +55421,9 @@
       "sådan",
       "dylik",
       "vilken",
-      "sådan",
       "sån",
       "otroligt",
-      "så",
-      "vilken"
+      "så"
     ],
     "examples": [
       {
@@ -55807,7 +55599,6 @@
       "bröst",
       "bröstkorg",
       "bringa",
-      "bringa",
       "bröststycke"
     ],
     "examples": [
@@ -55865,7 +55656,6 @@
     "translations": [
       "missbruka",
       "utnyttja",
-      "utnyttja",
       "förgripa sig"
     ],
     "examples": [
@@ -55891,8 +55681,7 @@
     "stuttbeyg": null,
     "translations": [
       "lagom",
-      "måttligt",
-      "lagom"
+      "måttligt"
     ],
     "examples": [
       {
@@ -55932,7 +55721,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "sång",
       "sång",
       "tjat",
       "gnäll"
@@ -56095,8 +55883,7 @@
     "translations": [
       "slöja",
       "niqab",
-      "dis",
-      "slöja"
+      "dis"
     ],
     "examples": [
       {
@@ -56143,7 +55930,6 @@
     "translations": [
       "upplyst",
       "kunnig",
-      "upplyst",
       "informerad",
       "uppklarad",
       "utredd"
@@ -56226,8 +56012,7 @@
     "translations": [
       "utbredning",
       "spridning",
-      "cirkulation",
-      "spridning"
+      "cirkulation"
     ],
     "examples": [
       {
@@ -56354,8 +56139,6 @@
       "uppstå",
       "utbryta",
       "bryta ut",
-      "tändas",
-      "uppstå",
       "tändas"
     ],
     "examples": [
@@ -56753,11 +56536,8 @@
       "somlig",
       "en del",
       "vissa saker",
-      "en del",
       "något",
-      "somlig",
-      "viss",
-      "en del"
+      "viss"
     ],
     "examples": [
       {
@@ -57013,10 +56793,7 @@
       "snickeriarbete",
       "snickeri",
       "smide",
-      "smidning",
-      "snickeri",
-      "snickeriarbete",
-      "smide"
+      "smidning"
     ],
     "examples": [
       {
@@ -57034,13 +56811,7 @@
     "translations": [
       "sedan",
       "sen",
-      "sedan",
-      "sen",
       "därefter",
-      "sedan",
-      "sen",
-      "sedan",
-      "sen",
       "efter att"
     ],
     "examples": [
@@ -57417,7 +57188,6 @@
     "gender": null,
     "stuttbeyg": "ég fórna, við fórnum; hann fórnaði; hann hefur fórnað",
     "translations": [
-      "offra",
       "offra"
     ],
     "examples": [
@@ -57552,9 +57322,7 @@
     "translations": [
       "mästare",
       "specialist",
-      "mästare",
       "läromästare",
-      "mästare",
       "lärare"
     ],
     "examples": [
@@ -57834,7 +57602,6 @@
     "translations": [
       "dunk",
       "duns",
-      "smäll",
       "smäll"
     ],
     "examples": [
@@ -57870,7 +57637,6 @@
     "translations": [
       "betraktelse",
       "essä",
-      "betraktelse",
       "fundering"
     ],
     "examples": [
@@ -59021,7 +58787,6 @@
     "stuttbeyg": null,
     "translations": [
       "hårdhet",
-      "hårdhet",
       "stränghet"
     ],
     "examples": [
@@ -59073,7 +58838,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "skyddsängel",
       "skyddsängel"
     ],
     "examples": [
@@ -59745,8 +59509,6 @@
     "translations": [
       "stötta",
       "stödja",
-      "stödja",
-      "stötta",
       "trycka",
       "ställa"
     ],
@@ -60026,8 +59788,7 @@
     "stuttbeyg": "",
     "translations": [
       "tragedi",
-      "sorgespel",
-      "tragedi"
+      "sorgespel"
     ],
     "examples": [
       {
@@ -60095,8 +59856,7 @@
       "klädd",
       "påklädd",
       "iklädd",
-      "beklädd",
-      "klädd"
+      "beklädd"
     ],
     "examples": [
       {
@@ -60193,8 +59953,7 @@
       "eroderad",
       "vinderoderad",
       "uppblåst",
-      "högfärdig",
-      "uppblåst"
+      "högfärdig"
     ],
     "examples": [
       {
@@ -60345,8 +60104,7 @@
       "streta",
       "slita",
       "knoga",
-      "kämpa",
-      "slita"
+      "kämpa"
     ],
     "examples": [
       {
@@ -60399,8 +60157,7 @@
       "samlas",
       "ansamlas",
       "hopa sig",
-      "anhopas",
-      "samlas"
+      "anhopas"
     ],
     "examples": [
       {
@@ -60536,7 +60293,6 @@
       "fullständigt",
       "helt",
       "alldeles",
-      "helt",
       "riktigt",
       "nästan"
     ],
@@ -60572,7 +60328,6 @@
     "translations": [
       "reaktion",
       "svar",
-      "reaktion",
       "respons"
     ],
     "examples": [
@@ -60663,7 +60418,6 @@
     "stuttbeyg": null,
     "translations": [
       "tillägg",
-      "ytterligare",
       "ytterligare"
     ],
     "examples": [
@@ -61554,7 +61308,6 @@
     "stuttbeyg": "",
     "translations": [
       "klass",
-      "klass",
       "stil"
     ],
     "examples": [
@@ -61627,7 +61380,6 @@
     "gender": null,
     "stuttbeyg": "ég endurhæfi, hann endurhæfir; hann endurhæfði; hann hefur endurhæft",
     "translations": [
-      "rehabilitera",
       "rehabilitera",
       "återanpassa"
     ],
@@ -62576,8 +62328,7 @@
     "translations": [
       "hål",
       "hålighet",
-      "grop",
-      "hål"
+      "grop"
     ],
     "examples": [
       {
@@ -62789,15 +62540,12 @@
     "stuttbeyg": "ég fylgi, hann fylgir; hann fylgdi; hann hefur fylgt",
     "translations": [
       "följa",
-      "följa",
       "efterfölja",
       "stödja",
-      "följa",
       "medfölja",
       "följa efter",
       "följa med",
       "hänga med",
-      "medfölja",
       "bifogas"
     ],
     "examples": [
@@ -63238,7 +62986,6 @@
       "magnifik",
       "enorm",
       "väldig",
-      "fantastisk",
       "otrolig"
     ],
     "examples": [
@@ -63981,7 +63728,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "inte",
       "inte"
     ],
     "examples": [
@@ -64859,7 +64605,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "ledare",
       "ledare"
     ],
     "examples": [
@@ -65086,8 +64831,6 @@
     "stuttbeyg": "hann erfist; hann erfðist; hann hefur erfst",
     "translations": [
       "ärvas",
-      "gå i arv",
-      "ärvas",
       "gå i arv"
     ],
     "examples": [
@@ -65263,8 +65006,7 @@
     "stuttbeyg": null,
     "translations": [
       "explosion",
-      "sprängning",
-      "explosion"
+      "sprängning"
     ],
     "examples": [
       {
@@ -65436,8 +65178,7 @@
     "translations": [
       "delad",
       "kluven",
-      "ambivalent",
-      "kluven"
+      "ambivalent"
     ],
     "examples": [
       {
@@ -65700,7 +65441,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "statistik",
       "statistik"
     ],
     "examples": [
@@ -66122,17 +65862,11 @@
       "stark",
       "kraftfull",
       "tålig",
-      "stark",
       "oöm",
       "slitstark",
-      "stark",
       "intensiv",
-      "stark",
       "häftig",
-      "stark",
-      "tydlig",
-      "intensiv",
-      "häftig"
+      "tydlig"
     ],
     "examples": [
       {
@@ -66620,9 +66354,7 @@
       "vänlig",
       "angenäm",
       "behaglig",
-      "behaglig",
       "mjuk",
-      "mild",
       "varm"
     ],
     "examples": [
@@ -66843,8 +66575,7 @@
     "stuttbeyg": null,
     "translations": [
       "teknik",
-      "teknologi",
-      "teknik"
+      "teknologi"
     ],
     "examples": [
       {
@@ -67831,8 +67562,7 @@
     "translations": [
       "glad",
       "gladlynt",
-      "lättsam",
-      "glad"
+      "lättsam"
     ],
     "examples": [
       {
@@ -68538,8 +68268,6 @@
     "gender": null,
     "stuttbeyg": "ég túlka, við túlkum; hann túlkaði; hann hefur túlkað",
     "translations": [
-      "tolka",
-      "tolka",
       "tolka",
       "utlägga",
       "göra tillgänglig",
@@ -69287,7 +69015,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "karat",
       "karat"
     ],
     "examples": [
@@ -69755,7 +69482,6 @@
       "lämna",
       "passa",
       "lämpa sig",
-      "låta",
       "låtsas",
       "uppföra sig"
     ],
@@ -69880,9 +69606,7 @@
       "skapa",
       "åstadkomma",
       "bilda",
-      "skapa",
       "orsaka",
-      "skapa",
       "vålla",
       "ställa till"
     ],
@@ -69958,7 +69682,6 @@
     "translations": [
       "inom",
       "inne i",
-      "inom",
       "inifrån"
     ],
     "examples": [
@@ -70121,7 +69844,6 @@
     "translations": [
       "skära sig",
       "korsa",
-      "skära",
       "skära"
     ],
     "examples": [
@@ -70222,8 +69944,7 @@
       "laddad",
       "tyngd",
       "ansträngd",
-      "överhopad",
-      "laddad"
+      "överhopad"
     ],
     "examples": [
       {
@@ -70309,8 +70030,6 @@
     "translations": [
       "hals",
       "flaskhals",
-      "hals",
-      "hals",
       "ås"
     ],
     "examples": [
@@ -70469,7 +70188,6 @@
     "translations": [
       "andeskådare",
       "medium",
-      "medium",
       "teknik"
     ],
     "examples": [
@@ -70522,7 +70240,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "egentligen",
       "egentligen",
       "i princip"
     ],
@@ -71173,7 +70890,6 @@
       "smälla",
       "knäppa",
       "smattra",
-      "knäppa",
       "knäppa till",
       "smita åt"
     ],
@@ -71635,7 +71351,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "tvärsnitt",
       "tvärsnitt"
     ],
     "examples": [
@@ -72572,7 +72287,6 @@
     "stuttbeyg": "ég örva, við örvum; hann örvaði; hann hefur örvað",
     "translations": [
       "hetsa upp",
-      "stimulera",
       "stimulera"
     ],
     "examples": [
@@ -72614,7 +72328,6 @@
       "lägga",
       "ställa",
       "sätta",
-      "lägga",
       "lägga ned",
       "dra",
       "strömma",
@@ -72977,8 +72690,6 @@
     "translations": [
       "mot",
       "emot",
-      "mot",
-      "mot",
       "med"
     ],
     "examples": [
@@ -73071,8 +72782,7 @@
       "fersk",
       "frisk",
       "ren",
-      "pigg",
-      "frisk"
+      "pigg"
     ],
     "examples": [
       {
@@ -73472,8 +73182,7 @@
     "stuttbeyg": null,
     "translations": [
       "skyddsnät",
-      "säkerhetsnät",
-      "skyddsnät"
+      "säkerhetsnät"
     ],
     "examples": [
       {
@@ -73537,8 +73246,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "fas",
-      "fas",
       "fas",
       "aggregationstillstånd"
     ],
@@ -73702,7 +73409,6 @@
       "knyta upp",
       "lösa",
       "lossa",
-      "lösa",
       "töa"
     ],
     "examples": [
@@ -73892,9 +73598,7 @@
     "translations": [
       "brinna",
       "brinna upp",
-      "låga",
-      "brinna",
-      "brinna"
+      "låga"
     ],
     "examples": [
       {
@@ -73944,8 +73648,7 @@
     "translations": [
       "synas",
       "ses",
-      "vara synlig",
-      "ses"
+      "vara synlig"
     ],
     "examples": [
       {
@@ -74857,7 +74560,6 @@
       "härkomst",
       "börd",
       "ursprung",
-      "ursprung",
       "upprinnelse",
       "uppkomst"
     ],
@@ -75061,11 +74763,9 @@
     "stuttbeyg": null,
     "translations": [
       "bredd",
-      "bredd",
       "(spänn)vidd",
       "latitud",
-      "breddgrad",
-      "bredd"
+      "breddgrad"
     ],
     "examples": [
       {
@@ -75107,10 +74807,7 @@
     "translations": [
       "arbete",
       "jobb",
-      "arbete",
       "hantverk",
-      "arbete",
-      "arbete",
       "värv"
     ],
     "examples": [
@@ -75504,7 +75201,6 @@
     "translations": [
       "vass",
       "skarp",
-      "skarp",
       "brysk"
     ],
     "examples": [
@@ -75620,8 +75316,7 @@
     "stuttbeyg": null,
     "translations": [
       "tvilling",
-      "Tvillingarna",
-      "tvilling"
+      "Tvillingarna"
     ],
     "examples": [
       {
@@ -75710,7 +75405,6 @@
       "ställa upp",
       "lägga upp",
       "dela in",
-      "ordna",
       "systematisera"
     ],
     "examples": [
@@ -75878,8 +75572,7 @@
       "genom",
       "igenom",
       "via",
-      "per",
-      "genom"
+      "per"
     ],
     "examples": [
       {
@@ -76066,7 +75759,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "något",
       "något"
     ],
     "examples": [
@@ -76346,11 +76038,8 @@
     "translations": [
       "sitta",
       "delta",
-      "sitta",
-      "sitta",
       "finnas",
-      "ha sitt säte",
-      "sitta"
+      "ha sitt säte"
     ],
     "examples": [
       {
@@ -76847,13 +76536,10 @@
     "translations": [
       "visa",
       "ställa ut",
-      "visa",
       "sätta upp",
       "iscensätta",
       "ge",
-      "visa",
-      "uttrycka",
-      "visa"
+      "uttrycka"
     ],
     "examples": [
       {
@@ -77095,9 +76781,7 @@
     "stuttbeyg": null,
     "translations": [
       "vad",
-      "vad",
       "vad som",
-      "vad",
       "va",
       "eller",
       "hur"
@@ -77749,7 +77433,6 @@
     "stuttbeyg": "hann er særður, hún er særð, það er sært; særður - særðari - særðastur",
     "translations": [
       "sårad",
-      "sårad",
       "kränkt"
     ],
     "examples": [
@@ -77862,7 +77545,6 @@
     "stuttbeyg": null,
     "translations": [
       "bror",
-      "broder",
       "broder"
     ],
     "examples": [
@@ -78544,7 +78226,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "obalans",
       "obalans"
     ],
     "examples": [
@@ -79056,8 +78737,7 @@
     "stuttbeyg": null,
     "translations": [
       "framsteg",
-      "förbättring",
-      "framsteg"
+      "förbättring"
     ],
     "examples": [
       {
@@ -79301,8 +78981,7 @@
     "stuttbeyg": null,
     "translations": [
       "bibliotek",
-      "boksamling",
-      "bibliotek"
+      "boksamling"
     ],
     "examples": [
       {
@@ -79727,7 +79406,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "försvarsmur",
       "försvarsmur"
     ],
     "examples": [
@@ -79774,10 +79452,8 @@
     "stuttbeyg": "hann er sætur, hún er sæt, það er sætt; sætur - sætari - sætastur",
     "translations": [
       "söt",
-      "söt",
       "gullig",
-      "snygg",
-      "söt"
+      "snygg"
     ],
     "examples": [
       {
@@ -80334,7 +80010,6 @@
     "gender": null,
     "stuttbeyg": "hann er amerískur, hún er amerísk, það er amerískt; amerískur - amerískari - amerískastur",
     "translations": [
-      "amerikansk",
       "amerikansk"
     ],
     "examples": [
@@ -80909,7 +80584,6 @@
       "hävd",
       "sätt",
       "uppförande",
-      "sätt",
       "vis",
       "modus",
       "versmått",
@@ -81692,9 +81366,7 @@
       "endast",
       "ju",
       "men",
-      "bara",
       "för all del",
-      "bara",
       "då då"
     ],
     "examples": [
@@ -81735,7 +81407,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "flott",
       "flott",
       "smält fett"
     ],
@@ -82288,9 +81959,7 @@
     "stuttbeyg": "ég leiði, hann leiðir; hann leiddi; hann hefur leitt",
     "translations": [
       "leda",
-      "föra",
-      "leda",
-      "leda"
+      "föra"
     ],
     "examples": [
       {
@@ -82431,9 +82100,7 @@
       "det",
       "han",
       "han eller hon",
-      "han/hon",
-      "den",
-      "det"
+      "han/hon"
     ],
     "examples": [
       {
@@ -82730,7 +82397,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "sömnad",
       "sömnad"
     ],
     "examples": [
@@ -82754,7 +82420,6 @@
       "tävling",
       "kamp",
       "konkurrens",
-      "tävling",
       "cup"
     ],
     "examples": [
@@ -82879,8 +82544,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "tecken",
-      "symbol",
       "tecken",
       "symbol"
     ],
@@ -83139,8 +82802,7 @@
     "stuttbeyg": null,
     "translations": [
       "måltid",
-      "mål",
-      "måltid"
+      "mål"
     ],
     "examples": [
       {
@@ -83229,7 +82891,6 @@
     "stuttbeyg": "hann er ónákvæmur, hún er ónákvæm, það er ónákvæmt; ónákvæmur - ónákvæmari - ónákvæmastur",
     "translations": [
       "inexakt",
-      "oprecis",
       "oprecis"
     ],
     "examples": [
@@ -83351,7 +83012,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "bindning",
       "bindning",
       "uppsättning",
       "förpliktelse",
@@ -84298,7 +83958,6 @@
     "gender": null,
     "stuttbeyg": "ég trúi, hann trúir; hann trúði; hann hefur trúað",
     "translations": [
-      "tro",
       "tro"
     ],
     "examples": [
@@ -84428,7 +84087,6 @@
     "translations": [
       "kasta",
       "slänga iväg",
-      "kasta",
       "slänga",
       "hända",
       "ske",
@@ -84816,7 +84474,6 @@
       "verb",
       "uppgift",
       "historia",
-      "berättelse",
       "bud"
     ],
     "examples": [
@@ -85408,7 +85065,6 @@
     "translations": [
       "behaglig",
       "bekväm",
-      "behaglig",
       "lättsam"
     ],
     "examples": [
@@ -85435,7 +85091,6 @@
     "translations": [
       "söt",
       "näpen",
-      "söt",
       "fin",
       "prydlig"
     ],
@@ -85633,7 +85288,6 @@
       "klappa",
       "smeka",
       "stryka",
-      "stryka",
       "torka",
       "torka av",
       "gnugga"
@@ -85768,14 +85422,10 @@
     "stuttbeyg": "hann er fínn, hún er fín, það er fínt; fínn - fínni - fínastur",
     "translations": [
       "fin",
-      "fin",
       "bra",
-      "fin",
       "förnäm",
-      "fin",
       "finklädd",
-      "snyggt klädd",
-      "fin"
+      "snyggt klädd"
     ],
     "examples": [
       {
@@ -85873,12 +85523,10 @@
       "jobba",
       "åstadkomma",
       "utföra",
-      "utföra",
       "vålla",
       "bearbeta",
       "vinna",
       "segra",
-      "förvärvsarbeta",
       "förvärvsarbeta",
       "arbeta på <uppgiften>",
       "vinna i längden",
@@ -86092,8 +85740,7 @@
     "stuttbeyg": null,
     "translations": [
       "hagel",
-      "hagelby",
-      "hagel"
+      "hagelby"
     ],
     "examples": [
       {
@@ -86277,10 +85924,7 @@
     "stuttbeyg": null,
     "translations": [
       "kung",
-      "kung",
-      "kung",
-      "furste",
-      "kung"
+      "furste"
     ],
     "examples": [
       {
@@ -86375,11 +86019,7 @@
       "hallå",
       "hej",
       "god dag",
-      "hej",
-      "hejsan",
-      "hallå",
-      "hej",
-      "hallå"
+      "hejsan"
     ],
     "examples": [
       {
@@ -86514,7 +86154,6 @@
       "arg",
       "dålig",
       "usel",
-      "dålig",
       "oduglig"
     ],
     "examples": [
@@ -86655,8 +86294,7 @@
     "translations": [
       "ras",
       "kollaps",
-      "instörtning",
-      "ras"
+      "instörtning"
     ],
     "examples": [
       {
@@ -86672,7 +86310,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "stick",
       "stick",
       "bett",
       "stygn"
@@ -86972,7 +86609,6 @@
     "gender": null,
     "stuttbeyg": "hann er verður, hún er verð, það er vert; verður - verðari - verðastur",
     "translations": [
-      "värd",
       "värd"
     ],
     "examples": [
@@ -87198,8 +86834,7 @@
     "stuttbeyg": "hann er nýbakaður, hún er nýbökuð, það er nýbakað",
     "translations": [
       "nybakad",
-      "nybliven",
-      "nybakad"
+      "nybliven"
     ],
     "examples": [
       {
@@ -88372,12 +88007,9 @@
       "styrka",
       "energi",
       "drivkraft",
-      "styrka",
       "essens",
       "koncentrat",
-      "naturkraft",
-      "kraft",
-      "kraft"
+      "naturkraft"
     ],
     "examples": [
       {
@@ -88543,7 +88175,6 @@
     "translations": [
       "fred",
       "frid",
-      "fred",
       "ro"
     ],
     "examples": [
@@ -88718,7 +88349,6 @@
     "gender": null,
     "stuttbeyg": "ég vek, hann vekur; hann vakti; hann hefur vakið",
     "translations": [
-      "väcka",
       "väcka",
       "skapa"
     ],
@@ -89177,7 +88807,6 @@
     "translations": [
       "felaktigt",
       "utan grund",
-      "felaktigt",
       "oriktigt"
     ],
     "examples": [
@@ -89247,8 +88876,7 @@
     "stuttbeyg": "ég skrúfa, við skrúfum; hann skrúfaði; hann hefur skrúfað",
     "translations": [
       "skruva",
-      "fästa",
-      "skruva"
+      "fästa"
     ],
     "examples": [
       {
@@ -89681,8 +89309,7 @@
     "stuttbeyg": "ég prufukeyri, hann prufukeyrir; hann prufukeyrði; hann hefur prufukeyrt",
     "translations": [
       "provköra",
-      "testa",
-      "provköra"
+      "testa"
     ],
     "examples": [
       {
@@ -89738,7 +89365,6 @@
     "stuttbeyg": null,
     "translations": [
       "marionettdocka",
-      "marionett",
       "marionett"
     ],
     "examples": [
@@ -90027,8 +89653,7 @@
     "stuttbeyg": "hann þroskast, við þroskumst; hann þroskaðist; hann hefur þroskast",
     "translations": [
       "mogna",
-      "utvecklas",
-      "mogna"
+      "utvecklas"
     ],
     "examples": [
       {
@@ -90231,9 +89856,7 @@
       "ansvara för",
       "svara för",
       "ta hand om",
-      "sköta",
-      "sköta",
-      "ta hand om"
+      "sköta"
     ],
     "examples": [
       {
@@ -90796,7 +90419,6 @@
     "stuttbeyg": "hann er barnalegur, hún er barnaleg, það er barnalegt; barnalegur - barnalegri - barnalegastur",
     "translations": [
       "naiv",
-      "barnslig",
       "barnslig"
     ],
     "examples": [
@@ -91138,7 +90760,6 @@
     "translations": [
       "elev",
       "adept",
-      "lärjunge",
       "lärjunge"
     ],
     "examples": [
@@ -91581,8 +91202,7 @@
       "törsta",
       "längta",
       "vara törstig",
-      "bli törstig",
-      "törsta"
+      "bli törstig"
     ],
     "examples": [
       {
@@ -91686,8 +91306,7 @@
       "främjande",
       "utveckling",
       "struktur",
-      "konstruktion",
-      "uppbyggnad"
+      "konstruktion"
     ],
     "examples": [
       {
@@ -92100,7 +91719,6 @@
       "hjärtinfarkt",
       "hjärtslag",
       "pulsslag",
-      "hjärtslag",
       "slaksida",
       "tunnbringa",
       "sida",
@@ -92912,7 +92530,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "någon",
       "någon"
     ],
     "examples": [
@@ -93649,7 +93266,6 @@
       "spegla",
       "avspegla",
       "återspegla",
-      "reflektera",
       "återge"
     ],
     "examples": [
@@ -93718,7 +93334,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "bröst",
       "bröst"
     ],
     "examples": [
@@ -93862,8 +93477,7 @@
       "hetlevrad",
       "snarstucken",
       "allvarlig",
-      "svår",
-      "akut"
+      "svår"
     ],
     "examples": [
       {
@@ -94167,8 +93781,7 @@
     "stuttbeyg": "hann er visinn, hún er visin, það er visið; visinn - visnari - visnastur",
     "translations": [
       "vissen",
-      "skinntorr",
-      "vissen"
+      "skinntorr"
     ],
     "examples": [
       {
@@ -94511,8 +94124,7 @@
       "hand",
       "arm",
       "handstil",
-      "sida",
-      "hand"
+      "sida"
     ],
     "examples": [
       {
@@ -94562,7 +94174,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "fjäder",
       "fjäder",
       "fjädring"
     ],
@@ -95334,8 +94945,7 @@
     "stuttbeyg": "ég lóðsa, við lóðsum; hann lóðsaði; hann hefur lóðsað",
     "translations": [
       "lotsa",
-      "vägleda",
-      "lotsa"
+      "vägleda"
     ],
     "examples": [
       {
@@ -95439,7 +95049,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "värme",
       "värme"
     ],
     "examples": [
@@ -95772,7 +95381,6 @@
     "gender": null,
     "stuttbeyg": "ég fullvissa, við fullvissum; hann fullvissaði; hann hefur fullvissað",
     "translations": [
-      "förvissa",
       "förvissa",
       "övertyga",
       "lova"
@@ -96114,8 +95722,7 @@
     "translations": [
       "plocka",
       "pilla",
-      "skinna",
-      "plocka"
+      "skinna"
     ],
     "examples": [
       {
@@ -96303,8 +95910,7 @@
       "planera",
       "planlägga",
       "organisera",
-      "disponera",
-      "planera"
+      "disponera"
     ],
     "examples": [
       {
@@ -96381,8 +95987,7 @@
     "translations": [
       "apparat",
       "pryl",
-      "organisation",
-      "apparat"
+      "organisation"
     ],
     "examples": [
       {
@@ -97462,7 +97067,6 @@
       "strömma",
       "svämma över",
       "översvämma",
-      "strömma",
       "bli flod",
       "bli högvatten"
     ],
@@ -97797,8 +97401,7 @@
     "translations": [
       "utnyttjande",
       "missbruk",
-      "övergrepp",
-      "missbruk"
+      "övergrepp"
     ],
     "examples": [
       {
@@ -99192,7 +98795,6 @@
     "stuttbeyg": "ég ber, hann ber; hann bar, við bárum; hann hefur borið",
     "translations": [
       "bära",
-      "bära",
       "medföra",
       "ha på sig",
       "bringa",
@@ -99701,8 +99303,7 @@
     "stuttbeyg": "ég mála, við málum; hann málaði; hann hefur málað",
     "translations": [
       "måla",
-      "sminka",
-      "måla"
+      "sminka"
     ],
     "examples": [
       {
@@ -100037,7 +99638,6 @@
     "translations": [
       "säkert",
       "garanterat",
-      "säkert",
       "övertygande"
     ],
     "examples": [
@@ -100102,7 +99702,6 @@
     "translations": [
       "falla",
       "störta",
-      "falla",
       "rasa"
     ],
     "examples": [
@@ -100187,7 +99786,6 @@
       "skit",
       "gödsel",
       "dynga",
-      "skit",
       "avföring"
     ],
     "examples": [
@@ -100610,7 +100208,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "mantra",
       "mantra"
     ],
     "examples": [
@@ -101089,8 +100686,6 @@
     "translations": [
       "blek",
       "färglös",
-      "färglös",
-      "blek",
       "intetsägande"
     ],
     "examples": [
@@ -101113,9 +100708,7 @@
     "translations": [
       "grundare",
       "stiftare",
-      "instiftare",
-      "instiftare",
-      "stiftare"
+      "instiftare"
     ],
     "examples": [
       {
@@ -101251,7 +100844,6 @@
     "translations": [
       "bli bättre",
       "förbättras",
-      "bli bättre",
       "må bättre"
     ],
     "examples": [
@@ -101897,12 +101489,10 @@
     "stuttbeyg": null,
     "translations": [
       "under",
-      "under",
       "nedanför",
       "intill",
       "inemot",
       "bortåt",
-      "under",
       "för"
     ],
     "examples": [
@@ -102040,10 +101630,8 @@
     "translations": [
       "prägel",
       "mål",
-      "mål",
       "måltavla",
       "syfte",
-      "mål",
       "öronmärke",
       "mark"
     ],
@@ -103626,7 +103214,6 @@
     "stuttbeyg": "hann er einhliða, hún er einhliða, það er einhliða",
     "translations": [
       "ensidig",
-      "ensidig",
       "egenmäktig"
     ],
     "examples": [
@@ -104171,7 +103758,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "glömska",
       "glömska"
     ],
     "examples": [
@@ -104892,7 +104478,6 @@
     "stuttbeyg": null,
     "translations": [
       "korg",
-      "korg",
       "basket",
       "basketboll",
       "blomkorg"
@@ -104912,10 +104497,8 @@
     "stuttbeyg": "hann er bjartur, hún er björt, það er bjart; bjartur - bjartari - bjartastur",
     "translations": [
       "ljus",
-      "ljus",
       "klar",
-      "lovande",
-      "ljus"
+      "lovande"
     ],
     "examples": [
       {
@@ -104972,7 +104555,6 @@
     "gender": null,
     "stuttbeyg": "hann er rólegur, hún er róleg, það er rólegt; rólegur - rólegri - rólegastur",
     "translations": [
-      "lugn",
       "lugn",
       "stillsam"
     ],
@@ -105292,8 +104874,6 @@
       "snäv",
       "begränsad",
       "avgränsad",
-      "trång",
-      "snäv",
       "tajt"
     ],
     "examples": [
@@ -105545,9 +105125,7 @@
     "translations": [
       "ligga",
       "gå",
-      "ligga",
-      "löpa",
-      "ligga"
+      "löpa"
     ],
     "examples": [
       {
@@ -105786,8 +105364,6 @@
     "gender": null,
     "stuttbeyg": "hann er mettaður, hún er mettuð, það er mettað; mettaður - mettaðri - mettaðastur",
     "translations": [
-      "mättad",
-      "mättad",
       "mättad"
     ],
     "examples": [
@@ -106255,7 +105831,6 @@
     "translations": [
       "klappa",
       "applådera",
-      "klappa",
       "hamra",
       "hugga"
     ],
@@ -106680,8 +106255,7 @@
     "stuttbeyg": "hann er láglendur, hún er láglend, það er láglent; láglendur - láglendari - láglendastur",
     "translations": [
       "lågländ",
-      "platt",
-      "lågländ"
+      "platt"
     ],
     "examples": [
       {
@@ -107075,7 +106649,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "vart",
       "vart"
     ],
     "examples": [
@@ -107158,8 +106731,7 @@
       "dela ut",
       "överlämna",
       "medla",
-      "förlika",
-      "medla"
+      "förlika"
     ],
     "examples": [
       {
@@ -107748,7 +107320,6 @@
     "gender": null,
     "stuttbeyg": "hann er opinn, hún er opin, það er opið; opinn - opnari - opnastur",
     "translations": [
-      "öppen",
       "öppen"
     ],
     "examples": [
@@ -108260,8 +107831,7 @@
     "stuttbeyg": "ég pressa, við pressum; hann pressaði; hann hefur pressað",
     "translations": [
       "pressa",
-      "stryka",
-      "pressa"
+      "stryka"
     ],
     "examples": [
       {
@@ -108301,8 +107871,7 @@
     "stuttbeyg": "ég slekk, hann slekkur; hann slökkti; hann hefur slökkt",
     "translations": [
       "släcka",
-      "stilla",
-      "släcka"
+      "stilla"
     ],
     "examples": [
       {
@@ -108460,7 +108029,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "bekräftelse",
       "bekräftelse"
     ],
     "examples": [
@@ -108600,8 +108168,7 @@
     "stuttbeyg": "hann sveiflast, við sveiflumst; hann sveiflaðist; hann hefur sveiflast",
     "translations": [
       "svänga",
-      "variera",
-      "svänga"
+      "variera"
     ],
     "examples": [
       {
@@ -108655,7 +108222,6 @@
     "gender": null,
     "stuttbeyg": "ég skráset, hann skrásetur; hann skrásetti; hann hefur skrásett",
     "translations": [
-      "registrera",
       "registrera",
       "katalogisera"
     ],
@@ -108904,11 +108470,8 @@
     "stuttbeyg": "hann er lítill, hún er lítil, það er lítið; lítill - minni - minnstur",
     "translations": [
       "liten",
-      "liten",
       "begränsad",
-      "liten",
       "ringa",
-      "liten",
       "kort"
     ],
     "examples": [
@@ -109032,8 +108595,6 @@
     "gender": null,
     "stuttbeyg": "ég spila, við spilum; hann spilaði; hann hefur spilað",
     "translations": [
-      "spela",
-      "spela",
       "spela"
     ],
     "examples": [
@@ -109087,8 +108648,7 @@
     "stuttbeyg": null,
     "translations": [
       "svag",
-      "kraftlös",
-      "svag"
+      "kraftlös"
     ],
     "examples": [
       {
@@ -109542,7 +109102,6 @@
       "skum",
       "ljusskygg",
       "tvivelaktig",
-      "skum",
       "mörk",
       "dåligt upplyst"
     ],
@@ -109585,7 +109144,6 @@
     "gender": null,
     "stuttbeyg": "ég hnýti, hann hnýtir; hann hnýtti; hann hefur hnýtt",
     "translations": [
-      "knyta",
       "knyta"
     ],
     "examples": [
@@ -110185,8 +109743,6 @@
     "stuttbeyg": "",
     "translations": [
       "de flesta",
-      "nästan alla",
-      "de flesta",
       "nästan alla"
     ],
     "examples": [
@@ -110258,7 +109814,6 @@
     "translations": [
       "fokus",
       "brännpunkt",
-      "fokus",
       "skärpa"
     ],
     "examples": [
@@ -110584,8 +110139,7 @@
     "stuttbeyg": "hann mýkist; hann mýktist; hann hefur mýkst",
     "translations": [
       "mjukna",
-      "mildras",
-      "mjukna"
+      "mildras"
     ],
     "examples": [
       {
@@ -110879,9 +110433,7 @@
       "idérik",
       "kreativ",
       "uppslagsrik",
-      "originell",
-      "kreativ",
-      "idérik"
+      "originell"
     ],
     "examples": [
       {
@@ -111737,7 +111289,6 @@
     "gender": null,
     "stuttbeyg": "hann er alvitur, hún er alvitur, það er alviturt",
     "translations": [
-      "allvetande",
       "allvetande"
     ],
     "examples": [
@@ -111954,8 +111505,7 @@
       "kaffe",
       "kaffepaus",
       "fikapaus",
-      "kaffedags",
-      "kaffe"
+      "kaffedags"
     ],
     "examples": [
       {
@@ -111987,7 +111537,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "annars",
       "annars"
     ],
     "examples": [
@@ -112012,7 +111561,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "höger",
       "höger"
     ],
     "examples": [
@@ -112470,7 +112018,6 @@
     "translations": [
       "trasa",
       "klädtrasa",
-      "trasa",
       "disktrasa",
       "skurtrasa",
       "-slok",
@@ -112575,8 +112122,7 @@
     "stuttbeyg": "hann er krítískur, hún er krítísk, það er krítískt; krítískur - krítískari - krítískastur",
     "translations": [
       "kritisk",
-      "misstänksam",
-      "kritisk"
+      "misstänksam"
     ],
     "examples": [
       {
@@ -112743,7 +112289,6 @@
     "translations": [
       "läcka",
       "droppa",
-      "läcka",
       "sippra ut",
       "sippra fram"
     ],
@@ -113070,7 +112615,6 @@
       "själssmärta",
       "kval",
       "smärta",
-      "smärta",
       "värk",
       "stackare",
       "pojkstackare"
@@ -113241,8 +112785,7 @@
     "translations": [
       "kunglig",
       "konungslig",
-      "majestätisk",
-      "kunglig"
+      "majestätisk"
     ],
     "examples": [
       {
@@ -113393,7 +112936,6 @@
     "stuttbeyg": null,
     "translations": [
       "bock",
-      "häst",
       "häst"
     ],
     "examples": [
@@ -113512,8 +113054,7 @@
     "stuttbeyg": "hann er eldrauður, hún er eldrauð, það er eldrautt; eldrauður - eldrauðari - eldrauðastur",
     "translations": [
       "illröd",
-      "knallröd",
-      "illröd"
+      "knallröd"
     ],
     "examples": [
       {
@@ -113690,7 +113231,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "naturlag",
       "naturlag"
     ],
     "examples": [
@@ -114142,7 +113682,6 @@
       "tydlig",
       "klar",
       "redo",
-      "klar",
       "skärpt",
       "intelligent"
     ],
@@ -114606,7 +114145,6 @@
     "stuttbeyg": "ég spóla, við spólum; hann spólaði; hann hefur spólað",
     "translations": [
       "spinna",
-      "spola",
       "spola"
     ],
     "examples": [
@@ -115008,7 +114546,6 @@
     "translations": [
       "åderlåtning",
       "blodtappning",
-      "åderlåtning",
       "förlust",
       "blodsugning",
       "utsugning"
@@ -115561,7 +115098,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "energibehov",
       "energibehov"
     ],
     "examples": [
@@ -115582,7 +115118,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "tackla",
       "tackla",
       "angripa"
     ],
@@ -116260,7 +115795,6 @@
     "gender": null,
     "stuttbeyg": "hann er jákvæður, hún er jákvæð, það er jákvætt; jákvæður - jákvæðari - jákvæðastur",
     "translations": [
-      "positiv",
       "positiv"
     ],
     "examples": [
@@ -116623,8 +116157,7 @@
     "stuttbeyg": null,
     "translations": [
       "svinstia",
-      "griskätte",
-      "svinstia"
+      "griskätte"
     ],
     "examples": [
       {
@@ -116685,8 +116218,7 @@
       "anta",
       "nämna",
       "berätta",
-      "ha möjlighet",
-      "kunna"
+      "ha möjlighet"
     ],
     "examples": [
       {
@@ -116779,8 +116311,7 @@
     "stuttbeyg": null,
     "translations": [
       "slaveri",
-      "träldom",
-      "slaveri"
+      "träldom"
     ],
     "examples": [
       {
@@ -117295,16 +116826,11 @@
       "ta",
       "få tag i",
       "gripa",
-      "ta",
       "ha plats för",
       "rymma",
-      "ta",
       "ta emot",
-      "ta",
       "tolka",
-      "ta",
-      "börja",
-      "ta"
+      "börja"
     ],
     "examples": [
       {
@@ -117656,8 +117182,7 @@
     "stuttbeyg": "hann er litaður, hún er lituð, það er litað; litaður - litaðri - litaðastur",
     "translations": [
       "färgad",
-      "kulört",
-      "färgad"
+      "kulört"
     ],
     "examples": [
       {
@@ -117838,7 +117363,6 @@
       "grym",
       "skoningslös",
       "aggressiv",
-      "grym",
       "ilsken"
     ],
     "examples": [
@@ -118347,7 +117871,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "ledning",
       "ledning"
     ],
     "examples": [
@@ -118915,7 +118438,6 @@
       "rita upp",
       "teckna",
       "dra upp",
-      "dra",
       "dröja",
       "vänta",
       "försinka",
@@ -119529,7 +119051,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "drama",
       "drama"
     ],
     "examples": [
@@ -119603,7 +119124,6 @@
     "gender": null,
     "stuttbeyg": "hann er verðugur, hún er verðug, það er verðugt; verðugur - verðugri - verðugastur",
     "translations": [
-      "värdig",
       "värdig"
     ],
     "examples": [
@@ -119925,7 +119445,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "stickning",
       "stickning"
     ],
     "examples": [
@@ -120863,7 +120382,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "papperslös",
       "papperslös"
     ],
     "examples": [
@@ -120884,7 +120402,6 @@
     "gender": null,
     "stuttbeyg": "ég þagna, við þögnum; hann þagnaði; hann hefur þagnað",
     "translations": [
-      "tystna",
       "tystna",
       "klinga ut"
     ],
@@ -121004,9 +120521,7 @@
       "täppa",
       "rabatt",
       "ruta",
-      "fält",
-      "fält",
-      "ruta"
+      "fält"
     ],
     "examples": [
       {
@@ -121199,8 +120714,6 @@
     "gender": "m",
     "stuttbeyg": "",
     "translations": [
-      "bonus",
-      "bonus",
       "bonus"
     ],
     "examples": [
@@ -121659,7 +121172,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "hurdan",
       "hurdan"
     ],
     "examples": [
@@ -122803,8 +122315,7 @@
     "translations": [
       "precis",
       "just det",
-      "exakt",
-      "precis"
+      "exakt"
     ],
     "examples": [
       {
@@ -122830,7 +122341,6 @@
     "translations": [
       "injektion",
       "insprutningspump",
-      "injektion",
       "stimulans"
     ],
     "examples": [
@@ -122909,8 +122419,7 @@
     "translations": [
       "boka",
       "reservera",
-      "anteckna",
-      "reservera"
+      "anteckna"
     ],
     "examples": [
       {
@@ -123622,7 +123131,6 @@
     "translations": [
       "viktig",
       "central",
-      "central",
       "centraliserad"
     ],
     "examples": [
@@ -123933,7 +123441,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "tjuv",
       "tjuv"
     ],
     "examples": [
@@ -124259,10 +123766,8 @@
     "translations": [
       "ben",
       "fot",
-      "ben",
       "sockel",
       "bas",
-      "fot",
       "radavstånd",
       "kägel"
     ],
@@ -124338,8 +123843,6 @@
       "hårspänne",
       "spänning",
       "förväntan",
-      "spänning",
-      "spänning",
       "tryck"
     ],
     "examples": [
@@ -124516,8 +124019,7 @@
     "stuttbeyg": "hann er þvottekta, hún er þvottekta, það er þvottekta",
     "translations": [
       "tvättäkta",
-      "genuin",
-      "tvättäkta"
+      "genuin"
     ],
     "examples": [
       {
@@ -124534,8 +124036,7 @@
     "stuttbeyg": null,
     "translations": [
       "ton",
-      "tonfall",
-      "ton"
+      "tonfall"
     ],
     "examples": [
       {
@@ -125469,8 +124970,7 @@
     "stuttbeyg": null,
     "translations": [
       "uppställning",
-      "installation",
-      "uppställning"
+      "installation"
     ],
     "examples": [
       {
@@ -126256,8 +125756,7 @@
       "kap",
       "vinst",
       "pris",
-      "fynd",
-      "kap"
+      "fynd"
     ],
     "examples": [
       {
@@ -126356,9 +125855,7 @@
     "stuttbeyg": null,
     "translations": [
       "vilken",
-      "vilken",
-      "sån",
-      "vilken"
+      "sån"
     ],
     "examples": [
       {
@@ -126506,8 +126003,7 @@
     "stuttbeyg": null,
     "translations": [
       "fan",
-      "den lede",
-      "fan"
+      "den lede"
     ],
     "examples": [
       {
@@ -126589,7 +126085,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "drickande",
       "drickande",
       "supande"
     ],
@@ -127535,7 +127030,6 @@
     "gender": null,
     "stuttbeyg": "hann er máttugur, hún er máttug, það er máttugt; máttugur - máttugri - máttugastur",
     "translations": [
-      "mäktig",
       "mäktig"
     ],
     "examples": [
@@ -127742,8 +127236,6 @@
     "stuttbeyg": "ég leik, hann leikur; hann lék, við lékum; hann hefur leikið",
     "translations": [
       "leka",
-      "spela",
-      "spela",
       "spela"
     ],
     "examples": [
@@ -127856,7 +127348,6 @@
     "stuttbeyg": null,
     "translations": [
       "konsument",
-      "användare",
       "användare"
     ],
     "examples": [
@@ -128163,7 +127654,6 @@
     "translations": [
       "kunna",
       "behärska",
-      "kunna",
       "skulle kunna"
     ],
     "examples": [
@@ -128458,7 +127948,6 @@
     "gender": null,
     "stuttbeyg": "ég reyki, hann reykir; hann reykti; hann hefur reykt",
     "translations": [
-      "röka",
       "röka"
     ],
     "examples": [
@@ -128531,8 +128020,7 @@
     "stuttbeyg": "ég hrókera, við hrókerum; hann hrókeraði; hann hefur hrókerað",
     "translations": [
       "göra rockad",
-      "rockera",
-      "göra rockad"
+      "rockera"
     ],
     "examples": [
       {
@@ -128590,8 +128078,6 @@
     "translations": [
       "karaktär",
       "personlighet",
-      "karaktär",
-      "karaktär",
       "atmosfär"
     ],
     "examples": [
@@ -129007,8 +128493,7 @@
     "stuttbeyg": null,
     "translations": [
       "fars",
-      "lustspel",
-      "fars"
+      "lustspel"
     ],
     "examples": [
       {
@@ -129076,8 +128561,7 @@
       "ryta",
       "skrika",
       "böla",
-      "bröla",
-      "ryta"
+      "bröla"
     ],
     "examples": [
       {
@@ -129223,8 +128707,6 @@
     "gender": null,
     "stuttbeyg": "ég rugga, við ruggum; hann ruggaði; hann hefur ruggað",
     "translations": [
-      "gunga",
-      "vagga",
       "gunga",
       "vagga"
     ],
@@ -129862,9 +129344,7 @@
       "stat",
       "rike",
       "imperium",
-      "potens",
-      "makt",
-      "välde"
+      "potens"
     ],
     "examples": [
       {
@@ -130701,8 +130181,7 @@
     "translations": [
       "lösenord",
       "kod",
-      "programkod",
-      "kod"
+      "programkod"
     ],
     "examples": [
       {
@@ -131251,7 +130730,6 @@
       "ofullgången",
       "ofärdig",
       "omogen",
-      "ofullgången",
       "prematur"
     ],
     "examples": [
@@ -132002,10 +131480,8 @@
     "translations": [
       "smal",
       "magerlagd",
-      "smal",
       "tunn",
-      "grann",
-      "tunn"
+      "grann"
     ],
     "examples": [
       {
@@ -132059,7 +131535,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "hur",
       "hur"
     ],
     "examples": [
@@ -133338,7 +132813,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "mardröm",
       "mardröm"
     ],
     "examples": [
@@ -133547,8 +133021,7 @@
       "binda",
       "knyta",
       "fjättra",
-      "förtöja",
-      "binda"
+      "förtöja"
     ],
     "examples": [
       {
@@ -134024,7 +133497,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "solstråle",
       "solstråle"
     ],
     "examples": [
@@ -134915,8 +134387,7 @@
     "stuttbeyg": null,
     "translations": [
       "variation",
-      "variant",
-      "variation"
+      "variant"
     ],
     "examples": [
       {
@@ -134970,7 +134441,6 @@
     "translations": [
       "befrielse",
       "avlösning",
-      "lösning",
       "lösning"
     ],
     "examples": [
@@ -135152,7 +134622,6 @@
       "landa",
       "sätta sig",
       "gå ned",
-      "sätta sig",
       "avlagras",
       "avlagra sig"
     ],
@@ -135237,7 +134706,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "högt",
       "högt"
     ],
     "examples": [
@@ -135663,10 +135131,6 @@
       "kort",
       "kortväxt",
       "liten",
-      "låg",
-      "låg",
-      "svag",
-      "låg",
       "svag"
     ],
     "examples": [
@@ -135781,8 +135245,7 @@
     "stuttbeyg": "hann er grænn, hún er græn, það er grænt; grænn - grænni - grænastur",
     "translations": [
       "grön",
-      "naiv",
-      "grön"
+      "naiv"
     ],
     "examples": [
       {
@@ -136103,7 +135566,6 @@
     "gender": null,
     "stuttbeyg": "ég krydda, við kryddum; hann kryddaði; hann hefur kryddað",
     "translations": [
-      "krydda",
       "krydda"
     ],
     "examples": [
@@ -136430,12 +135892,7 @@
       "hård",
       "skarp",
       "vass",
-      "skarp",
-      "hård",
-      "skarp",
-      "sträng",
-      "sträng",
-      "hård"
+      "sträng"
     ],
     "examples": [
       {
@@ -136506,10 +135963,8 @@
     "translations": [
       "varm",
       "mild",
-      "varm",
       "hjärtlig",
-      "älskvärd",
-      "varm"
+      "älskvärd"
     ],
     "examples": [
       {
@@ -136949,7 +136404,6 @@
     "translations": [
       "hurtig",
       "livlig",
-      "livlig",
       "myllrande"
     ],
     "examples": [
@@ -136970,7 +136424,6 @@
     "gender": null,
     "stuttbeyg": "ég yfirfer, hann yfirfer; hann yfirfór, við yfirfórum; hann hefur yfirfarið",
     "translations": [
-      "kontrollera",
       "kontrollera"
     ],
     "examples": [
@@ -137015,8 +136468,7 @@
     "stuttbeyg": "ég fæði, hann fæðir; hann fæddi; hann hefur fætt",
     "translations": [
       "föda",
-      "försörja",
-      "föda"
+      "försörja"
     ],
     "examples": [
       {
@@ -137076,8 +136528,7 @@
     "translations": [
       "smälta",
       "slaska",
-      "töa bort",
-      "smälta"
+      "töa bort"
     ],
     "examples": [
       {
@@ -137438,8 +136889,7 @@
     "stuttbeyg": null,
     "translations": [
       "närbild",
-      "porträtt",
-      "närbild"
+      "porträtt"
     ],
     "examples": [
       {
@@ -137616,8 +137066,7 @@
     "translations": [
       "kunna",
       "skulle kunna",
-      "få",
-      "kunna"
+      "få"
     ],
     "examples": [
       {
@@ -138060,8 +137509,7 @@
     "stuttbeyg": null,
     "translations": [
       "försök",
-      "experiment",
-      "försök"
+      "experiment"
     ],
     "examples": [
       {
@@ -138193,7 +137641,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "varifrån",
       "varifrån"
     ],
     "examples": [
@@ -138887,8 +138334,7 @@
       "ansvar",
       "ledning",
       "tillsyn",
-      "överinseende",
-      "ansvar"
+      "överinseende"
     ],
     "examples": [
       {
@@ -139193,12 +138639,9 @@
     "translations": [
       "gå",
       "promenera",
-      "gå",
       "gå för sig",
       "gå an",
-      "gå",
       "fungera",
-      "gå",
       "trafikera"
     ],
     "examples": [
@@ -139776,7 +139219,6 @@
     "stuttbeyg": null,
     "translations": [
       "papper",
-      "papper",
       "dokument"
     ],
     "examples": [
@@ -139863,7 +139305,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "långt",
       "långt",
       "länge"
     ],
@@ -141709,7 +141150,6 @@
       "delning",
       "splittring",
       "brytning",
-      "klyvning",
       "fission"
     ],
     "examples": [
@@ -142977,8 +142417,7 @@
     "translations": [
       "primitiv",
       "outvecklad",
-      "simpel",
-      "primitiv"
+      "simpel"
     ],
     "examples": [
       {
@@ -143152,7 +142591,6 @@
     "stuttbeyg": "ég lykta, við lyktum; hann lyktaði; hann hefur lyktað",
     "translations": [
       "lukta",
-      "lukta",
       "dofta",
       "osa",
       "stinka"
@@ -143238,8 +142676,7 @@
     "translations": [
       "larm",
       "stoj",
-      "glam",
-      "stoj"
+      "glam"
     ],
     "examples": [
       {
@@ -143524,7 +142961,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "inträde",
       "inträde"
     ],
     "examples": [
@@ -144144,8 +143580,6 @@
     "gender": null,
     "stuttbeyg": "hann er upptekinn, hún er upptekin, það er upptekið; upptekinn - uppteknari - uppteknastur",
     "translations": [
-      "upptagen",
-      "upptagen",
       "upptagen"
     ],
     "examples": [
@@ -144277,8 +143711,7 @@
     "translations": [
       "bestämd",
       "resolut",
-      "viss",
-      "bestämd"
+      "viss"
     ],
     "examples": [
       {
@@ -145156,8 +144589,6 @@
     "stuttbeyg": "ég keyri, hann keyrir; hann keyrði; hann hefur keyrt",
     "translations": [
       "köra",
-      "köra",
-      "köra",
       "driva",
       "föra"
     ],
@@ -145595,12 +145026,8 @@
     "translations": [
       "kraftig",
       "tjock",
-      "tjock",
-      "kraftig",
       "trögflytande",
-      "tjock",
-      "tät",
-      "tjock"
+      "tät"
     ],
     "examples": [
       {
@@ -145873,7 +145300,6 @@
     "gender": null,
     "stuttbeyg": "hann er menningarlegur, hún er menningarleg, það er menningarlegt; menningarlegur - menningarlegri - menningarlegastur",
     "translations": [
-      "kulturell",
       "kulturell"
     ],
     "examples": [
@@ -146122,7 +145548,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "skapare",
       "skapare"
     ],
     "examples": [
@@ -146155,8 +145580,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "pärla",
-      "pärla",
       "pärla"
     ],
     "examples": [
@@ -146301,8 +145724,7 @@
       "servitör",
       "kypare",
       "server",
-      "tjänare",
-      "server"
+      "tjänare"
     ],
     "examples": [
       {
@@ -146693,8 +146115,7 @@
     "translations": [
       "förmögen",
       "rik",
-      "välbärgad",
-      "rik"
+      "välbärgad"
     ],
     "examples": [
       {
@@ -147531,8 +146952,7 @@
     "stuttbeyg": null,
     "translations": [
       "svängrum",
-      "utrymme",
-      "svängrum"
+      "utrymme"
     ],
     "examples": [
       {
@@ -147740,8 +147160,7 @@
     "stuttbeyg": "ég garga, við görgum; hann gargaði; hann hefur gargað",
     "translations": [
       "skrika",
-      "skräna",
-      "skrika"
+      "skräna"
     ],
     "examples": [
       {
@@ -148482,7 +147901,6 @@
       "matematiskt problem",
       "exempel",
       "prov",
-      "exempel",
       "fall"
     ],
     "examples": [
@@ -148848,8 +148266,7 @@
     "stuttbeyg": "hann fyllist; hann fylltist; hann hefur fyllst",
     "translations": [
       "fyllas",
-      "överväldigas",
-      "fyllas"
+      "överväldigas"
     ],
     "examples": [
       {
@@ -149124,8 +148541,7 @@
       "susa",
       "rusa",
       "flyga fram",
-      "vina",
-      "susa"
+      "vina"
     ],
     "examples": [
       {
@@ -149263,7 +148679,6 @@
       "belägenhet",
       "tjänst",
       "status",
-      "ställning",
       "situation"
     ],
     "examples": [
@@ -149288,7 +148703,6 @@
     "gender": null,
     "stuttbeyg": "hann er ríkur, hún er rík, það er ríkt; ríkur - ríkari - ríkastur",
     "translations": [
-      "rik",
       "rik",
       "framträdande",
       "stor"
@@ -149342,7 +148756,6 @@
     "gender": null,
     "stuttbeyg": "ég þjappa, við þjöppum; hann þjappaði; hann hefur þjappað",
     "translations": [
-      "komprimera",
       "komprimera"
     ],
     "examples": [
@@ -149605,7 +149018,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "sammanhang",
       "sammanhang"
     ],
     "examples": [
@@ -149916,8 +149328,7 @@
     "stuttbeyg": null,
     "translations": [
       "stycke",
-      "del",
-      "stycke"
+      "del"
     ],
     "examples": [
       {
@@ -150173,8 +149584,6 @@
     "gender": null,
     "stuttbeyg": "hann er ópersónulegur, hún er ópersónuleg, það er ópersónulegt; ópersónulegur - ópersónulegri - ópersónulegastur",
     "translations": [
-      "opersonlig",
-      "opersonlig",
       "opersonlig"
     ],
     "examples": [
@@ -150275,7 +149684,6 @@
       "klar",
       "färdig",
       "redo",
-      "färdig",
       "handelsgödsel",
       "konstgödsel",
       "konstgödning"
@@ -150502,8 +149910,7 @@
     "translations": [
       "stark",
       "kraftig",
-      "stor",
-      "stark"
+      "stor"
     ],
     "examples": [
       {
@@ -150772,8 +150179,7 @@
       "manuskript",
       "manus",
       "handskrift",
-      "storyboard",
-      "manus"
+      "storyboard"
     ],
     "examples": [
       {
@@ -150812,7 +150218,6 @@
     "gender": "fpl",
     "stuttbeyg": null,
     "translations": [
-      "arv",
       "arv"
     ],
     "examples": [
@@ -150927,9 +150332,7 @@
       "dålig",
       "svår",
       "elak",
-      "dålig",
       "illa däran",
-      "dålig",
       "oduglig",
       "usel"
     ],
@@ -151119,7 +150522,6 @@
     "gender": "fpl",
     "stuttbeyg": null,
     "translations": [
-      "fibrer",
       "fibrer"
     ],
     "examples": [
@@ -151963,7 +151365,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "styrka",
       "styrka"
     ],
     "examples": [
@@ -152410,15 +151811,12 @@
       "duktig",
       "skicklig",
       "bra",
-      "god",
       "fördelaktig",
       "positiv",
       "vänlig",
       "lätt",
       "skön",
       "vacker",
-      "god",
-      "bra",
       "stor",
       "vara på god väg att <nå sina mål>"
     ],
@@ -152687,7 +152085,6 @@
     "stuttbeyg": null,
     "translations": [
       "opraktisk",
-      "opraktisk",
       "orealistisk"
     ],
     "examples": [
@@ -152722,8 +152119,7 @@
     "translations": [
       "knycka",
       "sno",
-      "palla",
-      "sno"
+      "palla"
     ],
     "examples": [
       {
@@ -152775,7 +152171,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "nedgående",
       "nedgående"
     ],
     "examples": [
@@ -153185,7 +152580,6 @@
       "åtgärd",
       "datakommando",
       "kommando",
-      "operation",
       "grovrensning"
     ],
     "examples": [
@@ -153342,7 +152736,6 @@
     "stuttbeyg": null,
     "translations": [
       "rådgivning",
-      "råd",
       "råd"
     ],
     "examples": [
@@ -153430,7 +152823,6 @@
     "translations": [
       "vagga",
       "gunga",
-      "vagga",
       "svinga",
       "svaja"
     ],
@@ -153607,9 +152999,7 @@
     "stuttbeyg": "ég trufla, við truflum; hann truflaði; hann hefur truflað",
     "translations": [
       "störa",
-      "störa",
-      "rubba",
-      "störa"
+      "rubba"
     ],
     "examples": [
       {
@@ -154479,7 +153869,6 @@
       "vagga",
       "spädbarnstiden",
       "ursprung",
-      "vagga",
       "stamort"
     ],
     "examples": [
@@ -154840,8 +154229,7 @@
       "läsa in",
       "ladda",
       "ladda upp",
-      "lasta",
-      "ladda"
+      "lasta"
     ],
     "examples": [
       {
@@ -154928,8 +154316,7 @@
     "stuttbeyg": null,
     "translations": [
       "fisk",
-      "Fiskarna",
-      "fisk"
+      "Fiskarna"
     ],
     "examples": [
       {
@@ -155209,7 +154596,6 @@
     "stuttbeyg": "hann er óupplýstur, hún er óupplýst, það er óupplýst; óupplýstur - óupplýstari - óupplýstastur",
     "translations": [
       "oupplyst",
-      "oupplyst",
       "oinformerad",
       "ouppklarad"
     ],
@@ -155339,7 +154725,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "eko",
       "eko",
       "kopia"
     ],
@@ -156598,11 +155983,8 @@
     "translations": [
       "lätt",
       "lättsam",
-      "lätt",
       "enkel",
-      "lätt",
-      "lättsmält",
-      "lätt"
+      "lättsmält"
     ],
     "examples": [
       {
@@ -156655,7 +156037,6 @@
     "gender": null,
     "stuttbeyg": "hann er neikvæður, hún er neikvæð, það er neikvætt; neikvæður - neikvæðari - neikvæðastur",
     "translations": [
-      "negativ",
       "negativ"
     ],
     "examples": [
@@ -157268,8 +156649,7 @@
     "stuttbeyg": "hann er steindauður, hún er steindauð, það er steindautt",
     "translations": [
       "stendöd",
-      "livlös",
-      "stendöd"
+      "livlös"
     ],
     "examples": [
       {
@@ -157348,7 +156728,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "beställning",
       "beställning"
     ],
     "examples": [
@@ -157713,7 +157092,6 @@
     "stuttbeyg": "ég lýst, hann lýstur; hann laust, við lustum; hann hefur lostið",
     "translations": [
       "träffa",
-      "slå",
       "slå"
     ],
     "examples": [
@@ -157805,7 +157183,6 @@
       "arbete",
       "jobb",
       "anställning",
-      "arbete",
       "tjänst"
     ],
     "examples": [
@@ -157822,7 +157199,6 @@
     "gender": null,
     "stuttbeyg": "hann er ryðgaður, hún er ryðguð, það er ryðgað; ryðgaður - ryðgaðri - ryðgaðastur",
     "translations": [
-      "rostig",
       "rostig"
     ],
     "examples": [
@@ -158079,7 +157455,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "spektrum",
       "spektrum",
       "register"
     ],
@@ -158347,7 +157722,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "urvattning",
       "urvattning"
     ],
     "examples": [
@@ -158429,7 +157803,6 @@
     "gender": null,
     "stuttbeyg": "ég lendi, hann lendir; hann lenti; hann hefur lent",
     "translations": [
-      "landa",
       "landa"
     ],
     "examples": [
@@ -159285,8 +158658,7 @@
       "svag",
       "späd",
       "sjuk",
-      "dålig",
-      "svag"
+      "dålig"
     ],
     "examples": [
       {
@@ -159875,9 +159247,6 @@
       "trist",
       "tråkig",
       "dålig",
-      "trist",
-      "tråkig",
-      "trist",
       "sorglig",
       "bedrövlig"
     ],
@@ -159971,7 +159340,6 @@
     "translations": [
       "anteckning",
       "lektionsanteckning",
-      "glosa",
       "glosa",
       "spydighet"
     ],
@@ -161573,8 +160941,7 @@
       "slänga iväg",
       "kasta",
       "slänga bort",
-      "slänga",
-      "kasta"
+      "slänga"
     ],
     "examples": [
       {
@@ -161768,7 +161135,6 @@
     "stuttbeyg": "hann er óvandaður, hún er óvönduð, það er óvandað; óvandaður - óvandaðri - óvandaðastur",
     "translations": [
       "simpel",
-      "simpel",
       "lumpen"
     ],
     "examples": [
@@ -161905,10 +161271,7 @@
     "translations": [
       "göra sig märkvärdig",
       "sticka upp",
-      "käfta emot",
-      "käfta emot",
-      "göra sig märkvärdig",
-      "sticka upp"
+      "käfta emot"
     ],
     "examples": [
       {
@@ -162091,7 +161454,6 @@
     "stuttbeyg": "ég pússa, við pússum; hann pússaði; hann hefur pússað",
     "translations": [
       "rappa",
-      "putsa",
       "putsa"
     ],
     "examples": [
@@ -162165,7 +161527,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "sprickbildning",
       "sprickbildning"
     ],
     "examples": [
@@ -162769,7 +162130,6 @@
     "translations": [
       "erfarenhet",
       "upplevelse",
-      "erfarenhet",
       "vana",
       "prov"
     ],
@@ -163358,8 +162718,6 @@
     "stuttbeyg": null,
     "translations": [
       "slingra",
-      "slingra sig",
-      "slingra",
       "slingra sig"
     ],
     "examples": [
@@ -163585,7 +162943,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "översikt",
       "översikt"
     ],
     "examples": [
@@ -164154,7 +163511,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "kris",
       "kris"
     ],
     "examples": [
@@ -164867,7 +164223,6 @@
       "ungefärligt",
       "grovt",
       "brutalt",
-      "grovt",
       "rått"
     ],
     "examples": [
@@ -166166,7 +165521,6 @@
       "lönande",
       "inbringande",
       "lukrativ",
-      "fet",
       "fetthaltig"
     ],
     "examples": [
@@ -166415,7 +165769,6 @@
     "gender": null,
     "stuttbeyg": "hann er upphitaður, hún er upphituð, það er upphitað; upphitaður - upphitaðri - upphitaðastur",
     "translations": [
-      "uppvärmd",
       "uppvärmd"
     ],
     "examples": [
@@ -166926,7 +166279,6 @@
       "diktning",
       "skönlitteratur",
       "fiction",
-      "diktning",
       "fiktion",
       "osanning",
       "fantasier"
@@ -167012,8 +166364,7 @@
     "translations": [
       "invigning",
       "öppnande",
-      "öppning",
-      "öppnande"
+      "öppning"
     ],
     "examples": [
       {
@@ -167341,7 +166692,6 @@
     "translations": [
       "kryp",
       "fä",
-      "kryp",
       "kräk"
     ],
     "examples": [
@@ -167465,7 +166815,6 @@
       "bak",
       "ända",
       "ände",
-      "botten",
       "tårtbotten",
       "kakbotten"
     ],
@@ -167551,7 +166900,6 @@
       "utlåtande",
       "predikat",
       "predikatsled",
-      "predikat",
       "utsaga"
     ],
     "examples": [
@@ -167641,7 +166989,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "kanal",
       "kanal"
     ],
     "examples": [
@@ -167675,7 +167022,6 @@
     "stuttbeyg": "hann er litríkur, hún er litrík, það er litríkt; litríkur - litríkari - litríkastur",
     "translations": [
       "färggrann",
-      "brokig",
       "brokig",
       "varierande",
       "mångfasetterad"
@@ -167816,7 +167162,6 @@
     "stuttbeyg": null,
     "translations": [
       "återanpassning",
-      "rehabilitering",
       "rehabilitering"
     ],
     "examples": [
@@ -168030,8 +167375,6 @@
     "stuttbeyg": "hann er stabíll, hún er stabíl, það er stabílt; stabíll - stabílli - stabílastur",
     "translations": [
       "stabil",
-      "stadig",
-      "stabil",
       "stadig"
     ],
     "examples": [
@@ -168120,8 +167463,7 @@
     "translations": [
       "kyligt",
       "kallt",
-      "avmätt",
-      "kallt"
+      "avmätt"
     ],
     "examples": [
       {
@@ -168160,7 +167502,6 @@
     "translations": [
       "kraftig",
       "gedigen",
-      "kraftig",
       "ståtlig"
     ],
     "examples": [
@@ -168446,7 +167787,6 @@
     "translations": [
       "vild",
       "vilse",
-      "vild",
       "oregerlig",
       "hämningslös"
     ],
@@ -168471,7 +167811,6 @@
       "skyffla",
       "skotta",
       "schakta",
-      "skotta",
       "mocka"
     ],
     "examples": [
@@ -170068,8 +169407,7 @@
     "translations": [
       "lossning",
       "tömning",
-      "dumpning",
-      "lossning"
+      "dumpning"
     ],
     "examples": [
       {
@@ -170342,8 +169680,7 @@
     "translations": [
       "konst",
       "konststycke",
-      "trick",
-      "konst"
+      "trick"
     ],
     "examples": [
       {
@@ -171897,8 +171234,7 @@
     "stuttbeyg": "hann er takmarkaður, hún er takmörkuð, það er takmarkað; takmarkaður - takmarkaðri - takmarkaðastur",
     "translations": [
       "begränsad",
-      "inskränkt",
-      "begränsad"
+      "inskränkt"
     ],
     "examples": [
       {
@@ -171956,8 +171292,7 @@
     "stuttbeyg": "hann er diplómatískur, hún er diplómatísk, það er diplómatískt; diplómatískur - diplómatískari - diplómatískastur",
     "translations": [
       "diplomatisk",
-      "smidig",
-      "diplomatisk"
+      "smidig"
     ],
     "examples": [
       {
@@ -172374,7 +171709,6 @@
     "translations": [
       "grov",
       "sträv",
-      "grov",
       "grovkornig"
     ],
     "examples": [
@@ -172670,7 +172004,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "naturbarn",
       "naturbarn"
     ],
     "examples": [
@@ -173495,7 +172828,6 @@
       "väg",
       "bana",
       "studieprogram",
-      "bana",
       "omloppsbana"
     ],
     "examples": [
@@ -173667,7 +172999,6 @@
     "stuttbeyg": null,
     "translations": [
       "lockbete",
-      "lockfågel",
       "lockfågel"
     ],
     "examples": [
@@ -173794,8 +173125,6 @@
     "translations": [
       "hel",
       "all",
-      "hel",
-      "hel",
       "alldeles"
     ],
     "examples": [
@@ -173983,7 +173312,6 @@
     "stuttbeyg": "ég rannsaka, við rannsökum; hann rannsakaði; hann hefur rannsakað",
     "translations": [
       "forska",
-      "undersöka",
       "undersöka",
       "studera",
       "granska"
@@ -175394,7 +174722,6 @@
       "minska",
       "reducera",
       "förminska",
-      "minska",
       "sjunka",
       "krympa"
     ],
@@ -175514,7 +174841,6 @@
     "translations": [
       "strömma",
       "flyta",
-      "strömma",
       "streama"
     ],
     "examples": [
@@ -175560,8 +174886,6 @@
       "plan",
       "område",
       "nivå",
-      "plan",
-      "plan",
       "yta"
     ],
     "examples": [
@@ -175886,7 +175210,6 @@
     "translations": [
       "utfodra",
       "fodra",
-      "fodra",
       "bekläda",
       "förse"
     ],
@@ -176107,9 +175430,6 @@
     "gender": null,
     "stuttbeyg": "ég sendi, hann sendir; hann sendi; hann hefur sent",
     "translations": [
-      "skicka",
-      "sända",
-      "skicka",
       "skicka",
       "sända",
       "utsända",
@@ -176344,8 +175664,7 @@
       "tvista",
       "dividera",
       "dela",
-      "fördela",
-      "dela"
+      "fördela"
     ],
     "examples": [
       {
@@ -177947,9 +177266,6 @@
     "translations": [
       "ge",
       "få",
-      "ge",
-      "få",
-      "ge",
       "mata",
       "utfodra",
       "servera"
@@ -178224,8 +177540,7 @@
     "translations": [
       "sammankalla",
       "kalla",
-      "stämma",
-      "kalla"
+      "stämma"
     ],
     "examples": [
       {
@@ -179269,7 +178584,6 @@
       "lägga",
       "fastställa",
       "bestämma",
-      "sätta",
       "invigning",
       "öppnande",
       "starta",
@@ -180048,8 +179362,7 @@
     "stuttbeyg": "hann er undirritaður, hún er undirrituð, það er undirritað",
     "translations": [
       "undertecknad",
-      "jag",
-      "undertecknad"
+      "jag"
     ],
     "examples": [
       {
@@ -180088,7 +179401,6 @@
       "leka",
       "pilla",
       "fingra",
-      "pilla",
       "experimentera"
     ],
     "examples": [
@@ -181049,7 +180361,6 @@
     "gender": null,
     "stuttbeyg": "hann er sambærilegur, hún er sambærileg, það er sambærilegt; sambærilegur - sambærilegri - sambærilegastur",
     "translations": [
-      "jämförbar",
       "jämförbar"
     ],
     "examples": [
@@ -181639,8 +180950,7 @@
     "translations": [
       "robust",
       "hårdför",
-      "tålig",
-      "robust"
+      "tålig"
     ],
     "examples": [
       {
@@ -181829,7 +181139,6 @@
     "gender": null,
     "stuttbeyg": "hann er vængbrotinn, hún er vængbrotin, það er vængbrotið",
     "translations": [
-      "vingbruten",
       "vingbruten"
     ],
     "examples": [
@@ -181846,7 +181155,6 @@
     "gender": null,
     "stuttbeyg": "ég þvinga, við þvingum; hann þvingaði; hann hefur þvingað",
     "translations": [
-      "tvinga",
       "tvinga",
       "hämma"
     ],
@@ -182138,11 +181446,8 @@
     "stuttbeyg": "hann er hreinn, hún er hrein, það er hreint; hreinn - hreinni - hreinastur",
     "translations": [
       "ren",
-      "ren",
       "oblandad",
       "fullständig",
-      "ren",
-      "ren",
       "netto-"
     ],
     "examples": [
@@ -182464,7 +181769,6 @@
     "translations": [
       "flytande",
       "som rinner",
-      "flytande",
       "som flyter"
     ],
     "examples": [
@@ -183234,7 +182538,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "intåg",
       "intåg"
     ],
     "examples": [
@@ -183985,7 +183288,6 @@
     "translations": [
       "dyrka",
       "tillbe",
-      "dyrka",
       "avguda"
     ],
     "examples": [
@@ -184607,7 +183909,6 @@
       "takkupa",
       "spirea",
       "skott",
-      "kvist",
       "kvist"
     ],
     "examples": [
@@ -184649,7 +183950,6 @@
       "falang",
       "flygel",
       "armstöd",
-      "arm",
       "sida",
       "ben"
     ],
@@ -185187,8 +184487,7 @@
     "translations": [
       "svart",
       "mörk",
-      "dyster",
-      "svart"
+      "dyster"
     ],
     "examples": [
       {
@@ -185402,8 +184701,6 @@
     "translations": [
       "kors",
       "kryss",
-      "kors",
-      "kors",
       "lidande",
       "orden",
       "höjningstecken",
@@ -186121,8 +185418,7 @@
       "bä",
       "bräkande",
       "gnäll",
-      "tjat",
-      "bräkande"
+      "tjat"
     ],
     "examples": [
       {
@@ -186837,7 +186133,6 @@
     "translations": [
       "vacklande",
       "ostadig",
-      "vacklande",
       "vankelmodig",
       "ambivalent"
     ],
@@ -188487,7 +187782,6 @@
       "döma",
       "bedöma",
       "avgöra",
-      "döma",
       "avkunna dom",
       "utdöma"
     ],
@@ -188632,7 +187926,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "extra",
       "extra"
     ],
     "examples": [
@@ -188833,8 +188126,7 @@
     "translations": [
       "inför",
       "mittemot",
-      "gentemot",
-      "inför"
+      "gentemot"
     ],
     "examples": [
       {
@@ -188982,7 +188274,6 @@
     "translations": [
       "gå på grund",
       "grundstöta",
-      "stranda",
       "stranda"
     ],
     "examples": [
@@ -189346,7 +188637,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "brännare",
       "brännare"
     ],
     "examples": [
@@ -189386,8 +188676,7 @@
       "igen",
       "åter",
       "på nytt",
-      "tillbaka",
-      "igen"
+      "tillbaka"
     ],
     "examples": [
       {
@@ -189582,10 +188871,7 @@
     "translations": [
       "form",
       "struktur",
-      "disposition",
-      "form",
-      "form",
-      "form"
+      "disposition"
     ],
     "examples": [
       {
@@ -189955,7 +189241,6 @@
     "gender": null,
     "stuttbeyg": "ég spinn, hann spinnur; hann spann, við spunnum; hann hefur spunnið",
     "translations": [
-      "spinna",
       "spinna"
     ],
     "examples": [
@@ -190093,7 +189378,6 @@
       "helga",
       "viga",
       "ägna sitt liv åt",
-      "helga",
       "tillägna"
     ],
     "examples": [
@@ -190149,9 +189433,7 @@
       "böra",
       "skola",
       "skulle",
-      "skola",
       "borde",
-      "skola",
       "måste"
     ],
     "examples": [
@@ -191313,16 +190595,7 @@
     "translations": [
       "din",
       "ditt",
-      "din",
-      "ditt",
-      "din",
-      "ditt",
-      "din",
-      "ditt",
-      "din",
-      "ditt",
-      "du",
-      "din"
+      "du"
     ],
     "examples": [
       {
@@ -192359,8 +191632,7 @@
     "translations": [
       "beskyddare",
       "mecenat",
-      "protektor",
-      "beskyddare"
+      "protektor"
     ],
     "examples": [
       {
@@ -192430,8 +191702,7 @@
     "stuttbeyg": "ég flagga, við flöggum; hann flaggaði; hann hefur flaggað",
     "translations": [
       "flagga",
-      "visa upp",
-      "flagga"
+      "visa upp"
     ],
     "examples": [
       {
@@ -193041,7 +192312,6 @@
     "stuttbeyg": "ég hvíli, hann hvílir; hann hvíldi; hann hefur hvílt",
     "translations": [
       "vila",
-      "vila",
       "åligga",
       "sova"
     ],
@@ -193293,7 +192563,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "värme",
       "värme"
     ],
     "examples": [
@@ -193658,8 +192927,7 @@
     "stuttbeyg": null,
     "translations": [
       "apostel",
-      "banbrytare",
-      "apostel"
+      "banbrytare"
     ],
     "examples": [
       {
@@ -195067,7 +194335,6 @@
       "-ism",
       "åsikt",
       "uppfattning",
-      "uppfattning",
       "mening"
     ],
     "examples": [
@@ -195133,9 +194400,7 @@
     "stuttbeyg": null,
     "translations": [
       "efter",
-      "efter",
       "av",
-      "efter",
       "fram",
       "enligt"
     ],
@@ -195548,7 +194813,6 @@
     "stuttbeyg": "hann er órólegur, hún er óróleg, það er órólegt; órólegur - órólegri - órólegastur",
     "translations": [
       "bekymrad",
-      "orolig",
       "orolig"
     ],
     "examples": [
@@ -195606,7 +194870,6 @@
     "gender": null,
     "stuttbeyg": "hann gerjast; hann gerjaðist; hann hefur gerjast",
     "translations": [
-      "jäsa",
       "jäsa",
       "pyra",
       "gro"
@@ -196699,7 +195962,6 @@
     "stuttbeyg": "ég pískra, við pískrum; hann pískraði; hann hefur pískrað",
     "translations": [
       "tissla",
-      "tissla",
       "tissla och tassla"
     ],
     "examples": [
@@ -197415,8 +196677,7 @@
       "hade",
       "skulle",
       "borde",
-      "torde",
-      "skulle"
+      "torde"
     ],
     "examples": [
       {
@@ -197608,12 +196869,6 @@
       "några",
       "vissa",
       "somliga",
-      "några",
-      "vissa",
-      "somliga",
-      "somliga",
-      "vissa",
-      "några",
       "en del"
     ],
     "examples": [
@@ -198051,7 +197306,6 @@
     "translations": [
       "smörja",
       "stryka på",
-      "smörja",
       "kladda",
       "kleta",
       "smeta"
@@ -198112,7 +197366,6 @@
       "registrera",
       "anmäla",
       "checka in",
-      "skriva in",
       "lägga in"
     ],
     "examples": [
@@ -198497,8 +197750,7 @@
     "translations": [
       "studera",
       "plugga",
-      "undersöka",
-      "studera"
+      "undersöka"
     ],
     "examples": [
       {
@@ -198716,7 +197968,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "tatuering",
       "tatuering"
     ],
     "examples": [
@@ -199178,7 +198429,6 @@
     "gender": "m",
     "stuttbeyg": "",
     "translations": [
-      "energikälla",
       "energikälla"
     ],
     "examples": [
@@ -199684,7 +198934,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "maffia",
       "maffia"
     ],
     "examples": [
@@ -199819,8 +199068,7 @@
     "stuttbeyg": "hann er snarvitlaus, hún er snarvitlaus, það er snarvitlaust; snarvitlaus - snarvitlausari - snarvitlausastur",
     "translations": [
       "vanvettig",
-      "hopplös",
-      "vanvettig"
+      "hopplös"
     ],
     "examples": [
       {
@@ -199928,7 +199176,6 @@
       "mjuk",
       "len",
       "mullig",
-      "mjuk",
       "mild"
     ],
     "examples": [
@@ -200305,12 +199552,7 @@
     "translations": [
       "arbeta med",
       "göra",
-      "göra",
-      "göra",
-      "göra",
-      "göra",
       "förorsaka",
-      "göra",
       "skapa",
       "tillverka",
       "varsågod",
@@ -200625,7 +199867,6 @@
     "translations": [
       "kall",
       "oinbjudande",
-      "kall",
       "kylig"
     ],
     "examples": [
@@ -201427,7 +200668,6 @@
     "translations": [
       "mänsklig",
       "humanistisk",
-      "mänsklig",
       "social"
     ],
     "examples": [
@@ -201589,8 +200829,7 @@
     "stuttbeyg": "ég smelli, hann smellir; hann smellti; hann hefur smellt",
     "translations": [
       "knäppa",
-      "klicka",
-      "knäppa"
+      "klicka"
     ],
     "examples": [
       {
@@ -202034,7 +201273,6 @@
     "translations": [
       "inflammerad",
       "svullen",
-      "svullen",
       "uppblåst"
     ],
     "examples": [
@@ -202409,7 +201647,6 @@
     "stuttbeyg": null,
     "translations": [
       "någon",
-      "någon",
       "viss"
     ],
     "examples": [
@@ -202750,7 +201987,6 @@
     "stuttbeyg": null,
     "translations": [
       "brunn",
-      "brunn",
       "källa"
     ],
     "examples": [
@@ -202891,8 +202127,7 @@
     "translations": [
       "slö",
       "slapp",
-      "indolent",
-      "slö"
+      "indolent"
     ],
     "examples": [
       {
@@ -203017,7 +202252,6 @@
     "translations": [
       "giftig",
       "ettrig",
-      "giftig",
       "förgiftad"
     ],
     "examples": [
@@ -203129,7 +202363,6 @@
       "världsrymd",
       "rymd",
       "öppet rum",
-      "rymd",
       "vidd"
     ],
     "examples": [
@@ -203681,8 +202914,7 @@
       "klä på",
       "ta på",
       "klä",
-      "bekläda",
-      "klä"
+      "bekläda"
     ],
     "examples": [
       {
@@ -204052,8 +203284,7 @@
     "stuttbeyg": null,
     "translations": [
       "nybildning",
-      "nyord",
-      "nybildning"
+      "nyord"
     ],
     "examples": [
       {
@@ -204105,8 +203336,6 @@
     "translations": [
       "arbete",
       "uppdrag",
-      "verk",
-      "arbete",
       "verk"
     ],
     "examples": [
@@ -205128,7 +204357,6 @@
     "gender": null,
     "stuttbeyg": "ég flétta, við fléttum; hann fléttaði; hann hefur fléttað",
     "translations": [
-      "fläta",
       "fläta"
     ],
     "examples": [
@@ -205549,7 +204777,6 @@
     "stuttbeyg": null,
     "translations": [
       "friktion",
-      "friktion",
       "gnissel"
     ],
     "examples": [
@@ -205603,9 +204830,7 @@
     "stuttbeyg": null,
     "translations": [
       "stam",
-      "grund",
-      "stam",
-      "stam"
+      "grund"
     ],
     "examples": [
       {
@@ -205849,7 +205074,6 @@
     "stuttbeyg": null,
     "translations": [
       "avstånd",
-      "avstånd",
       "distans"
     ],
     "examples": [
@@ -205967,8 +205191,6 @@
     "translations": [
       "vilken",
       "vem",
-      "vilken",
-      "vilken",
       "varje",
       "vardera",
       "var"
@@ -206513,8 +205735,6 @@
     "stuttbeyg": "hann er smitandi, hún er smitandi, það er smitandi",
     "translations": [
       "smittsam",
-      "smittande",
-      "smittsam",
       "smittande"
     ],
     "examples": [
@@ -206569,7 +205789,6 @@
     "gender": null,
     "stuttbeyg": "það rignir; það rigndi; það hefur rignt",
     "translations": [
-      "regna",
       "regna"
     ],
     "examples": [
@@ -206917,8 +206136,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "våg",
-      "våg",
       "våg"
     ],
     "examples": [
@@ -206955,7 +206172,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "guld",
       "guld",
       "guldmedalj"
     ],
@@ -207170,7 +206386,6 @@
     "stuttbeyg": "hann er snauður, hún er snauð, það er snautt; snauður - snauðari - snauðastur",
     "translations": [
       "fattig",
-      "fattig",
       "snål",
       "sparsam"
     ],
@@ -207275,7 +206490,6 @@
     "translations": [
       "kika",
       "ta en snabbtitt",
-      "kika",
       "smygtitta",
       "tjuvtitta",
       "titta in"
@@ -207613,8 +206827,6 @@
     "gender": null,
     "stuttbeyg": "hann sýnist; hann sýndist; hann hefur sýnst",
     "translations": [
-      "se ut som",
-      "verka",
       "se ut som",
       "verka",
       "göra sig till"
@@ -209641,7 +208853,6 @@
     "stuttbeyg": "hann er útbrunninn, hún er útbrunnin, það er útbrunnið",
     "translations": [
       "utbrunnen",
-      "falnad",
       "falnad"
     ],
     "examples": [
@@ -210257,7 +209468,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "många",
       "många"
     ],
     "examples": [
@@ -210402,8 +209612,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "ingen",
-      "inte någon",
       "ingen",
       "inte någon"
     ],
@@ -210805,9 +210013,7 @@
     "stuttbeyg": "hann er stuttur, hún er stutt, það er stutt; stuttur - styttri - stystur",
     "translations": [
       "kort",
-      "kortvuxen",
-      "kort",
-      "kort"
+      "kortvuxen"
     ],
     "examples": [
       {
@@ -210867,7 +210073,6 @@
     "gender": null,
     "stuttbeyg": "hann vonast, við vonumst; hann vonaðist; hann hefur vonast",
     "translations": [
-      "hoppas på <det här>",
       "hoppas på <det här>"
     ],
     "examples": [
@@ -212484,8 +211689,7 @@
       "skrivblock",
       "block",
       "sammanslutning",
-      "kartell",
-      "block"
+      "kartell"
     ],
     "examples": [
       {
@@ -213214,7 +212418,6 @@
     "translations": [
       "båge",
       "pilbåge",
-      "båge",
       "valv",
       "valvbåge",
       "stråke"
@@ -213303,7 +212506,6 @@
     "gender": null,
     "stuttbeyg": "ég endurlífga, við endurlífgum; hann endurlífgaði; hann hefur endurlífgað",
     "translations": [
-      "återuppliva",
       "återuppliva",
       "förnya",
       "vitalisera"
@@ -213857,10 +213059,8 @@
       "typ",
       "så här",
       "så där",
-      "så",
       "ett slags",
-      "sådan där",
-      "typ"
+      "sådan där"
     ],
     "examples": [
       {
@@ -214228,8 +213428,6 @@
     "gender": null,
     "stuttbeyg": "hann er dökkur, hún er dökk, það er dökkt; dökkur - dekkri - dekkstur",
     "translations": [
-      "mörk",
-      "mörk",
       "mörk",
       "allvarlig"
     ],
@@ -214675,8 +213873,7 @@
     "stuttbeyg": "ég hegg, hann heggur; hann hjó, við hjuggum; hann hefur höggvið",
     "translations": [
       "hugga",
-      "hacka",
-      "hugga"
+      "hacka"
     ],
     "examples": [
       {
@@ -214850,9 +214047,7 @@
       "svår",
       "allvarlig",
       "häftig",
-      "häftig",
-      "våldsam",
-      "allvarlig"
+      "våldsam"
     ],
     "examples": [
       {
@@ -215068,8 +214263,7 @@
     "stuttbeyg": "ég þarf, hann þarf, við þurfum; hann þurfti; hann hefur þurft",
     "translations": [
       "behöva",
-      "måste",
-      "behöva"
+      "måste"
     ],
     "examples": [
       {
@@ -215485,12 +214679,10 @@
     "translations": [
       "kväva",
       "hindra",
-      "kväva",
       "hålla tillbaka",
       "kväsa",
       "förhindra",
-      "släcka",
-      "kväva"
+      "släcka"
     ],
     "examples": [
       {
@@ -215680,7 +214872,6 @@
     "translations": [
       "vem",
       "vilken",
-      "vad",
       "vad",
       "vilket",
       "varje",
@@ -216769,7 +215960,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "hög",
       "hög"
     ],
     "examples": [
@@ -216848,8 +216038,7 @@
       "hysa",
       "ge husrum",
       "förvara",
-      "magasinera",
-      "hysa"
+      "magasinera"
     ],
     "examples": [
       {
@@ -217125,8 +216314,6 @@
     "translations": [
       "mottagande",
       "mottagning",
-      "reception",
-      "mottagning",
       "reception"
     ],
     "examples": [
@@ -217263,8 +216450,6 @@
       "avskeda",
       "avstänga",
       "stänga av",
-      "komma in på <detta>",
-      "föra <detta> på tal",
       "komma in på <detta>",
       "föra <detta> på tal",
       "sticka till <tiggaren> <en slant>",
@@ -217806,7 +216991,6 @@
     "stuttbeyg": null,
     "translations": [
       "en",
-      "en",
       "ungefär"
     ],
     "examples": [
@@ -217905,8 +217089,7 @@
     "stuttbeyg": "ég blindast, við blindumst; hann blindaðist; hann hefur blindast",
     "translations": [
       "bländas",
-      "förblindas",
-      "bländas"
+      "förblindas"
     ],
     "examples": [
       {
@@ -217997,7 +217180,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "pussel",
       "pussel"
     ],
     "examples": [
@@ -218797,7 +217979,6 @@
     "gender": "f",
     "stuttbeyg": "",
     "translations": [
-      "fördömande",
       "fördömande"
     ],
     "examples": [
@@ -218851,7 +218032,6 @@
     "stuttbeyg": null,
     "translations": [
       "ryck",
-      "reaktion",
       "reaktion"
     ],
     "examples": [
@@ -218897,7 +218077,6 @@
     "gender": null,
     "stuttbeyg": "ég særi, hann særir; hann særði; hann hefur sært",
     "translations": [
-      "såra",
       "såra",
       "toppa"
     ],
@@ -219090,7 +218269,6 @@
     "stuttbeyg": null,
     "translations": [
       "dålig vana",
-      "ovana",
       "ovana"
     ],
     "examples": [
@@ -219598,7 +218776,6 @@
       "dragen",
       "stabbig",
       "satt",
-      "tät",
       "tät"
     ],
     "examples": [
@@ -219935,7 +219112,6 @@
     "stuttbeyg": null,
     "translations": [
       "alla",
-      "alla",
       "samtliga",
       "allra",
       "vara enstörig",
@@ -220018,7 +219194,6 @@
     "translations": [
       "kallmurning",
       "stenmur",
-      "laddning",
       "laddning"
     ],
     "examples": [
@@ -220455,8 +219630,7 @@
       "frisk",
       "pigg",
       "uppfriskande",
-      "fräsch",
-      "pigg"
+      "fräsch"
     ],
     "examples": [
       {
@@ -220531,8 +219705,6 @@
     "stuttbeyg": null,
     "translations": [
       "alltså",
-      "här",
-      "här",
       "här",
       "hit"
     ],
@@ -220741,7 +219913,6 @@
     "stuttbeyg": null,
     "translations": [
       "gris",
-      "svin",
       "svin"
     ],
     "examples": [
@@ -221687,7 +220858,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "generation",
       "generation"
     ],
     "examples": [
@@ -221737,7 +220907,6 @@
     "stuttbeyg": null,
     "translations": [
       "först",
-      "främst",
       "främst"
     ],
     "examples": [
@@ -222172,7 +221341,6 @@
       "slinta",
       "sprätta",
       "snarka",
-      "slinta",
       "falla",
       "fara"
     ],
@@ -222207,8 +221375,7 @@
     "stuttbeyg": "hann er lifandi, hún er lifandi, það er lifandi",
     "translations": [
       "levande",
-      "livlig",
-      "levande"
+      "livlig"
     ],
     "examples": [
       {
@@ -222354,7 +221521,6 @@
     "translations": [
       "förlora",
       "mista",
-      "förlora",
       "bli av med",
       "tappa bort"
     ],
@@ -222487,7 +221653,6 @@
       "torghandlare",
       "månglare",
       "nasare",
-      "månglare",
       "schackrare",
       "skojare"
     ],
@@ -222586,25 +221751,17 @@
     "stuttbeyg": "ég stend, hann stendur; hann stóð, við stóðum; hann hefur staðið",
     "translations": [
       "stå",
-      "stå",
       "ligga",
-      "stå",
       "sticka",
-      "stå",
       "gälla",
-      "stå",
-      "ligga",
       "befinna sig",
       "blåsa",
       "stå på",
       "vara",
       "hålla på",
       "pågå",
-      "vara",
-      "hålla på",
       "ha stånd",
       "ha erektion",
-      "stå",
       "vara erigerad"
     ],
     "examples": [
@@ -223421,7 +222578,6 @@
     "stuttbeyg": "ég glími, hann glímir; hann glímdi; hann hefur glímt",
     "translations": [
       "brottas",
-      "brottas",
       "tampas"
     ],
     "examples": [
@@ -223601,10 +222757,7 @@
     "stuttbeyg": "ég hita, við hitum; hann hitaði; hann hefur hitað",
     "translations": [
       "värma upp",
-      "värma upp",
-      "värma upp",
-      "värma",
-      "värma upp"
+      "värma"
     ],
     "examples": [
       {
@@ -224391,7 +223544,6 @@
     "stuttbeyg": "ég hljóðna, við hljóðnum; hann hljóðnaði; hann hefur hljóðnað",
     "translations": [
       "tystna",
-      "tystna",
       "lägga sig"
     ],
     "examples": [
@@ -224473,7 +223625,6 @@
     "stuttbeyg": "hann er sterkbyggður, hún er sterkbyggð, það er sterkbyggt; sterkbyggður - sterkbyggðari - sterkbyggðastur",
     "translations": [
       "kraftigt byggd",
-      "robust",
       "robust",
       "stadig"
     ],
@@ -224604,8 +223755,7 @@
     "stuttbeyg": null,
     "translations": [
       "konsumtion",
-      "förbrukning",
-      "konsumtion"
+      "förbrukning"
     ],
     "examples": [
       {
@@ -224921,8 +224071,6 @@
     "translations": [
       "ström",
       "tillströmning",
-      "ström",
-      "ström",
       "elektrisk ström",
       "strömning",
       "trend"
@@ -225086,8 +224234,7 @@
     "stuttbeyg": "ég kallast, við köllumst; hann kallaðist; hann hefur kallast",
     "translations": [
       "kallas",
-      "anses",
-      "kallas"
+      "anses"
     ],
     "examples": [
       {
@@ -225335,7 +224482,6 @@
     "stuttbeyg": "hann er uppbelgdur, hún er uppbelgd, það er uppbelgt; uppbelgdur - uppbelgdari - uppbelgdastur",
     "translations": [
       "uppblåst",
-      "uppblåst",
       "spänd",
       "fullproppad"
     ],
@@ -225440,8 +224586,7 @@
     "stuttbeyg": "hann er ofhlaðinn, hún er ofhlaðin, það er ofhlaðið; ofhlaðinn - ofhlaðnari - ofhlaðnastur",
     "translations": [
       "överhopad",
-      "överlastad",
-      "överhopad"
+      "överlastad"
     ],
     "examples": [
       {
@@ -225930,7 +225075,6 @@
     "translations": [
       "mage",
       "magsäck",
-      "mage",
       "buk"
     ],
     "examples": [
@@ -226209,7 +225353,6 @@
       "ovig",
       "kärv",
       "trög",
-      "stel",
       "tung",
       "retlig",
       "snarstucken"
@@ -226855,8 +225998,7 @@
     "translations": [
       "käft",
       "gap",
-      "mun",
-      "käft"
+      "mun"
     ],
     "examples": [
       {
@@ -227252,7 +226394,6 @@
     "gender": null,
     "stuttbeyg": "hann er kaldur, hún er köld, það er kalt; kaldur - kaldari - kaldastur",
     "translations": [
-      "kall",
       "kall",
       "frostig",
       "cool",
@@ -228441,7 +227582,6 @@
     "stuttbeyg": null,
     "translations": [
       "själv",
-      "själv",
       "självaste",
       "ingen mindre än",
       "sig",
@@ -228525,7 +227665,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "uppvärmning",
       "uppvärmning"
     ],
     "examples": [
@@ -228627,16 +227766,10 @@
     "translations": [
       "för",
       "utanför",
-      "för",
       "före",
       "innan",
-      "för",
-      "för",
-      "för",
       "av",
-      "genom",
-      "för",
-      "för"
+      "genom"
     ],
     "examples": [
       {
@@ -228720,7 +227853,6 @@
     "gender": null,
     "stuttbeyg": "ég stansa, við stönsum; hann stansaði; hann hefur stansað",
     "translations": [
-      "stanna till",
       "stanna till"
     ],
     "examples": [
@@ -229058,7 +228190,6 @@
       "kastrull",
       "blomkruka",
       "badtunna",
-      "pott",
       "pott"
     ],
     "examples": [
@@ -229084,7 +228215,6 @@
       "sprutmåla",
       "sprutlackera",
       "vaccinera",
-      "injicera",
       "ge en spruta"
     ],
     "examples": [
@@ -229164,7 +228294,6 @@
     "translations": [
       "krav",
       "rätt",
-      "krav",
       "fordring"
     ],
     "examples": [
@@ -229434,7 +228563,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "ingenmansland",
       "ingenmansland"
     ],
     "examples": [
@@ -229559,7 +228687,6 @@
       "visning",
       "exposition",
       "TV-sändning",
-      "visning",
       "föreställning",
       "framförande"
     ],
@@ -229605,13 +228732,9 @@
       "skarp",
       "skarpsinnig",
       "vass",
-      "skarp",
       "tydlig",
       "klar",
-      "skarp",
       "bra",
-      "skarp",
-      "skarp",
       "kritisk",
       "spetsig",
       "tvär"
@@ -229652,7 +228775,6 @@
     "translations": [
       "påfyllning",
       "laddning",
-      "påfyllning",
       "påtår"
     ],
     "examples": [
@@ -230158,7 +229280,6 @@
       "närbesläktad",
       "nära",
       "närmaste",
-      "nära",
       "tät",
       "intim",
       "närmare"
@@ -230247,7 +229368,6 @@
       "gren",
       "(skol)ämne",
       "linje",
-      "gren",
       "paragraf"
     ],
     "examples": [
@@ -230342,7 +229462,6 @@
       "föreställa sig",
       "fantisera",
       "inbilla sig",
-      "föreställa sig",
       "tänka sig"
     ],
     "examples": [
@@ -230742,9 +229861,7 @@
       "hemsk",
       "förskräcklig",
       "ruskig",
-      "hemsk",
-      "förfärlig",
-      "förskräcklig"
+      "förfärlig"
     ],
     "examples": [
       {
@@ -231051,8 +230168,7 @@
     "translations": [
       "ballong",
       "blåsa",
-      "bubbla",
-      "blåsa"
+      "bubbla"
     ],
     "examples": [
       {
@@ -231456,14 +230572,11 @@
       "signalera",
       "symbol",
       "stjärntecken",
-      "tecken",
       "gest",
-      "signal",
       "logotyp",
       "logga",
       "firmamärke",
-      "skylt",
-      "märke"
+      "skylt"
     ],
     "examples": [
       {
@@ -231996,7 +231109,6 @@
     "stuttbeyg": "hann er æstur, hún er æst, það er æst; æstur - æstari - æstastur",
     "translations": [
       "upprörd",
-      "upphetsad",
       "upphetsad"
     ],
     "examples": [
@@ -232038,7 +231150,6 @@
     "translations": [
       "häftig",
       "hetsig",
-      "het",
       "het",
       "varm"
     ],
@@ -232183,7 +231294,6 @@
       "flyttning",
       "anteckning",
       "transaktion",
-      "post",
       "post",
       "inmatning",
       "överföring"
@@ -232747,8 +231857,7 @@
       "grad",
       "examen",
       "altarring",
-      "altarskrank",
-      "grad"
+      "altarskrank"
     ],
     "examples": [
       {
@@ -233313,8 +232422,7 @@
     "stuttbeyg": null,
     "translations": [
       "akademi",
-      "konstakademi",
-      "akademi"
+      "konstakademi"
     ],
     "examples": [
       {
@@ -233349,7 +232457,6 @@
     "stuttbeyg": null,
     "translations": [
       "cirkel",
-      "ring",
       "ring",
       "kartell"
     ],
@@ -233459,10 +232566,7 @@
     "translations": [
       "klippning",
       "frisyr",
-      "klippning",
-      "klippning",
-      "beskärning",
-      "klippning"
+      "beskärning"
     ],
     "examples": [
       {
@@ -233504,8 +232608,7 @@
     "stuttbeyg": "ég kný, hann knýr; hann knúði; hann hefur knúið",
     "translations": [
       "driva",
-      "vara drivkraft",
-      "driva"
+      "vara drivkraft"
     ],
     "examples": [
       {
@@ -234150,7 +233253,6 @@
       "gläfsa",
       "skälla",
       "bjäbba",
-      "bjäbba",
       "tjafsa"
     ],
     "examples": [
@@ -234239,7 +233341,6 @@
     "gender": null,
     "stuttbeyg": "hann er dimmur, hún er dimm, það er dimmt; dimmur - dimmari - dimmastur",
     "translations": [
-      "mörk",
       "mörk",
       "djup"
     ],
@@ -234900,7 +234001,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "tidigt",
       "tidigt"
     ],
     "examples": [
@@ -235033,7 +234133,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "sport",
       "sport"
     ],
     "examples": [
@@ -235897,7 +234996,6 @@
     "gender": null,
     "stuttbeyg": "ég mjólka, við mjólkum; hann mjólkaði; hann hefur mjólkað",
     "translations": [
-      "mjölka",
       "mjölka"
     ],
     "examples": [
@@ -236607,12 +235705,9 @@
     "translations": [
       "jord",
       "mark",
-      "jord",
-      "mark",
       "fastighet",
       "gård",
       "hemman",
-      "jord",
       "mylla"
     ],
     "examples": [
@@ -238144,8 +237239,7 @@
     "stuttbeyg": null,
     "translations": [
       "biljon",
-      "ziljon",
-      "biljon"
+      "ziljon"
     ],
     "examples": [
       {
@@ -238239,7 +237333,6 @@
     "gender": null,
     "stuttbeyg": "hann er dauðadæmdur, hún er dauðadæmd, það er dauðadæmt",
     "translations": [
-      "dödsdömd",
       "dödsdömd"
     ],
     "examples": [
@@ -238813,7 +237906,6 @@
       "andan",
       "inre syn",
       "ande",
-      "ande",
       "stämning",
       "anda"
     ],
@@ -238968,8 +238060,6 @@
     "translations": [
       "spruta",
       "injektion",
-      "spruta",
-      "spruta",
       "motor"
     ],
     "examples": [
@@ -240177,7 +239267,6 @@
     "stuttbeyg": null,
     "translations": [
       "montering",
-      "sammansättning",
       "sammansättning"
     ],
     "examples": [
@@ -240275,7 +239364,6 @@
     "stuttbeyg": "hann er spes, hún er spes, það er spes",
     "translations": [
       "särskild",
-      "speciell",
       "speciell",
       "udda"
     ],
@@ -241245,9 +240333,6 @@
       "denna",
       "den här",
       "den där",
-      "denna",
-      "den här",
-      "den där",
       "flera olika",
       "lite olika",
       "en så",
@@ -241309,7 +240394,6 @@
     "translations": [
       "dubbel",
       "tvåfaldig",
-      "dubbel",
       "dubbel <vodka>"
     ],
     "examples": [
@@ -241638,7 +240722,6 @@
       "matte",
       "matematik",
       "räkning",
-      "räkning",
       "faktura",
       "nota"
     ],
@@ -241757,7 +240840,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "romantik",
       "romantik"
     ],
     "examples": [
@@ -241797,9 +240879,7 @@
     "translations": [
       "känslig",
       "sårbar",
-      "känslig",
       "ömtålig",
-      "känslig",
       "delikat"
     ],
     "examples": [
@@ -241827,7 +240907,6 @@
       "jaka",
       "bejaka",
       "bekräfta",
-      "erkänna",
       "erkänna",
       "tillstå",
       "vidgå"
@@ -242050,7 +241129,6 @@
     "stuttbeyg": "ég sikksakka, við sikksökkum; hann sikksakkaði; hann hefur sikksakkað",
     "translations": [
       "sicksacka",
-      "sicksacka",
       "köra slalomkörning"
     ],
     "examples": [
@@ -242233,7 +241311,6 @@
     "gender": null,
     "stuttbeyg": "ég kortlegg, hann kortleggur; hann kortlagði; hann hefur kortlagt",
     "translations": [
-      "kartlägga",
       "kartlägga"
     ],
     "examples": [
@@ -242391,11 +241468,9 @@
       "bege sig",
       "gå",
       "anordna",
-      "hålla",
       "hålla emot",
       "hålla tätt",
       "uppfylla",
-      "hålla",
       "bevara",
       "behålla"
     ],
@@ -242600,7 +241675,6 @@
     "stuttbeyg": "ég skín, hann skín; hann skein, við skinum; hann hefur skinið",
     "translations": [
       "skina",
-      "lysa",
       "lysa"
     ],
     "examples": [
@@ -243040,8 +242114,7 @@
     "translations": [
       "vispad",
       "rörd",
-      "gripen",
-      "rörd"
+      "gripen"
     ],
     "examples": [
       {
@@ -243155,8 +242228,7 @@
     "stuttbeyg": null,
     "translations": [
       "försvagning",
-      "svaghet",
-      "försvagning"
+      "svaghet"
     ],
     "examples": [
       {
@@ -243226,7 +242298,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "paket",
       "paket"
     ],
     "examples": [
@@ -243548,7 +242619,6 @@
     "stuttbeyg": "hann er sjöfaldur, hún er sjöföld, það er sjöfalt",
     "translations": [
       "sjufaldig",
-      "sjudubbel",
       "sjudubbel"
     ],
     "examples": [
@@ -243668,8 +242738,7 @@
     "stuttbeyg": "hann er sögulegur, hún er söguleg, það er sögulegt; sögulegur - sögulegri - sögulegastur",
     "translations": [
       "historisk",
-      "oförglömlig",
-      "historisk"
+      "oförglömlig"
     ],
     "examples": [
       {
@@ -243878,10 +242947,8 @@
       "trampa fel",
       "vricka",
       "stuka",
-      "vända",
       "översätta",
-      "omvända",
-      "vända"
+      "omvända"
     ],
     "examples": [
       {
@@ -244671,7 +243738,6 @@
       "bygga",
       "resa",
       "ställa upp",
-      "resa",
       "återupprätta"
     ],
     "examples": [
@@ -244743,7 +243809,6 @@
       "mäktig",
       "enorm",
       "väldig",
-      "mäktig",
       "kolossal"
     ],
     "examples": [
@@ -244767,7 +243832,6 @@
       "man",
       "karl",
       "make",
-      "man",
       "gubbe",
       "hanne",
       "hane",
@@ -246131,7 +245195,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "grundfärg",
       "grundfärg"
     ],
     "examples": [
@@ -246453,11 +245516,9 @@
     "stuttbeyg": "ég vil, hann vill, við viljum; hann vildi; hann hefur viljað",
     "translations": [
       "vilja",
-      "vilja",
       "ha ärende",
       "önskar",
-      "kunna",
-      "vilja"
+      "kunna"
     ],
     "examples": [
       {
@@ -246703,7 +245764,6 @@
     "translations": [
       "lätta",
       "känna lättnad",
-      "lätta",
       "avta"
     ],
     "examples": [
@@ -247183,7 +246243,6 @@
     "translations": [
       "sällskap",
       "förening",
-      "sällskap",
       "umgänge"
     ],
     "examples": [
@@ -247455,7 +246514,6 @@
     "stuttbeyg": "hann er beiskur, hún er beisk, það er beiskt; beiskur - beiskari - beiskastur",
     "translations": [
       "besk",
-      "bitter",
       "bitter"
     ],
     "examples": [
@@ -247480,8 +246538,7 @@
       "hopplös",
       "undermålig",
       "kass",
-      "utsiktslös",
-      "hopplös"
+      "utsiktslös"
     ],
     "examples": [
       {
@@ -247596,7 +246653,6 @@
     "stuttbeyg": null,
     "translations": [
       "blomma",
-      "blomma",
       "växt"
     ],
     "examples": [
@@ -247616,8 +246672,7 @@
       "tull",
       "avgift",
       "leasingavgift",
-      "tullstation",
-      "tull"
+      "tullstation"
     ],
     "examples": [
       {
@@ -248150,8 +247205,7 @@
       "inexakt",
       "ostadig",
       "lös",
-      "flyktig",
-      "lös"
+      "flyktig"
     ],
     "examples": [
       {
@@ -249149,7 +248203,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "bensintank",
       "bensintank"
     ],
     "examples": [
@@ -249497,10 +248550,6 @@
     "gender": null,
     "stuttbeyg": "",
     "translations": [
-      "sin",
-      "sin",
-      "sin",
-      "sin",
       "sin",
       "hans",
       "hennes"
@@ -249866,7 +248915,6 @@
     "translations": [
       "färga",
       "färglägga",
-      "färga",
       "prägla"
     ],
     "examples": [
@@ -250048,8 +249096,7 @@
     "stuttbeyg": null,
     "translations": [
       "frukt",
-      "resultat",
-      "frukt"
+      "resultat"
     ],
     "examples": [
       {
@@ -250666,8 +249713,7 @@
       "gräs",
       "växt",
       "ört",
-      "marijuana",
-      "gräs"
+      "marijuana"
     ],
     "examples": [
       {
@@ -250815,8 +249861,7 @@
     "stuttbeyg": "hann er vakandi, hún er vakandi, það er vakandi",
     "translations": [
       "vaken",
-      "alert",
-      "vaken"
+      "alert"
     ],
     "examples": [
       {
@@ -251005,8 +250050,7 @@
     "stuttbeyg": "ég axla, við öxlum; hann axlaði; hann hefur axlað",
     "translations": [
       "axla",
-      "ta",
-      "axla"
+      "ta"
     ],
     "examples": [
       {
@@ -251127,10 +250171,7 @@
     "translations": [
       "krypa",
       "kräla",
-      "krypa",
-      "glida",
-      "glida",
-      "krypa"
+      "glida"
     ],
     "examples": [
       {
@@ -251236,8 +250277,7 @@
     "stuttbeyg": "ég ræsi, hann ræsir; hann ræsti; hann hefur ræst",
     "translations": [
       "starta",
-      "sätta igång",
-      "starta"
+      "sätta igång"
     ],
     "examples": [
       {
@@ -251809,7 +250849,6 @@
       "föra",
       "köra",
       "manövrera",
-      "styra",
       "leda"
     ],
     "examples": [
@@ -251878,8 +250917,6 @@
     "gender": null,
     "stuttbeyg": "hann er bitur, hún er bitur, það er biturt; bitur - bitrari - bitrastur",
     "translations": [
-      "bitter",
-      "bitter",
       "bitter",
       "bitande",
       "isande",
@@ -252033,8 +251070,7 @@
     "translations": [
       "modell",
       "typ",
-      "personlighet",
-      "typ"
+      "personlighet"
     ],
     "examples": [
       {
@@ -252560,7 +251596,6 @@
     "gender": "f",
     "stuttbeyg": "",
     "translations": [
-      "utskrift",
       "utskrift"
     ],
     "examples": [
@@ -252763,7 +251798,6 @@
       "undervisa",
       "känna",
       "förnimma",
-      "känna",
       "skylla"
     ],
     "examples": [
@@ -252842,8 +251876,7 @@
     "translations": [
       "längta efter",
       "sakna",
-      "vara utan",
-      "sakna"
+      "vara utan"
     ],
     "examples": [
       {
@@ -253755,7 +252788,6 @@
     "stuttbeyg": null,
     "translations": [
       "pyssel",
-      "pyssel",
       "pysselsaker"
     ],
     "examples": [
@@ -254042,8 +253074,7 @@
     "translations": [
       "uppsving",
       "uppgång",
-      "uppstötning",
-      "uppgång"
+      "uppstötning"
     ],
     "examples": [
       {
@@ -254211,8 +253242,7 @@
     "stuttbeyg": "ég missi, hann missir; hann missti; hann hefur misst",
     "translations": [
       "förlora",
-      "tappa",
-      "förlora"
+      "tappa"
     ],
     "examples": [
       {
@@ -254795,7 +253825,6 @@
     "stuttbeyg": null,
     "translations": [
       "grundpelare",
-      "stöttepelare",
       "stöttepelare"
     ],
     "examples": [
@@ -255164,7 +254193,6 @@
     "stuttbeyg": "ég hengi, hann hengir; hann hengdi; hann hefur hengt",
     "translations": [
       "hänga upp",
-      "hänga",
       "hänga"
     ],
     "examples": [
@@ -255455,7 +254483,6 @@
     "stuttbeyg": null,
     "translations": [
       "slag på käften",
-      "slag i ansiktet",
       "slag i ansiktet"
     ],
     "examples": [
@@ -256256,8 +255283,7 @@
     "stuttbeyg": "ég bið, hann biður; hann bað, við báðum; hann hefur beðið",
     "translations": [
       "be",
-      "fria",
-      "be"
+      "fria"
     ],
     "examples": [
       {
@@ -256690,7 +255716,6 @@
     "gender": null,
     "stuttbeyg": "hann er platónskur, hún er platónsk, það er platónskt; platónskur - platónskari - platónskastur",
     "translations": [
-      "platonsk",
       "platonsk"
     ],
     "examples": [
@@ -257145,8 +256170,7 @@
       "omgivning",
       "miljö",
       "närmiljö",
-      "grannskap",
-      "miljö"
+      "grannskap"
     ],
     "examples": [
       {
@@ -257655,7 +256679,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "hur",
       "hur"
     ],
     "examples": [
@@ -257906,7 +256929,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "stift",
       "stift"
     ],
     "examples": [
@@ -258528,7 +257550,6 @@
     "translations": [
       "befara",
       "ana",
-      "misstänka",
       "misstänka"
     ],
     "examples": [
@@ -258991,9 +258012,6 @@
       "stilla",
       "laber",
       "långsam",
-      "långsam",
-      "lugn",
-      "långsam",
       "lugn",
       "stillsam"
     ],
@@ -259251,8 +258269,7 @@
     "stuttbeyg": "",
     "translations": [
       "minne",
-      "motiv",
-      "minne"
+      "motiv"
     ],
     "examples": [
       {
@@ -259728,8 +258745,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "isolering",
-      "isolering",
       "isolering"
     ],
     "examples": [
@@ -260303,8 +259318,7 @@
       "dressyr",
       "dressering",
       "inskolning",
-      "utbildning",
-      "träning"
+      "utbildning"
     ],
     "examples": [
       {
@@ -260345,7 +259359,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "skuggsida",
       "skuggsida"
     ],
     "examples": [
@@ -260611,7 +259624,6 @@
     "translations": [
       "avskriva",
       "avfärda",
-      "avskriva",
       "efterskänka"
     ],
     "examples": [
@@ -260650,8 +259662,7 @@
     "stuttbeyg": null,
     "translations": [
       "tvätt",
-      "rengöring",
-      "tvätt"
+      "rengöring"
     ],
     "examples": [
       {
@@ -261243,8 +260254,7 @@
     "stuttbeyg": "ég sparka, við spörkum; hann sparkaði; hann hefur sparkað",
     "translations": [
       "sparka",
-      "avskeda",
-      "sparka"
+      "avskeda"
     ],
     "examples": [
       {
@@ -261484,8 +260494,7 @@
       "komposition",
       "musikstycke",
       "komponerande",
-      "komponering",
-      "komposition"
+      "komponering"
     ],
     "examples": [
       {
@@ -262008,7 +261017,6 @@
       "grupp",
       "gruppering",
       "stam",
-      "grupp",
       "tåg"
     ],
     "examples": [
@@ -262557,9 +261565,7 @@
     "translations": [
       "e-post",
       "mejl",
-      "e-brev",
-      "e-post",
-      "mejl"
+      "e-brev"
     ],
     "examples": [
       {
@@ -262746,7 +261752,6 @@
       "bälte",
       "livrem",
       "zon",
-      "bälte",
       "drivmatta",
       "larvfötter",
       "säkerhetsbälte",
@@ -263008,7 +262013,6 @@
     "gender": null,
     "stuttbeyg": "hann er ósjálfbjarga, hún er ósjálfbjarga, það er ósjálfbjarga",
     "translations": [
-      "hjälplös",
       "hjälplös"
     ],
     "examples": [
@@ -263600,8 +262604,7 @@
     "translations": [
       "pussla",
       "lägga pussel",
-      "få ihop",
-      "pussla"
+      "få ihop"
     ],
     "examples": [
       {
@@ -263661,8 +262664,6 @@
     "translations": [
       "naturligtvis",
       "givetvis",
-      "förstås",
-      "naturligtvis",
       "förstås"
     ],
     "examples": [
@@ -263927,7 +262928,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "storförlust",
       "storförlust"
     ],
     "examples": [
@@ -264062,7 +263062,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "när",
       "när"
     ],
     "examples": [
@@ -264485,9 +263484,7 @@
     "translations": [
       "säker",
       "stadig",
-      "säker",
       "trygg",
-      "säker",
       "självsäker"
     ],
     "examples": [
@@ -264543,8 +263540,7 @@
     "translations": [
       "fri",
       "oberoende",
-      "lös",
-      "fri"
+      "lös"
     ],
     "examples": [
       {
@@ -264664,7 +263660,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "bokstav",
       "bokstav"
     ],
     "examples": [
@@ -265391,7 +264386,6 @@
     "stuttbeyg": "ég tilheyri, hann tilheyrir; hann tilheyrði; hann hefur tilheyrt",
     "translations": [
       "tillhöra",
-      "höra till",
       "höra till"
     ],
     "examples": [
@@ -265556,8 +264550,7 @@
     "stuttbeyg": "hann er náttúrulegur, hún er náttúruleg, það er náttúrulegt; náttúrulegur - náttúrulegri - náttúrulegastur",
     "translations": [
       "naturlig",
-      "självklar",
-      "naturlig"
+      "självklar"
     ],
     "examples": [
       {
@@ -265836,9 +264829,7 @@
     "stuttbeyg": null,
     "translations": [
       "gärna",
-      "gärna",
-      "ofta",
-      "gärna"
+      "ofta"
     ],
     "examples": [
       {
@@ -265884,7 +264875,6 @@
     "translations": [
       "utsträckt",
       "utbredd",
-      "utbredd",
       "vanlig"
     ],
     "examples": [
@@ -265913,7 +264903,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "teckning",
       "teckning",
       "ritning"
     ],
@@ -266735,7 +265724,6 @@
       "siffra",
       "tal",
       "antal",
-      "tal",
       "knapp",
       "numerus",
       "kanonisera <henne>"
@@ -267161,7 +266149,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "atmosfär",
       "atmosfär",
       "stämning",
       "luft"
@@ -267972,7 +266959,6 @@
     "translations": [
       "luft",
       "himmel",
-      "luft",
       "innertak",
       "tak",
       "övervåning",
@@ -268292,8 +267278,7 @@
     "stuttbeyg": null,
     "translations": [
       "placering",
-      "uppställning",
-      "placering"
+      "uppställning"
     ],
     "examples": [
       {
@@ -268759,7 +267744,6 @@
     "gender": null,
     "stuttbeyg": "ég blikka, við blikkum; hann blikkaði; hann hefur blikkað",
     "translations": [
-      "blinka",
       "blinka"
     ],
     "examples": [
@@ -269017,7 +268001,6 @@
     "translations": [
       "blända",
       "göra blind",
-      "blända",
       "förblinda",
       "bländas"
     ],
@@ -269199,7 +268182,6 @@
     "stuttbeyg": null,
     "translations": [
       "biljon",
-      "biljon",
       "ziljon"
     ],
     "examples": [
@@ -269261,7 +268243,6 @@
     "translations": [
       "myt",
       "gudasaga",
-      "myt",
       "föreställning",
       "legend",
       "legendar"
@@ -269896,7 +268877,6 @@
     "stuttbeyg": null,
     "translations": [
       "tempel",
-      "tempel",
       "högborg"
     ],
     "examples": [
@@ -270075,7 +269055,6 @@
     "stuttbeyg": "ég svæfi, hann svæfir; hann svæfði; hann hefur svæft",
     "translations": [
       "natta",
-      "söva",
       "söva"
     ],
     "examples": [
@@ -270101,7 +269080,6 @@
     "stuttbeyg": null,
     "translations": [
       "sittning",
-      "sits",
       "sits",
       "vistelse",
       "säte"
@@ -270507,7 +269485,6 @@
     "translations": [
       "fuktig",
       "klibbig",
-      "fuktig",
       "rå"
     ],
     "examples": [
@@ -270817,8 +269794,7 @@
       "förråd",
       "lager",
       "depå",
-      "varulager",
-      "lager"
+      "varulager"
     ],
     "examples": [
       {
@@ -270839,7 +269815,6 @@
     "stuttbeyg": "ég leita, við leitum; hann leitaði; hann hefur leitað",
     "translations": [
       "leta",
-      "söka",
       "söka",
       "dra"
     ],
@@ -271616,8 +270591,7 @@
       "försvara",
       "skydda",
       "beskydda",
-      "rädda sig",
-      "försvara"
+      "rädda sig"
     ],
     "examples": [
       {
@@ -272054,8 +271028,7 @@
     "translations": [
       "glänsa",
       "blänka",
-      "briljera",
-      "glänsa"
+      "briljera"
     ],
     "examples": [
       {
@@ -272147,8 +271120,7 @@
     "stuttbeyg": "ég haggast, við höggumst; hann haggaðist; hann hefur haggast",
     "translations": [
       "rubbas",
-      "röra sig",
-      "rubbas"
+      "röra sig"
     ],
     "examples": [
       {
@@ -272173,7 +271145,6 @@
     "stuttbeyg": "ég endurskoða, við endurskoðum; hann endurskoðaði; hann hefur endurskoðað",
     "translations": [
       "se över",
-      "revidera",
       "revidera"
     ],
     "examples": [
@@ -273109,8 +272080,7 @@
     "stuttbeyg": "ég starta, við störtum; hann startaði; hann hefur startað",
     "translations": [
       "starta",
-      "inleda",
-      "starta"
+      "inleda"
     ],
     "examples": [
       {
@@ -273730,8 +272700,7 @@
     "translations": [
       "låna ut",
       "låna",
-      "få låna",
-      "låna"
+      "få låna"
     ],
     "examples": [
       {
@@ -273869,7 +272838,6 @@
       "opartisk",
       "neutral",
       "friläge",
-      "neutral",
       "mild",
       "intetsägande"
     ],
@@ -275076,8 +274044,6 @@
       "användning",
       "användande",
       "nyttjande",
-      "utnyttjande",
-      "användande",
       "utnyttjande"
     ],
     "examples": [
@@ -275172,8 +274138,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "särskilt",
-      "speciellt",
       "särskilt",
       "speciellt"
     ],
@@ -276254,8 +275218,7 @@
       "snygg",
       "söt",
       "vacker",
-      "fin",
-      "snygg"
+      "fin"
     ],
     "examples": [
       {
@@ -276461,9 +275424,7 @@
     "translations": [
       "död",
       "redlöst berusad",
-      "öde",
-      "död",
-      "död"
+      "öde"
     ],
     "examples": [
       {
@@ -276489,8 +275450,7 @@
     "translations": [
       "bli trött",
       "tröttna",
-      "ledsna",
-      "bli trött"
+      "ledsna"
     ],
     "examples": [
       {
@@ -276790,7 +275750,6 @@
     "stuttbeyg": "",
     "translations": [
       "innehavare",
-      "innehavare",
       "handhavare"
     ],
     "examples": [
@@ -276866,7 +275825,6 @@
     "stuttbeyg": null,
     "translations": [
       "takt",
-      "takt",
       "beteende",
       "takter"
     ],
@@ -276918,8 +275876,7 @@
     "stuttbeyg": null,
     "translations": [
       "direkt",
-      "rakt",
-      "direkt"
+      "rakt"
     ],
     "examples": [
       {
@@ -277218,7 +276175,6 @@
     "gender": null,
     "stuttbeyg": "ég þakka, við þökkum; hann þakkaði; hann hefur þakkað",
     "translations": [
-      "tacka",
       "tacka",
       "tack vare",
       "tacka för sig"
@@ -277546,7 +276502,6 @@
       "anstränga",
       "fresta på",
       "utstå",
-      "fresta på",
       "kräva",
       "flirta",
       "stöta"
@@ -277716,7 +276671,6 @@
       "värme",
       "hetta",
       "temperatur",
-      "hetta",
       "glöd",
       "häftighet",
       "feber"
@@ -277781,7 +276735,6 @@
     "gender": null,
     "stuttbeyg": "ég ríf, hann rífur; hann reif, við rifum; hann hefur rifið",
     "translations": [
-      "riva",
       "riva",
       "slita"
     ],
@@ -278044,7 +276997,6 @@
     "gender": null,
     "stuttbeyg": "ég tekst, hann tekst; hann tókst, við tókumst; hann hefur tekist",
     "translations": [
-      "lyckas",
       "lyckas"
     ],
     "examples": [
@@ -279094,8 +278046,7 @@
     "translations": [
       "himmelsk",
       "gudomlig",
-      "underbar",
-      "gudomlig"
+      "underbar"
     ],
     "examples": [
       {
@@ -279825,10 +278776,8 @@
     "stuttbeyg": "ég kitla, við kitlum; hann kitlaði; hann hefur kitlað",
     "translations": [
       "kittla",
-      "kittla",
       "klia",
       "pirra",
-      "kittla",
       "stimulera"
     ],
     "examples": [
@@ -279853,8 +278802,6 @@
     "gender": null,
     "stuttbeyg": "hann er erfiður, hún er erfið, það er erfitt; erfiður - erfiðari - erfiðastur",
     "translations": [
-      "svår",
-      "besvärlig",
       "svår",
       "besvärlig",
       "jobbig"
@@ -279903,9 +278850,7 @@
     "translations": [
       "svekfull",
       "falsk",
-      "falsk",
       "disharmonisk",
-      "falsk",
       "förfalskad",
       "oäkta"
     ],
@@ -279972,7 +278917,6 @@
       "statlig",
       "kommunal",
       "officiell",
-      "offentlig",
       "öppen"
     ],
     "examples": [
@@ -280393,7 +279337,6 @@
       "evig",
       "evinnerlig",
       "ständig",
-      "evig",
       "oändlig"
     ],
     "examples": [
@@ -280538,8 +279481,6 @@
     "translations": [
       "samma",
       "densamma",
-      "samma",
-      "samtidigt",
       "samtidigt"
     ],
     "examples": [
@@ -280825,18 +279766,14 @@
     "translations": [
       "grov",
       "sträv",
-      "grov",
       "rå",
       "vulgär",
       "hård",
       "mörk",
-      "grov",
       "grovkornig",
-      "grov",
       "allvarlig",
       "svår",
-      "ytlig",
-      "grov"
+      "ytlig"
     ],
     "examples": [
       {
@@ -281129,7 +280066,6 @@
     "gender": "f",
     "stuttbeyg": "",
     "translations": [
-      "julstjärna",
       "julstjärna",
       "adventsstjärna"
     ],
@@ -281618,7 +280554,6 @@
     "translations": [
       "fläck",
       "plätt",
-      "fläck",
       "skamfläck"
     ],
     "examples": [
@@ -282071,8 +281006,7 @@
       "infinna sig",
       "komma",
       "få",
-      "möta",
-      "stöta på"
+      "möta"
     ],
     "examples": [
       {
@@ -282129,7 +281063,6 @@
     "gender": null,
     "stuttbeyg": "ég skeini, hann skeinir; hann skeindi; hann hefur skeint",
     "translations": [
-      "torka",
       "torka",
       "slå sig"
     ],
@@ -282757,7 +281690,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "misshandel",
       "misshandel"
     ],
     "examples": [
@@ -283103,8 +282035,7 @@
     "stuttbeyg": null,
     "translations": [
       "varmt",
-      "vänligt",
-      "varmt"
+      "vänligt"
     ],
     "examples": [
       {
@@ -283647,7 +282578,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "mönster",
       "mönster"
     ],
     "examples": [
@@ -283766,7 +282696,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "valkyria",
       "valkyria"
     ],
     "examples": [
@@ -283784,10 +282713,8 @@
     "stuttbeyg": null,
     "translations": [
       "person",
-      "person",
       "rollfigur",
-      "figur",
-      "person"
+      "figur"
     ],
     "examples": [
       {
@@ -283901,7 +282828,6 @@
     "stuttbeyg": null,
     "translations": [
       "katastrof",
-      "katastrof",
       "olyckshändelse"
     ],
     "examples": [
@@ -283925,10 +282851,8 @@
       "betjäna",
       "tjäna",
       "passa upp",
-      "tjäna",
       "nytta",
       "hålla gudstjänst",
-      "betjäna",
       "serva"
     ],
     "examples": [
@@ -284408,7 +283332,6 @@
     "gender": null,
     "stuttbeyg": "hann er grafískur, hún er grafísk, það er grafískt; grafískur - grafískari - grafískastur",
     "translations": [
-      "grafisk",
       "grafisk"
     ],
     "examples": [
@@ -284464,8 +283387,7 @@
     "translations": [
       "blåögd",
       "naiv",
-      "troskyldig",
-      "blåögd"
+      "troskyldig"
     ],
     "examples": [
       {
@@ -284499,15 +283421,8 @@
     "stuttbeyg": "hann er djúpur, hún er djúp, það er djúpt; djúpur - dýpri - dýpstur",
     "translations": [
       "djup",
-      "djup",
-      "djup",
       "mörk",
-      "djup",
-      "djup",
-      "djup",
       "stark",
-      "intensiv",
-      "djup",
       "intensiv"
     ],
     "examples": [
@@ -284675,9 +283590,7 @@
     "stuttbeyg": "hann er langur, hún er löng, það er langt; langur - lengri - lengstur",
     "translations": [
       "lång",
-      "lång",
-      "länge",
-      "lång"
+      "länge"
     ],
     "examples": [
       {
@@ -285706,7 +284619,6 @@
     "translations": [
       "kort",
       "kortfattat",
-      "kort",
       "kyligt"
     ],
     "examples": [
@@ -287024,8 +285936,7 @@
     "stuttbeyg": null,
     "translations": [
       "forntid",
-      "hedenhös",
-      "forntid"
+      "hedenhös"
     ],
     "examples": [
       {
@@ -287255,7 +286166,6 @@
     "gender": null,
     "stuttbeyg": "hann er veðurbarinn, hún er veðurbarin, það er veðurbarið",
     "translations": [
-      "väderbiten",
       "väderbiten"
     ],
     "examples": [
@@ -287330,8 +286240,6 @@
     "translations": [
       "tillgjord",
       "prålig",
-      "sprättaktig",
-      "tillgjord",
       "sprättaktig"
     ],
     "examples": [
@@ -288212,7 +287120,6 @@
     "gender": null,
     "stuttbeyg": "ég melti, hann meltir; hann melti; hann hefur melt",
     "translations": [
-      "smälta",
       "smälta"
     ],
     "examples": [
@@ -288838,8 +287745,6 @@
     "gender": null,
     "stuttbeyg": "ég klippi, hann klippir; hann klippti; hann hefur klippt",
     "translations": [
-      "klippa",
-      "klippa",
       "klippa"
     ],
     "examples": [
@@ -289597,8 +288502,7 @@
     "stuttbeyg": "",
     "translations": [
       "åbäke",
-      "sjok",
-      "åbäke"
+      "sjok"
     ],
     "examples": [
       {
@@ -289786,8 +288690,7 @@
     "translations": [
       "framkalla",
       "skapa",
-      "åstadkomma",
-      "framkalla"
+      "åstadkomma"
     ],
     "examples": [
       {
@@ -289913,7 +288816,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "lång",
       "lång"
     ],
     "examples": [
@@ -290478,7 +289380,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "fingersättning",
       "fingersättning"
     ],
     "examples": [
@@ -290751,8 +289652,6 @@
       "press",
       "pressmaskin",
       "påfrestning",
-      "press",
-      "press",
       "sensationspressen",
       "boulevardpressen",
       "behandling i pressen"
@@ -291108,7 +290007,6 @@
       "freda",
       "lugna",
       "lugna ner",
-      "freda",
       "k-märka"
     ],
     "examples": [
@@ -292188,8 +291086,7 @@
       "inbetalning",
       "insats",
       "inlägg",
-      "hålfotsinlägg",
-      "inlägg"
+      "hålfotsinlägg"
     ],
     "examples": [
       {
@@ -292740,8 +291637,7 @@
       "vara belägen",
       "ligga",
       "stå",
-      "stanna kvar",
-      "vara"
+      "stanna kvar"
     ],
     "examples": [
       {
@@ -292952,7 +291848,6 @@
     "stuttbeyg": "ég banka, við bönkum; hann bankaði; hann hefur bankað",
     "translations": [
       "banka",
-      "knacka",
       "knacka",
       "klappa"
     ],
@@ -293555,7 +292450,6 @@
       "glesvävd",
       "gles",
       "grovstickad",
-      "gles",
       "tunn"
     ],
     "examples": [
@@ -293627,7 +292521,6 @@
     "translations": [
       "isolerad",
       "avskärmad",
-      "isolerad",
       "åtskild"
     ],
     "examples": [
@@ -294134,8 +293027,6 @@
       "sparka",
       "slå i",
       "stöta mot",
-      "driva",
-      "driva",
       "sticka",
       "köra in"
     ],
@@ -294945,18 +293836,10 @@
     "translations": [
       "över",
       "ovanför",
-      "över",
       "på",
-      "över",
-      "över",
-      "på",
-      "över",
       "drygt",
-      "över",
       "för",
       "åt",
-      "för",
-      "över",
       "per"
     ],
     "examples": [
@@ -295312,13 +294195,9 @@
       "fladdrig",
       "ledig",
       "tom",
-      "lös",
       "lätt",
       "ogiltig",
-      "lös",
-      "lös",
-      "fri",
-      "ledig"
+      "fri"
     ],
     "examples": [
       {
@@ -295889,7 +294768,6 @@
     "translations": [
       "sektor",
       "område",
-      "sektor",
       "klyfta"
     ],
     "examples": [
@@ -296555,7 +295433,6 @@
     "translations": [
       "dryg",
       "högfärdig",
-      "dryg",
       "pompös",
       "rejäl",
       "betydande"
@@ -297017,7 +295894,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "häl",
       "häl",
       "kil",
       "tältpinne",
@@ -297543,7 +296419,6 @@
       "bit",
       "stycke",
       "bjälke",
-      "bit",
       "pusselbit"
     ],
     "examples": [
@@ -297699,8 +296574,7 @@
     "stuttbeyg": "ég passa, við pössum; hann passaði; hann hefur passað",
     "translations": [
       "passa",
-      "akta",
-      "passa"
+      "akta"
     ],
     "examples": [
       {
@@ -297849,7 +296723,6 @@
       "bränna",
       "bränna upp",
       "elda upp",
-      "bränna",
       "dra",
       "förbruka",
       "förbränna",
@@ -297905,11 +296778,9 @@
       "inget",
       "ingenting",
       "inte någonting",
-      "inget",
       "inte något",
       "inte alls",
-      "inte",
-      "inget"
+      "inte"
     ],
     "examples": [
       {
@@ -299142,7 +298013,6 @@
     "stuttbeyg": "hann er ómengaður, hún er ómenguð, það er ómengað; ómengaður - ómengaðri - ómengaðastur",
     "translations": [
       "ren",
-      "ren",
       "oförfalskad"
     ],
     "examples": [
@@ -299452,8 +298322,7 @@
       "åsikt",
       "mening",
       "inställning",
-      "avsikt",
-      "mening"
+      "avsikt"
     ],
     "examples": [
       {
@@ -299492,8 +298361,7 @@
       "inblandning",
       "medverkan",
       "intervention",
-      "ingripande",
-      "inblandning"
+      "ingripande"
     ],
     "examples": [
       {
@@ -299847,8 +298715,7 @@
       "överfärd",
       "genomläsning",
       "genomgång",
-      "granskning",
-      "genomgång"
+      "granskning"
     ],
     "examples": [
       {
@@ -300095,8 +298962,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "störning",
-      "störning",
       "störning"
     ],
     "examples": [
@@ -300268,8 +299133,7 @@
     "stuttbeyg": null,
     "translations": [
       "revolution",
-      "omvälvning",
-      "revolution"
+      "omvälvning"
     ],
     "examples": [
       {
@@ -300806,8 +299670,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "de",
-      "de",
       "de"
     ],
     "examples": [
@@ -300977,10 +299839,8 @@
       "få loss",
       "göra loss",
       "lätta på",
-      "lossa",
       "tömma",
-      "hälla ut",
-      "tömma"
+      "hälla ut"
     ],
     "examples": [
       {
@@ -301036,7 +299896,6 @@
     "gender": null,
     "stuttbeyg": "hann er holur, hún er hol, það er holt; holur - holari - holastur",
     "translations": [
-      "ihålig",
       "ihålig"
     ],
     "examples": [
@@ -301151,7 +300010,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "arv",
       "arv"
     ],
     "examples": [
@@ -301244,14 +300102,11 @@
       "ramla",
       "rinna",
       "flyta",
-      "falla",
       "dö",
       "mista livet",
       "stupa",
-      "falla",
       "tycka om",
       "gilla",
-      "dö",
       "få återfall",
       "återfalla",
       "misslyckas",
@@ -301409,9 +300264,7 @@
     "translations": [
       "söm",
       "sömnad",
-      "söm",
-      "stygn",
-      "söm"
+      "stygn"
     ],
     "examples": [
       {
@@ -302122,7 +300975,6 @@
       "jämn",
       "lik",
       "slät",
-      "jämn",
       "jämn-"
     ],
     "examples": [
@@ -302181,12 +301033,9 @@
     "stuttbeyg": "hann er fullur, hún er full, það er fullt; fullur - fyllri - fyllstur",
     "translations": [
       "full",
-      "full",
       "fylld",
-      "full",
       "hel",
-      "obegränsad",
-      "full"
+      "obegränsad"
     ],
     "examples": [
       {
@@ -302520,8 +301369,7 @@
       "uppleva",
       "vara med om",
       "pyra",
-      "höra hemma",
-      "leva"
+      "höra hemma"
     ],
     "examples": [
       {
@@ -302645,7 +301493,6 @@
     "translations": [
       "välja",
       "ta ställning",
-      "välja",
       "välja ut"
     ],
     "examples": [
@@ -302958,7 +301805,6 @@
     "translations": [
       "blodig",
       "nedblodad",
-      "blodig",
       "skoningslös"
     ],
     "examples": [
@@ -303252,8 +302098,7 @@
     "stuttbeyg": "ég elska, við elskum; hann elskaði; hann hefur elskað",
     "translations": [
       "älska",
-      "gilla",
-      "älska"
+      "gilla"
     ],
     "examples": [
       {
@@ -303891,8 +302736,7 @@
     "stuttbeyg": "ég kveiki, hann kveikir; hann kveikti; hann hefur kveikt",
     "translations": [
       "tända",
-      "väcka",
-      "tända"
+      "väcka"
     ],
     "examples": [
       {
@@ -304173,8 +303017,6 @@
       "montering",
       "installering",
       "installation",
-      "montering",
-      "uppsättning",
       "iscensättning"
     ],
     "examples": [
@@ -304196,7 +303038,6 @@
     "stuttbeyg": null,
     "translations": [
       "fukt",
-      "väta",
       "väta"
     ],
     "examples": [
@@ -304570,7 +303411,6 @@
     "gender": null,
     "stuttbeyg": "ég fjárfesti, hann fjárfestir; hann fjárfesti; hann hefur fjárfest",
     "translations": [
-      "investera",
       "investera"
     ],
     "examples": [
@@ -304613,8 +303453,7 @@
     "translations": [
       "tanke",
       "föreställning",
-      "idé",
-      "tanke"
+      "idé"
     ],
     "examples": [
       {
@@ -304638,7 +303477,6 @@
     "gender": null,
     "stuttbeyg": "ég framleiði, hann framleiðir; hann framleiddi; hann hefur framleitt",
     "translations": [
-      "producera",
       "producera",
       "tillverka"
     ],
@@ -304842,7 +303680,6 @@
     "gender": null,
     "stuttbeyg": "hann er margfaldur, hún er margföld, það er margfalt; margfaldur - margfaldari - margfaldastur",
     "translations": [
-      "mångdubbel",
       "mångdubbel",
       "flerdubbel"
     ],
@@ -305125,7 +303962,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "vågdal",
       "vågdal"
     ],
     "examples": [
@@ -305370,7 +304206,6 @@
     "translations": [
       "börda",
       "packning",
-      "börda",
       "belastning"
     ],
     "examples": [
@@ -305849,7 +304684,6 @@
     "translations": [
       "tokig",
       "häftig",
-      "häftig",
       "fantastisk"
     ],
     "examples": [
@@ -306276,7 +305110,6 @@
     "stuttbeyg": null,
     "translations": [
       "analys",
-      "analys",
       "diagnos"
     ],
     "examples": [
@@ -306368,7 +305201,6 @@
     "stuttbeyg": "hann er óður, hún er óð, það er ótt; óður - óðari - óðastur",
     "translations": [
       "ursinnig",
-      "vansinnig",
       "vansinnig",
       "besatt",
       "förryckt"
@@ -306813,8 +305645,7 @@
     "stuttbeyg": "ég blæs, hann blæs; hann blés, við blésum; hann hefur blásið",
     "translations": [
       "blåsa",
-      "blåsa ut",
-      "blåsa"
+      "blåsa ut"
     ],
     "examples": [
       {
@@ -306979,8 +305810,7 @@
     "translations": [
       "skylt",
       "vägmärke",
-      "trafikmärke",
-      "skylt"
+      "trafikmärke"
     ],
     "examples": [
       {
@@ -307732,7 +306562,6 @@
     "stuttbeyg": null,
     "translations": [
       "provsvar",
-      "lösning",
       "lösning"
     ],
     "examples": [
@@ -307928,8 +306757,7 @@
     "stuttbeyg": null,
     "translations": [
       "läsare",
-      "uppläsare",
-      "läsare"
+      "uppläsare"
     ],
     "examples": [
       {
@@ -307996,8 +306824,7 @@
     "translations": [
       "tillfälle",
       "möjlighet",
-      "chans",
-      "tillfälle"
+      "chans"
     ],
     "examples": [
       {
@@ -308808,8 +307635,7 @@
     "translations": [
       "förkrossad",
       "krossad",
-      "sönderklämd",
-      "krossad"
+      "sönderklämd"
     ],
     "examples": [
       {
@@ -309274,7 +308100,6 @@
       "uttänjning",
       "utvidgning",
       "expansion",
-      "expansion",
       "överexpansion"
     ],
     "examples": [
@@ -309335,8 +308160,7 @@
       "mörkhyad",
       "färgad",
       "svart",
-      "mörk",
-      "svart"
+      "mörk"
     ],
     "examples": [
       {
@@ -309641,7 +308465,6 @@
       "vänta",
       "motse",
       "invänta",
-      "vänta",
       "avvakta"
     ],
     "examples": [
@@ -310039,7 +308862,6 @@
       "träffa",
       "råka",
       "stöta på",
-      "träffa",
       "pricka"
     ],
     "examples": [
@@ -310117,8 +308939,7 @@
     "stuttbeyg": null,
     "translations": [
       "resultat",
-      "utgivning",
-      "resultat"
+      "utgivning"
     ],
     "examples": [
       {
@@ -310530,7 +309351,6 @@
     "gender": null,
     "stuttbeyg": "hann er strangur, hún er ströng, það er strangt; strangur - strangari - strangastur",
     "translations": [
-      "sträng",
       "sträng",
       "strikt",
       "hård"
@@ -311118,8 +309938,7 @@
       "avsliten",
       "sliten",
       "utarbetad",
-      "nött",
-      "sliten"
+      "nött"
     ],
     "examples": [
       {
@@ -311627,7 +310446,6 @@
     "stuttbeyg": null,
     "translations": [
       "visst",
-      "visst",
       "säkert"
     ],
     "examples": [
@@ -312042,9 +310860,7 @@
     "translations": [
       "förståelse",
       "tolkning",
-      "gestaltning",
-      "tolkning",
-      "tolkning"
+      "gestaltning"
     ],
     "examples": [
       {
@@ -312282,7 +311098,6 @@
     "gender": null,
     "stuttbeyg": "hann er ljós, hún er ljós, það er ljóst; ljós - ljósari - ljósastur",
     "translations": [
-      "ljus",
       "ljus"
     ],
     "examples": [
@@ -312768,7 +311583,6 @@
       "elastisk",
       "duktig",
       "uthållig",
-      "uthållig",
       "trög",
       "tvär"
     ],
@@ -313110,8 +311924,7 @@
     "stuttbeyg": null,
     "translations": [
       "tryck",
-      "press",
-      "tryck"
+      "press"
     ],
     "examples": [
       {
@@ -313207,7 +312020,6 @@
     "stuttbeyg": "ég ræð, hann ræður; hann réð(i); hann hefur ráðið",
     "translations": [
       "bestämma",
-      "råda",
       "råda",
       "rekommendera",
       "tillråda",
@@ -313450,7 +312262,6 @@
       "trampa",
       "stiga",
       "kliva",
-      "stiga",
       "öka"
     ],
     "examples": [
@@ -313876,9 +312687,7 @@
     "stuttbeyg": "ég kyngi, hann kyngir; hann kyngdi; hann hefur kyngt",
     "translations": [
       "svälja",
-      "svälja",
       "acceptera",
-      "svälja",
       "hålla tillbaka"
     ],
     "examples": [
@@ -313939,8 +312748,7 @@
       "tillträde",
       "tillgänglighet",
       "tillgång",
-      "möjlighet",
-      "tillgång"
+      "möjlighet"
     ],
     "examples": [
       {
@@ -314018,7 +312826,6 @@
     "translations": [
       "blodkontakt",
       "korsning",
-      "rasblandning",
       "rasblandning"
     ],
     "examples": [
@@ -314303,7 +313110,6 @@
     "translations": [
       "rösta",
       "utse",
-      "välja",
       "välja",
       "föredra"
     ],
@@ -314789,8 +313595,7 @@
     "stuttbeyg": "hann er útslitinn, hún er útslitin, það er útslitið",
     "translations": [
       "utsliten",
-      "utnött",
-      "utsliten"
+      "utnött"
     ],
     "examples": [
       {
@@ -315014,7 +313819,6 @@
       "nivå",
       "stadium",
       "grad",
-      "grad",
       "poäng",
       "magnitud"
     ],
@@ -315168,8 +313972,7 @@
       "regelmässig",
       "jämn",
       "fast",
-      "ordinarie",
-      "regelbunden"
+      "ordinarie"
     ],
     "examples": [
       {
@@ -315239,7 +314042,6 @@
     "translations": [
       "behaga",
       "vara till lags",
-      "behaga",
       "vilja"
     ],
     "examples": [
@@ -315363,7 +314165,6 @@
     "gender": null,
     "stuttbeyg": "ég hvæsi, hann hvæsir; hann hvæsti; hann hefur hvæst",
     "translations": [
-      "fräsa",
       "fräsa"
     ],
     "examples": [
@@ -315444,8 +314245,7 @@
       "röra om",
       "rubba",
       "beröra",
-      "gripa",
-      "röra"
+      "gripa"
     ],
     "examples": [
       {
@@ -315730,7 +314530,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "start",
       "start"
     ],
     "examples": [
@@ -315864,9 +314663,7 @@
       "snedsprång",
       "sidospår",
       "stickspår",
-      "avstickare",
-      "sidospår",
-      "stickspår"
+      "avstickare"
     ],
     "examples": [
       {
@@ -315958,7 +314755,6 @@
     "stuttbeyg": null,
     "translations": [
       "avel",
-      "odling",
       "odling"
     ],
     "examples": [
@@ -316354,7 +315150,6 @@
     "gender": null,
     "stuttbeyg": "ég drekk, hann drekkur; hann drakk, við drukkum; hann hefur drukkið",
     "translations": [
-      "dricka",
       "dricka",
       "supa"
     ],
@@ -317410,7 +316205,6 @@
     "gender": null,
     "stuttbeyg": "hann er fastur, hún er föst, það er fast; fastur - fastari - fastastur",
     "translations": [
-      "fast",
       "fast"
     ],
     "examples": [
@@ -318482,7 +317276,6 @@
     "translations": [
       "syn",
       "synförmåga",
-      "syn",
       "anblick"
     ],
     "examples": [
@@ -318534,7 +317327,6 @@
       "sittplats",
       "plats",
       "placering",
-      "plats",
       "höstack",
       "såte"
     ],
@@ -318739,8 +317531,7 @@
       "sned",
       "felaktig",
       "fel",
-      "hög",
-      "sned"
+      "hög"
     ],
     "examples": [
       {
@@ -318943,7 +317734,6 @@
       "intakt",
       "utan fel",
       "frisk",
-      "hel",
       "ärlig",
       "uppriktig",
       "rättfärdig"
@@ -319024,8 +317814,6 @@
     "translations": [
       "detta",
       "det här",
-      "det här",
-      "detta",
       "lite av varje",
       "ditt och datt",
       "alldeles nyss",
@@ -319098,7 +317886,6 @@
     "translations": [
       "skrika",
       "ropa",
-      "yla",
       "yla",
       "bräka"
     ],
@@ -319529,7 +318316,6 @@
     "stuttbeyg": null,
     "translations": [
       "vakuum",
-      "tomrum",
       "tomrum"
     ],
     "examples": [
@@ -320383,9 +319169,7 @@
       "nervös",
       "utspänd",
       "sträckt",
-      "utsträckt",
-      "spänd",
-      "sträckt"
+      "utsträckt"
     ],
     "examples": [
       {
@@ -320475,7 +319259,6 @@
       "knak",
       "knaster",
       "avsaknad",
-      "brist",
       "brist",
       "svaghet",
       "tillkortakommande",
@@ -320679,7 +319462,6 @@
     "gender": null,
     "stuttbeyg": "ég hef, hann hefur; hann hafði; hann hefur haft",
     "translations": [
-      "ha",
       "ha"
     ],
     "examples": [
@@ -321240,8 +320022,7 @@
     "translations": [
       "närmande",
       "angreppssätt",
-      "approximering",
-      "närmande"
+      "approximering"
     ],
     "examples": [
       {
@@ -321330,10 +320111,7 @@
     "translations": [
       "stark",
       "klar",
-      "klar",
       "ren",
-      "stark",
-      "klar",
       "bjärt"
     ],
     "examples": [
@@ -322570,7 +321348,6 @@
     "gender": "n",
     "stuttbeyg": "",
     "translations": [
-      "helvete",
       "helvete"
     ],
     "examples": [
@@ -322679,7 +321456,6 @@
     "gender": null,
     "stuttbeyg": null,
     "translations": [
-      "verkligen",
       "verkligen"
     ],
     "examples": [
@@ -323772,10 +322548,6 @@
     "translations": [
       "punkt",
       "prick",
-      "punkt",
-      "punkt",
-      "punkt",
-      "punkt",
       "poäng"
     ],
     "examples": [
@@ -323978,13 +322750,8 @@
       "behandling",
       "missbruksbehandling",
       "drogavvänjning",
-      "behandling",
       "hantering",
-      "behandling",
-      "hantering",
-      "behandling",
-      "handhavande",
-      "hantering"
+      "handhavande"
     ],
     "examples": [
       {
@@ -324421,8 +323188,7 @@
       "smidig",
       "böjlig",
       "tillmötesgående",
-      "medgörlig",
-      "flexibel"
+      "medgörlig"
     ],
     "examples": [
       {
@@ -324466,7 +323232,6 @@
       "allting",
       "allt",
       "hela",
-      "allt",
       "all slags",
       "helt",
       "precis",
@@ -324474,7 +323239,6 @@
       "sammanlagt",
       "totalt",
       "absolut",
-      "helt",
       "alls"
     ],
     "examples": [
@@ -324582,8 +323346,6 @@
       "rak",
       "rät",
       "direkt",
-      "rak",
-      "rak",
       "upprätt",
       "rank"
     ],
@@ -325109,7 +323871,6 @@
       "total",
       "absolut",
       "fullständig",
-      "fullständig",
       "komplett"
     ],
     "examples": [
@@ -325224,7 +323985,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "tuppfäktning",
       "tuppfäktning"
     ],
     "examples": [
@@ -325364,8 +324124,7 @@
     "stuttbeyg": "hann er upptrekktur, hún er upptrekkt, það er upptrekkt; upptrekktur - upptrekktari - upptrekktastur",
     "translations": [
       "uppskruvad",
-      "uppdragen",
-      "uppskruvad"
+      "uppdragen"
     ],
     "examples": [
       {
@@ -325416,7 +324175,6 @@
     "translations": [
       "tänja",
       "töja",
-      "sträcka",
       "sträcka"
     ],
     "examples": [
@@ -326072,8 +324830,7 @@
     "stuttbeyg": null,
     "translations": [
       "försvar",
-      "skydd",
-      "försvar"
+      "skydd"
     ],
     "examples": [
       {
@@ -326131,7 +324888,6 @@
     "gender": "f",
     "stuttbeyg": null,
     "translations": [
-      "tand",
       "tand",
       "kugge"
     ],
@@ -326227,7 +324983,6 @@
     "stuttbeyg": null,
     "translations": [
       "sopa",
-      "skräp",
       "skräp"
     ],
     "examples": [
@@ -326381,7 +325136,6 @@
       "pålitlig",
       "lojal",
       "tillförlitlig",
-      "pålitlig",
       "säker"
     ],
     "examples": [
@@ -326467,8 +325221,7 @@
     "stuttbeyg": "ég syng, hann syngur; hann söng, við sungum; hann hefur sungið",
     "translations": [
       "sjunga",
-      "kvittra",
-      "sjunga"
+      "kvittra"
     ],
     "examples": [
       {
@@ -326899,10 +325652,8 @@
     "translations": [
       "oskyldig",
       "oförarglig",
-      "oskyldig",
       "harmlös",
-      "naiv",
-      "oskyldig"
+      "naiv"
     ],
     "examples": [
       {
@@ -327615,7 +326366,6 @@
     "gender": null,
     "stuttbeyg": "ég heyri, hann heyrir; hann heyrði; hann hefur heyrt",
     "translations": [
-      "höra",
       "höra"
     ],
     "examples": [
@@ -328208,7 +326958,6 @@
     "stuttbeyg": null,
     "translations": [
       "vändpunkt",
-      "vattendelare",
       "vattendelare"
     ],
     "examples": [
@@ -329082,7 +327831,6 @@
       "utbud",
       "urval",
       "sortiment",
-      "urval",
       "utmärkt",
       "prima"
     ],
@@ -329573,7 +328321,6 @@
     "stuttbeyg": null,
     "translations": [
       "papp",
-      "kartong",
       "kartong"
     ],
     "examples": [
@@ -329892,8 +328639,6 @@
     "gender": "n",
     "stuttbeyg": null,
     "translations": [
-      "öga",
-      "öga",
       "öga",
       "nålsöga"
     ],
@@ -330488,7 +329233,6 @@
     "stuttbeyg": null,
     "translations": [
       "kraft",
-      "energi",
       "energi"
     ],
     "examples": [
@@ -331396,7 +330140,6 @@
       "mild",
       "lätt",
       "svag",
-      "lätt",
       "låg",
       "måttlig"
     ],
@@ -331538,7 +330281,6 @@
     "gender": "m",
     "stuttbeyg": null,
     "translations": [
-      "lager",
       "lager",
       "magasin"
     ],
@@ -332094,8 +330836,7 @@
       "bli gripen",
       "leva",
       "röra sig",
-      "vara i rörelse",
-      "röra sig"
+      "vara i rörelse"
     ],
     "examples": [
       {
@@ -332424,7 +331165,6 @@
     "translations": [
       "årgång",
       "produktionsår",
-      "årgång",
       "utgivningsår",
       "årskull"
     ],
@@ -332868,7 +331608,6 @@
     "stuttbeyg": "henni hrakar; henni hrakaði; henni hefur hrakað",
     "translations": [
       "försämras",
-      "försämras",
       "förvärras"
     ],
     "examples": [
@@ -333293,7 +332032,6 @@
     "translations": [
       "hal",
       "glatt",
-      "hal",
       "slingrig"
     ],
     "examples": [
@@ -333433,9 +332171,7 @@
       "behandling",
       "hantering",
       "vård",
-      "behandling",
-      "användning",
-      "hantering"
+      "användning"
     ],
     "examples": [
       {
@@ -333605,8 +332341,7 @@
     "translations": [
       "ojämn",
       "varierande",
-      "fluktuerande",
-      "ojämn"
+      "fluktuerande"
     ],
     "examples": [
       {

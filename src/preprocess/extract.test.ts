@@ -56,6 +56,17 @@ describe('processItems', () => {
         expect(processItems(items).translations).toEqual(['eitt', 'tvö']);
     });
 
+    it('dedupes repeated SE-jafn translations, preserving first-occurrence order', () => {
+        const items: RawItem[] = [
+            { itid: 1, texti: 'sin', paritem: 100, teg: 'SE-jafn' },
+            { itid: 2, texti: 'sin', paritem: 101, teg: 'SE-jafn' },
+            { itid: 3, texti: 'hans', paritem: 102, teg: 'SE-jafn' },
+            { itid: 4, texti: 'sin', paritem: 103, teg: 'SE-jafn' },
+            { itid: 5, texti: 'hennes', paritem: 104, teg: 'SE-jafn' },
+        ];
+        expect(processItems(items).translations).toEqual(['sin', 'hans', 'hennes']);
+    });
+
     it('ignores unrelated teg values', () => {
         const items: RawItem[] = [
             { itid: 1, texti: 'foo', paritem: -1, teg: 'FRAMB' },

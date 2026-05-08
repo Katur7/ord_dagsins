@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node src/server/server.ts",
     "dev": "node --watch src/server/server.ts",
+    "preprocess": "node src/preprocess/build.ts",
     "test": "vitest run",
     "test:watch": "vitest"
   },

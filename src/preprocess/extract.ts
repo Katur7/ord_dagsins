@@ -33,6 +33,7 @@ export function parseOfl(ofl: string | null | undefined): { pos: string; gender:
 
 export function processItems(items: RawItem[]): { translations: string[]; examples: Example[] } {
     const translations: string[] = [];
+    const seen = new Set<string>();
     const examples: Example[] = [];
     for (const subitem of items) {
         if (subitem.teg === 'DÆMI') {
@@ -40,7 +41,8 @@ export function processItems(items: RawItem[]): { translations: string[]; exampl
             if (translation) {
                 examples.push({ is: subitem.texti, se: translation.texti });
             }
-        } else if (subitem.teg === 'SE-jafn') {
+        } else if (subitem.teg === 'SE-jafn' && !seen.has(subitem.texti)) {
+            seen.add(subitem.texti);
             translations.push(subitem.texti);
         }
     }

@@ -1,7 +1,8 @@
 import { getWordOfTheDay } from '../server/word.ts'
 
+const count = Number(process.argv[2]) || 100;
 let today = new Date();
-for(let i = 0; i < 100; i++) {
+for(let i = 0; i < count; i++) {
     const dateString = today.toISOString().split('T')[0];
     const wordOfTheDay = getWordOfTheDay(dateString);
     console.log(`Word of the Day for ${dateString}. Fletta: ${wordOfTheDay.fletta}. Translations: ${wordOfTheDay.translations.join(', ')}`);
