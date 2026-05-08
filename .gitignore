@@ -2,3 +2,4 @@ node_modules/
 raw/
 processed/*
 !processed/shuffled.json
+.DS_Store
