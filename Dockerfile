@@ -5,7 +5,7 @@ ENV TZ=Europe/Stockholm
 
 COPY package.json package-lock.json ./
 RUN npm ci --production
-COPY src ./src
+COPY src/server ./src/server
 COPY processed/shuffled.json ./processed/shuffled.json
 
 EXPOSE 3000

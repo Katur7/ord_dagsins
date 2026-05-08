@@ -20,6 +20,14 @@ export function getWordOfTheDay(dateString: string): WordOfTheDay {
   return words[index];
 }
 
+export function findByFlid(flid: number): WordOfTheDay | null {
+  return words.find((w: WordOfTheDay) => w.flid === flid) ?? null;
+}
+
+export function findByFletta(fletta: string): WordOfTheDay | null {
+  return words.find((w: WordOfTheDay) => w.fletta === fletta) ?? null;
+}
+
 // const today = new Date().toISOString().split('T')[0];
 // const wordOfTheDay = getWordOfTheDay(today);
 // console.log(`Word of the Day for ${today}:`);
@@ -33,6 +41,9 @@ export function getWordOfTheDay(dateString: string): WordOfTheDay {
 export interface WordOfTheDay {
   flid: number;
   fletta: string;
+  pos: string;
+  gender: string | null;
+  stuttbeyg: string | null;
   translations: string[];
   examples: Example[];
 }

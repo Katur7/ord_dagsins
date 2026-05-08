@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Orð dagsins — preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Inter:wght@500;600;700&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ─────── PREVIEW HARNESS (frame chrome only) ─────── */
+    :root {
+      --ink:    #15171a;
+      --paper:  #f7f4ec;
+      --rule:   #d9d2c2;
+      --muted:  #6a6055;
+      --accent: #7a1a22;
+      --font-serif: 'Newsreader', Georgia, 'Times New Roman', serif;
+      --font-label: 'Inter', system-ui, -apple-system, sans-serif;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      background: #1a1a1c;
+      font-family: var(--font-label);
+      color: #e9e5dc;
+      min-height: 100vh;
+      padding: 56px 32px 80px;
+    }
+    .preview-title {
+      max-width: 1320px;
+      margin: 0 auto 36px;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #a39b8a;
+    }
+    .preview-section {
+      max-width: 1320px;
+      margin: 0 auto 64px;
+    }
+    .preview-section h2 {
+      font-family: var(--font-label);
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #7a7367;
+      margin: 0 0 4px;
+    }
+    .preview-section p {
+      font-family: var(--font-label);
+      font-size: 13px;
+      color: #b7b0a2;
+      margin: 0 0 24px;
+      max-width: 70ch;
+    }
+    .preview-grid-phone {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+      gap: 28px;
+    }
+    .preview-grid-desktop {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 28px;
+    }
+    .preview-frame {
+      background: var(--paper);
+      border-radius: 4px;
+      overflow: hidden;
+      box-shadow: 0 24px 60px rgba(0,0,0,0.35);
+      position: relative;
+    }
+    .preview-frame .frame-tag {
+      position: absolute;
+      top: 12px;
+      right: 14px;
+      font-family: var(--font-label);
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--muted);
+      opacity: 0.6;
+      pointer-events: none;
+    }
+    .frame-phone   { width: 480px; min-height: 980px; }
+    .frame-desktop { width: 100%;  min-height: 760px; }
+
+    /* ───────── DESIGN STYLES (port these to index.css) ───────── */
+
+    /* Folio header */
+    .folio {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin: 0 0 32px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--ink);
+      font-family: var(--font-label);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    /* Container */
+    .design {
+      padding: 40px 44px 48px;
+      color: var(--ink);
+      font-family: var(--font-serif);
+    }
+    .design.desktop {
+      padding: 56px 80px 64px;
+    }
+    .design .layout {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 36px;
+    }
+    .design.desktop .layout {
+      grid-template-columns: minmax(50%, 1fr) 1.65fr;
+      gap: 96px;
+    }
+    .design.desktop .hero,
+    .design.desktop .examples { min-width: 0; }
+
+    /* Pegs */
+    .peg {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-family: var(--font-label);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+    }
+    .peg-square {
+      width: 7px; height: 7px;
+      background: var(--accent);
+      flex: 0 0 7px;
+    }
+    .peg-is .peg-label,
+    .peg-se .peg-label    { color: var(--accent); }
+    .peg-daemi .peg-label { color: var(--muted); }
+
+    /* Headword */
+    .headword-fit {
+      width: 100%;
+      margin-top: 14px;
+      position: relative;
+    }
+    .design.desktop .headword-fit { margin-top: 16px; }
+    .headword-measure,
+    .headword-visible {
+      font-family: var(--font-serif);
+      font-weight: 500;
+      color: var(--ink);
+      letter-spacing: -0.02em;
+      line-height: 1.02;
+      margin: 0;
+      white-space: nowrap;
+    }
+    .headword-measure {
+      position: absolute;
+      visibility: hidden;
+      pointer-events: none;
+      left: -99999px;
+      top: -99999px;
+    }
+    .headword-visible {
+      font-size: clamp(32px, 9vw, 76px);
+    }
+    .headword-visible.wraps {
+      white-space: normal;
+      word-break: break-word;
+      overflow-wrap: anywhere;
+    }
+
+    /* Gloss + inflections */
+    .word-class {
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-size: 16px;
+      color: var(--muted);
+      margin: 14px 0 0;
+    }
+    .design.desktop .word-class { font-size: 18px; margin-top: 18px; }
+    .inflections {
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-size: 15px;
+      color: var(--muted);
+      opacity: 0.85;
+      margin: 4px 0 0;
+    }
+    .design.desktop .inflections { font-size: 17px; }
+
+    /* SE block */
+    .se-block { margin-top: 36px; }
+    .design.desktop .se-block { margin-top: 44px; }
+    .translations {
+      font-family: var(--font-serif);
+      font-size: 30px;
+      font-weight: 400;
+      letter-spacing: -0.01em;
+      line-height: 1.22;
+      color: var(--ink);
+      margin: 14px 0 0;
+    }
+    .design.desktop .translations { font-size: 34px; margin-top: 16px; }
+    .translations .t { white-space: nowrap; }
+    .translations .t + .t::before {
+      content: '·';
+      color: var(--accent);
+      font-style: italic;
+      margin: 0 0.5em;
+    }
+
+    /* Examples */
+    .example-list {
+      list-style: none;
+      margin: 18px 0 0 14px;
+      padding: 0 0 0 22px;
+      border-left: 1px solid var(--accent);
+    }
+    .design.desktop .example-list {
+      margin-top: 24px;
+      padding-left: 32px;
+    }
+    .example {
+      padding: 18px 0;
+      border-bottom: 1px solid var(--rule);
+    }
+    .design.desktop .example { padding: 32px 0; }
+    .example:first-child { padding-top: 4px; }
+    .design.desktop .example:first-child { padding-top: 6px; }
+    .example:last-child  { padding-bottom: 0; border-bottom: none; }
+    .ex-is {
+      font-family: var(--font-serif);
+      font-size: 17px;
+      line-height: 1.5;
+      color: var(--ink);
+      margin: 0;
+    }
+    .design.desktop .ex-is { font-size: 24px; }
+    .ex-se {
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-size: 16px;
+      line-height: 1.5;
+      color: var(--muted);
+      margin: 6px 0 0;
+    }
+    .design.desktop .ex-se { font-size: 21px; margin-top: 12px; }
+  </style>
+</head>
+<body>
+
+  <h1 class="preview-title">Orð dagsins · handoff preview</h1>
+
+  <section class="preview-section">
+    <h2>Phone — four data scenarios</h2>
+    <p>Stacked single-column layout. Headword auto-fits between 32–76px. Pegs (Íslenska / Svenska / Dæmi) divide sections; no horizontal rules between them. Vertical oxblood rule on the examples block.</p>
+    <div class="preview-grid-phone" id="phones"></div>
+  </section>
+
+  <section class="preview-section">
+    <h2>Desktop — four data scenarios</h2>
+    <p>Two-column grid: <code>minmax(50%, 1fr) 1.65fr</code>, gap 96px. Headword auto-fits between 36–92px. Examples column gets the majority of horizontal space; the hero column never collapses below half the canvas.</p>
+    <div class="preview-grid-desktop" id="desktops"></div>
+  </section>
+
+  <template id="design-template">
+    <div class="design">
+      <header class="folio">
+        <span class="folio-title">Orð dagsins</span>
+        <span class="folio-date" data-bind="date"></span>
+      </header>
+      <div class="layout">
+        <section class="hero">
+          <div class="peg peg-is"><span class="peg-square"></span><span class="peg-label">Íslenska</span></div>
+          <div class="headword-fit" data-min-phone="32" data-max-phone="76" data-min-desktop="36" data-max-desktop="92">
+            <span class="headword-measure" aria-hidden="true" data-bind="fletta"></span>
+            <h1 class="headword-visible" data-bind="fletta"></h1>
+          </div>
+          <p class="word-class" data-bind="wordClassLine"></p>
+          <p class="inflections" data-bind="inflections"></p>
+          <div class="se-block">
+            <div class="peg peg-se"><span class="peg-square"></span><span class="peg-label">Svenska</span></div>
+            <p class="translations" lang="sv" data-bind-list="translations"></p>
+          </div>
+        </section>
+        <section class="examples">
+          <div class="peg peg-daemi"><span class="peg-square"></span><span class="peg-label">Dæmi</span></div>
+          <ol class="example-list" data-bind-examples="examples"></ol>
+        </section>
+      </div>
+    </div>
+  </template>
+
+  <script>
+    // Sample data (mirrors handoff/samples/data.json)
+    const SCENARIOS = [
+      { label: 'verðskuldaður', date: '2026-04-06', fletta: 'verðskuldaður',
+        wordClass: 'lo.', inflections: ['verðskuldaður','verðskulduð','verðskuldað'],
+        translations: ['välförtjänt'],
+        examples: [
+          { is: 'hann vann verðskuldaðan sigur í langhlaupinu', se: 'han vann en välförtjänt seger i långloppet' },
+          { is: 'verðlaunin sem hún fékk voru sannarlega verðskulduð', se: 'priset som hon fick var sannerligen välförtjänt' },
+        ] },
+      { label: 'long compound', date: '2026-04-07', fletta: 'þjóðfélagshagfræðingur',
+        wordClass: 'no.', gender: 'kk.', inflections: ['þjóðfélagshagfræðingur','þjóðfélagshagfræðingar'],
+        translations: ['nationalekonom','samhällsekonom'],
+        examples: [
+          { is: 'þjóðfélagshagfræðingurinn skrifaði grein um verðbólgu', se: 'nationalekonomen skrev en artikel om inflation' },
+        ] },
+      { label: 'samtíð (short)', date: '2026-04-08', fletta: 'samtíð',
+        wordClass: 'no.', gender: 'kvk.', inflections: ['samtíð','samtíðir'],
+        translations: ['samtid','nutid'],
+        examples: [
+          { is: 'efni skáldsögunnar er úr samtíð höfundar', se: 'innehållet i romanen är hämtat ur författarens samtid' },
+        ] },
+      { label: 'stanslaus (5 translations)', date: '2026-04-09', fletta: 'stanslaus',
+        wordClass: 'lo.', inflections: ['stanslaus','stanslaus','stanslaust'],
+        translations: ['oupphörlig','oavbruten','ständig','konstant','pågående'],
+        examples: [
+          { is: 'stanslausar símhringingar trufluðu vinnufrið hans', se: 'oupphörliga telefonsamtal störde hans arbetsro' },
+          { is: 'hann er á stanslausum fótboltaæfingum', se: 'han är på ständiga fotbollsträningar' },
+        ] },
+    ];
+
+    // Date formatter
+    const IS_MONTHS = ['janúar','febrúar','mars','apríl','maí','júní','júlí','ágúst','september','október','nóvember','desember'];
+    const fmtDate = iso => {
+      const d = new Date(iso + 'T12:00:00');
+      return `${d.getDate()}. ${IS_MONTHS[d.getMonth()]} ${d.getFullYear()}`;
+    };
+    const classWord = c => ({ 'lo.':'lýsingarorð','no.':'nafnorð','so.':'sagnorð','ao.':'atviksorð' })[c] || '';
+    const genderWord = g => ({ 'kk.':'karlkyn','kvk.':'kvenkyn','hk.':'hvorugkyn' })[g] || '';
+    const wordClassLine = s => {
+      const c = classWord(s.wordClass);
+      const g = genderWord(s.gender);
+      return g ? `${c} · ${g}` : c;
+    };
+
+    function render(scenario, container, { desktop = false } = {}) {
+      const tpl = document.getElementById('design-template').content.cloneNode(true);
+      const root = tpl.querySelector('.design');
+      root.classList.add(desktop ? 'desktop' : 'phone');
+
+      tpl.querySelectorAll('[data-bind="date"]').forEach(el => el.textContent = fmtDate(scenario.date));
+      tpl.querySelectorAll('[data-bind="fletta"]').forEach(el => el.textContent = scenario.fletta);
+      tpl.querySelectorAll('[data-bind="wordClassLine"]').forEach(el => {
+        const v = wordClassLine(scenario);
+        if (v) el.textContent = v; else el.remove();
+      });
+      tpl.querySelectorAll('[data-bind="inflections"]').forEach(el => {
+        const v = (scenario.inflections || []).join(' · ');
+        if (v) el.textContent = v; else el.remove();
+      });
+      tpl.querySelectorAll('[data-bind-list="translations"]').forEach(el => {
+        scenario.translations.forEach(t => {
+          const span = document.createElement('span');
+          span.className = 't';
+          span.textContent = t;
+          el.appendChild(span);
+        });
+      });
+      tpl.querySelectorAll('[data-bind-examples="examples"]').forEach(el => {
+        scenario.examples.forEach(ex => {
+          const li = document.createElement('li');
+          li.className = 'example';
+          const isP = document.createElement('p'); isP.className = 'ex-is'; isP.textContent = ex.is;
+          const seP = document.createElement('p'); seP.className = 'ex-se'; seP.lang = 'sv'; seP.textContent = ex.se;
+          li.appendChild(isP); li.appendChild(seP);
+          el.appendChild(li);
+        });
+      });
+
+      const frame = document.createElement('div');
+      frame.className = 'preview-frame ' + (desktop ? 'frame-desktop' : 'frame-phone');
+      const tag = document.createElement('div');
+      tag.className = 'frame-tag';
+      tag.textContent = scenario.label;
+      frame.appendChild(tag);
+      frame.appendChild(tpl);
+      container.appendChild(frame);
+    }
+
+    // Headword auto-fit (mirrors handoff/reference/headword-fit.js)
+    function fit(container) {
+      const measure = container.querySelector('.headword-measure');
+      const visible = container.querySelector('.headword-visible');
+      if (!measure || !visible) return;
+      const isDesktopFrame = container.closest('.design')?.classList.contains('desktop');
+      const minPx = parseFloat(container.dataset[isDesktopFrame ? 'minDesktop' : 'minPhone']) || 32;
+      const maxPx = parseFloat(container.dataset[isDesktopFrame ? 'maxDesktop' : 'maxPhone']) || 76;
+      const available = container.clientWidth;
+      if (!available) return;
+
+      measure.style.fontSize = maxPx + 'px';
+      if (measure.offsetWidth <= available) {
+        visible.classList.remove('wraps');
+        visible.style.fontSize = maxPx + 'px';
+        return;
+      }
+      measure.style.fontSize = minPx + 'px';
+      if (measure.offsetWidth > available) {
+        visible.classList.add('wraps');
+        visible.style.fontSize = minPx + 'px';
+        return;
+      }
+      let lo = minPx, hi = maxPx, best = minPx;
+      for (let i = 0; i < 22; i++) {
+        const mid = (lo + hi) / 2;
+        measure.style.fontSize = mid + 'px';
+        if (measure.offsetWidth <= available) { best = mid; lo = mid; }
+        else { hi = mid; }
+      }
+      visible.classList.remove('wraps');
+      visible.style.fontSize = Math.floor(best) + 'px';
+    }
+
+    function init() {
+      const phones = document.getElementById('phones');
+      const desktops = document.getElementById('desktops');
+      SCENARIOS.forEach(s => render(s, phones,   { desktop: false }));
+      SCENARIOS.forEach(s => render(s, desktops, { desktop: true }));
+
+      const containers = document.querySelectorAll('.headword-fit');
+      const run = () => containers.forEach(fit);
+      run();
+      if (window.ResizeObserver) {
+        const ro = new ResizeObserver(run);
+        containers.forEach(c => ro.observe(c));
+      }
+      if (document.fonts && document.fonts.ready) document.fonts.ready.then(run);
+      window.addEventListener('load', run);
+    }
+
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+    else init();
+  </script>
+</body>
+</html>
