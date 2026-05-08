@@ -3,29 +3,46 @@ html(lang="is")
   head
     meta(charset="UTF-8")
     meta(name="viewport", content="width=device-width, initial-scale=1.0")
-    title Orð dagsins
+    title Orð dagsins · #{formattedDate}
+    link(rel="preconnect", href="https://fonts.googleapis.com")
+    link(rel="preconnect", href="https://fonts.gstatic.com", crossorigin)
+    link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Inter:wght@500;600;700&display=swap")
     link(rel="stylesheet", href="/styles/index.css")
 
   body
-    header
-      p.date-header Orð dagsins #{date}
+    header.folio
+      span.folio-title Orð dagsins
+      span.folio-date #{formattedDate}
 
-    main.hero-card
-      .word-group
-        span.flag(role="img", aria-label="Íslenska") 🇮🇸
-        h1.main-word #{wordIs}
+    main.page
+      section.hero
+        .peg.peg-is
+          span.peg-square
+          span.peg-label Íslenska
 
-      hr
-      
-      .word-group
-        span.flag(role="img", aria-label="Sænska") 🇸🇪
-        p.translations #{wordSe}
+        .headword-fit(data-min-phone="32", data-max-phone="76", data-min-desktop="36", data-max-desktop="92")
+          span.headword-measure(aria-hidden="true") #{wordIs}
+          h1.headword-visible #{wordIs}
 
-    each example in examples
-      section.example-card
-        span.sentence
-          span.flag(role="img", aria-label="Íslenska") 🇮🇸
-          span.line-text #{example.is}
-        span.translation
-          span.flag(role="img", aria-label="Sænska") 🇸🇪
-          span.line-text #{example.se}
+        if wordClassLine
+          p.word-class= wordClassLine
+
+        .se-block
+          .peg.peg-se
+            span.peg-square
+            span.peg-label Svenska
+          p.translations(lang="sv")
+            each t, i in translations
+              span.t= t
+
+      section.examples
+        .peg.peg-daemi
+          span.peg-square
+          span.peg-label Dæmi
+        ol.example-list
+          each example in examples
+            li.example
+              p.ex-is= example.is
+              p.ex-se(lang="sv")= example.se
+
+    script(src="/public/headword-fit.js")

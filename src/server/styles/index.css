@@ -1,149 +1,222 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=Fraunces:opsz,wght@9..144,700&display=swap');
+/* Orð dagsins — reference stylesheet
+   See ../DESIGN.md for the design tokens and rationale. */
 
 :root {
-  --page-padding: 20px;
-  --radius-lg: 24px;
-  --radius-md: 18px;
-  --card-width: 450px;
+  --ink:    #15171a;
+  --paper:  #f7f4ec;
+  --rule:   #d9d2c2;
+  --muted:  #6a6055;
+  --accent: #7a1a22;
 
-  --bg-color: #efebe2;
-  --bg-color-soft: #f9f6f1;
-  --text-main: #1b1d22;
-  --text-sub: #58616d;
-  --accent: #0f4c8a;
-  --card-bg: #ffffff;
-  --card-border: #e5e8ef;
-  --card-shadow: 0 14px 34px rgba(15, 20, 38, 0.08);
+  --font-serif: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-label: 'Inter', system-ui, -apple-system, sans-serif;
 }
 
-* {
-  box-sizing: border-box;
-}
+*, *::before, *::after { box-sizing: border-box; }
 
-body {
-  font-family: 'Manrope', sans-serif;
-  color: var(--text-main);
+html, body {
   margin: 0;
-  padding: var(--page-padding);
-  min-height: 100vh;
+  padding: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ────────────────────────────────────────────── */
+/* Folio header                                   */
+/* ────────────────────────────────────────────── */
+.folio {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 40px 44px 12px;
+  margin: 0 0 32px;
+  border-bottom: 1px solid var(--ink);
+  font-family: var(--font-label);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* ────────────────────────────────────────────── */
+/* Page (single column on phone)                  */
+/* ────────────────────────────────────────────── */
+.page {
+  padding: 0 44px 48px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 36px;
+}
+/* min-width: 0 on grid items is critical so wide content (long-compound
+   headwords pre-fit, nowrap translation spans) can't push the track
+   wider than its 1fr share. Applies at all viewport widths. */
+.hero, .examples { min-width: 0; }
+
+/* ────────────────────────────────────────────── */
+/* Peg labels                                     */
+/* ────────────────────────────────────────────── */
+.peg {
+  display: flex;
   align-items: center;
   gap: 12px;
-  background:
-    radial-gradient(circle at 12% 18%, rgba(255, 255, 255, 0.75), transparent 45%),
-    radial-gradient(circle at 82% 0%, rgba(14, 76, 138, 0.08), transparent 35%),
-    linear-gradient(175deg, var(--bg-color), var(--bg-color-soft));
+  font-family: var(--font-label);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
 }
-
-.date-header {
-  font-size: clamp(1.35rem, 5vw, 1.8rem);
-  color: var(--text-sub);
-  margin: 8px 0 1px;
-  font-weight: 700;
-  letter-spacing: -0.01em;
+.peg-square {
+  width: 7px;
+  height: 7px;
+  background: var(--accent);
+  flex: 0 0 7px;
 }
+.peg-is .peg-label,
+.peg-se .peg-label    { color: var(--accent); }
+.peg-daemi .peg-label { color: var(--muted); }
 
-.hero-card,
-.example-card {
+/* ────────────────────────────────────────────── */
+/* Headword (auto-fit container)                  */
+/* ────────────────────────────────────────────── */
+.headword-fit {
   width: 100%;
-  max-width: var(--card-width);
-  background: var(--card-bg);
-  border: 1px solid var(--card-border);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.75), var(--card-shadow);
+  margin-top: 14px;
+  position: relative;
 }
-
-.hero-card {
-  border-radius: var(--radius-lg);
-  padding: 1.2rem 1.4rem;
-  margin-bottom: 6px;
-}
-
-.hero-card hr {
-  border: none;
-  border-top: 1px solid var(--card-border);
-  margin: 0.85rem 0;
-}
-
-.word-group {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 8px;
-}
-
-.flag {
-  font-size: 1.55rem;
-  line-height: 1;
-}
-
-.main-word {
-  font-family: 'Fraunces', serif;
-  font-size: clamp(2.4rem, 10.5vw, 3.35rem);
-  font-weight: 700;
-  color: var(--accent);
+.headword-measure,
+.headword-visible {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+  line-height: 1.02;
   margin: 0;
-  letter-spacing: -0.03em;
-  line-height: 1.05;
+  white-space: nowrap;
+}
+.headword-measure {
+  position: absolute;
+  visibility: hidden;
+  pointer-events: none;
+  left: -99999px;
+  top: -99999px;
+}
+.headword-visible {
+  /* JS sets a px font-size; this clamp is the no-JS fallback. */
+  font-size: clamp(32px, 9vw, 76px);
+}
+@media (min-width: 720px) {
+  .headword-visible {
+    font-size: clamp(36px, 7vw, 92px);
+  }
+}
+.headword-visible.wraps {
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
+/* ────────────────────────────────────────────── */
+/* Gloss + inflection lines                       */
+/* ────────────────────────────────────────────── */
+.word-class {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 16px;
+  color: var(--muted);
+  margin: 14px 0 0;
+}
+.inflections {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 15px;
+  color: var(--muted);
+  opacity: 0.85;
+  margin: 4px 0 0;
+}
+
+/* ────────────────────────────────────────────── */
+/* Swedish translation list                       */
+/* ────────────────────────────────────────────── */
+.se-block { margin-top: 36px; }
 .translations {
-  font-size: 1.03rem;
-  line-height: 1.4;
-  color: var(--text-main);
+  font-family: var(--font-serif);
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 1.22;
+  color: var(--ink);
+  margin: 14px 0 0;
+}
+.translations .t { white-space: nowrap; }
+.translations .t + .t::before {
+  content: '·';
+  color: var(--accent);
+  font-style: italic;
+  margin: 0 0.5em;
+  white-space: normal;
+}
+
+/* ────────────────────────────────────────────── */
+/* Examples block                                 */
+/* ────────────────────────────────────────────── */
+.examples { /* section wrapper, no own decoration */ }
+.example-list {
+  list-style: none;
+  margin: 18px 0 0 14px;
+  padding: 0 0 0 22px;
+  border-left: 1px solid var(--accent);
+}
+.example {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.example:first-child { padding-top: 4px; }
+.example:last-child  { padding-bottom: 0; border-bottom: none; }
+.ex-is {
+  font-family: var(--font-serif);
+  font-size: 17px;
+  line-height: 1.5;
+  color: var(--ink);
   margin: 0;
-  overflow-wrap: anywhere;
+}
+.ex-se {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 6px 0 0;
 }
 
-.example-card {
-  border-radius: var(--radius-md);
-  padding: 1rem 1.2rem;
-}
-
-.sentence {
-  display: grid;
-  grid-template-columns: 1.6rem 1fr;
-  align-items: center;
-  column-gap: 10px;
-  margin-bottom: 8px;
-  font-size: 1rem;
-  line-height: 1.42;
-}
-
-.translation {
-  display: grid;
-  grid-template-columns: 1.6rem 1fr;
-  align-items: center;
-  column-gap: 10px;
-  color: var(--text-sub);
-  font-size: 0.95rem;
-  line-height: 1.42;
-  overflow-wrap: anywhere;
-}
-
-.sentence .flag,
-.translation .flag {
-  justify-self: center;
-}
-
-.line-text {
-  min-width: 0;
-}
-
-@media (max-width: 520px) {
-  body {
-    padding: 12px;
+/* ────────────────────────────────────────────── */
+/* Desktop                                        */
+/* ────────────────────────────────────────────── */
+@media (min-width: 720px) {
+  .folio {
+    padding: 56px 80px 14px;
+    margin-bottom: 56px;
   }
-
-  .date-header {
-    margin: 4px 0 0;
+  .page {
+    padding: 0 80px 64px;
+    grid-template-columns: minmax(50%, 1fr) 1.65fr;
+    gap: 96px;
   }
+  .word-class  { font-size: 18px; }
+  .inflections { font-size: 17px; }
+  .se-block    { margin-top: 44px; }
+  .translations { font-size: 34px; }
 
-  .hero-card {
-    padding: 1rem 1rem;
+  .example-list {
+    margin-top: 24px;
+    padding-left: 32px;
   }
-
-  .example-card {
-    padding: 0.95rem 1rem;
+  .example {
+    padding: 32px 0;
   }
+  .example:first-child { padding-top: 6px; }
+  .ex-is { font-size: 24px; }
+  .ex-se { font-size: 21px; margin-top: 12px; }
 }

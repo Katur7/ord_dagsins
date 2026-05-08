@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node src/server/server.ts)",
+      "Bash(npm test)",
+      "Bash(npm test *)",
+      "Bash(npm run test:watch)",
+      "Bash(npx vitest run)",
+      "Bash(npx vitest run *)",
+      "Bash(npm run dev)",
+      "Bash(npm start)"
+    ]
+  }
+}

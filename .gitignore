@@ -3,3 +3,4 @@ raw/
 processed/*
 !processed/shuffled.json
 .worktrees/
+.DS_Store
