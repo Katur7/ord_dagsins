@@ -8,7 +8,9 @@
     "dev": "node --watch src/server/server.ts",
     "preprocess": "node src/preprocess/build.ts",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "docker:build": "docker buildx build --platform linux/amd64 -t katur/ord_dagsins:latest --load .",
+    "docker:push": "docker buildx build --platform linux/amd64 -t katur/ord_dagsins:latest --push ."
   },
   "keywords": [],
   "author": "",
