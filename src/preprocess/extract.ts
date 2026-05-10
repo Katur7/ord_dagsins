@@ -31,6 +31,8 @@ export function parseOfl(ofl: string | null | undefined): { pos: string; gender:
     return { pos, gender };
 }
 
+export const MAX_TRANSLATIONS = 20;
+
 export function processItems(items: RawItem[]): { translations: string[]; examples: Example[] } {
     const translations: string[] = [];
     const seen = new Set<string>();
@@ -41,7 +43,7 @@ export function processItems(items: RawItem[]): { translations: string[]; exampl
             if (translation) {
                 examples.push({ is: subitem.texti, se: translation.texti });
             }
-        } else if (subitem.teg === 'SE-jafn' && !seen.has(subitem.texti)) {
+        } else if (subitem.teg === 'SE-jafn' && !seen.has(subitem.texti) && translations.length < MAX_TRANSLATIONS) {
             seen.add(subitem.texti);
             translations.push(subitem.texti);
         }

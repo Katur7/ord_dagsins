@@ -67,6 +67,19 @@ describe('processItems', () => {
         expect(processItems(items).translations).toEqual(['sin', 'hans', 'hennes']);
     });
 
+    it('caps translations at 20, preserving order', () => {
+        const items: RawItem[] = Array.from({ length: 25 }, (_, i) => ({
+            itid: i + 1,
+            texti: `gloss${i + 1}`,
+            paritem: -1,
+            teg: 'SE-jafn',
+        }));
+        const { translations } = processItems(items);
+        expect(translations).toHaveLength(20);
+        expect(translations[0]).toBe('gloss1');
+        expect(translations[19]).toBe('gloss20');
+    });
+
     it('ignores unrelated teg values', () => {
         const items: RawItem[] = [
             { itid: 1, texti: 'foo', paritem: -1, teg: 'FRAMB' },
