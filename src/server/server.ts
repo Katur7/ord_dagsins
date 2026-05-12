@@ -53,7 +53,7 @@ app.get('/', (req: express.Request, res: express.Response) => {
     return 0;
   });
 
-  if (req.header('Content-Type') === 'application/json') {
+  if (req.header('Content-Type') === 'application/json' || req.header('Accept') === 'application/json') {
     res.type('application/json');
     res.send({ date: dateString, ...word, examples: shuffledExamples });
     return;
