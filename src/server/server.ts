@@ -53,17 +53,18 @@ app.get('/', (req: express.Request, res: express.Response) => {
     return 0;
   });
 
+  const mappedPos = mapPos(word.pos);
+
   if (req.header('Content-Type') === 'application/json' || req.header('Accept') === 'application/json') {
     res.type('application/json');
-    res.send({ date: dateString, ...word, examples: shuffledExamples });
+    res.send({ date: dateString, ...word, pos: mappedPos, examples: shuffledExamples });
     return;
   }
 
   res.type('text/html');
-  const posWord = mapPos(word.pos);
   const genderWord = mapGender(word.gender);
-  const wordClassLine = posWord
-    ? (genderWord ? `${posWord} · ${genderWord}` : posWord)
+  const wordClassLine = mappedPos
+    ? (genderWord ? `${mappedPos} · ${genderWord}` : mappedPos)
     : null;
   res.render('index', {
     formattedDate: formatDateIs(dateString),
