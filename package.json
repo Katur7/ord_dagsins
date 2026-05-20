@@ -13,9 +13,9 @@
     "docker:push": "docker buildx build --platform linux/amd64 -t katur/ord_dagsins:latest --push ."
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Grímur",
+  "license": "MIT",
+  "description": "A daily Icelandic word with its Swedish translation and a couple of example sentences",
   "devDependencies": {
     "@types/express": "^5.0.5",
     "@types/node": "^24.9.1",
