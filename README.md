@@ -27,7 +27,7 @@ See [src/preprocess/README.md](src/preprocess/README.md) for the source schema, 
 
 ## Running
 
-Requires Node 22+ (the server runs `.ts` directly via Node's built-in TypeScript support).
+Requires Node 24+ (the server runs `.ts` directly via Node's built-in TypeScript support).
 
 ```
 npm install

@@ -17,12 +17,12 @@
   "license": "MIT",
   "description": "A daily Icelandic word with its Swedish translation and a couple of example sentences",
   "devDependencies": {
-    "@types/express": "^5.0.5",
-    "@types/node": "^24.9.1",
-    "vitest": "^4.1.5"
+    "@types/express": "^5.0.6",
+    "@types/node": "^24.19.2",
+    "vitest": "^5.0.5"
   },
   "dependencies": {
-    "express": "^5.1.0",
-    "pug": "^3.0.3"
+    "express": "^5.3.0",
+    "pug": "^3.0.4"
   }
 }
